@@ -1,0 +1,934 @@
+,Number,Name_of_Covered_Entity,Region,Individuals_Affected,Date_of_Breach,Type_of_Breach,Location_of_Breached_Information,Date_Posted_or_Updated,Summary,breach_start,year
+0,1,Brooke Army Medical Center,Yishun,1000,10/16/2009,Theft,Paper,2014-06-30,"A binder containing the protected health information (PHI) of up to 1,272 individuals was stolen from a staff member's vehicle.  The PHI included names, telephone numbers, detailed treatment notes, and possibly social security numbers.  In response to the breach, the covered entity (CE) sanctioned the workforce member and developed a new policy requiring on-call staff members to submit any information created during their shifts to the main office instead of adding it to the binder.  Following OCR's investigation, the CE notified the local media about the breach.",2009-10-16,2009
+1,2,"Mid America Kidney Stone Association, LLC",Queenstown,1000,9/22/2009,Theft,Network Server,2014-05-30,"Five desktop computers containing unencrypted electronic protected health information (e-PHI) were stolen from the covered entity (CE).  Originally, the CE reported that over 500 persons were involved, but subsequent investigation showed that about 260 persons were involved.  The ePHI included demographic and financial information. The CE provided breach notification to affected individuals and HHS.  Following the breach, the CE improved physical security by installing motion detectors and alarm systems security monitoring.  It improved technical safeguards by installing enhanced antivirus and encryption software.  As a result of OCR's investigation the CE updated its computer password policy.  ",2009-09-22,2009
+2,3,Alaska Department of Health and Social Services,Woodlands,501,2009-12-10 00:00:00,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2009-10-12,2009
+3,4,"Health Services for Children with Special Needs, Inc.",Tampines,3800,2009-09-10 00:00:00,Loss,Laptop,2014-01-23,"A laptop was lost by an employee while in transit on public transportation.  The computer contained the protected health information of 3800 individuals.  The protected health information involved in the breach included names, Medicaid ID numbers, dates of birth, and primary physicians.  In response to this incident, the covered entity took steps to enforce the requirements of the Privacy & Security Rules.  The covered entity has installed encryption software on all employee computers, strengthened access controls including passwords, reviewed and updated security policies and procedures, and updated it risk assessment.  In addition, all employees received additional security training.  ",2009-10-09,2009
+4,5,"Cogent Healthcare of Wisconsin, S.C.",Bishan,6400,2009-11-10 00:00:00,Theft,Laptop,2014-04-23,"A laptop was stolen from a locked office at the Aurora St. Lukes Medical Center.  The laptop contained protected health information pertaining to 6,400 individuals.  The information included patient names, dates of birth, social security numbers, medical record numbers, and in some cases diagnosis codes.  In response to the theft, the hospital implemented several corrective action measures, including accelerated efforts to encrypt all laptop hard drives, improved physical locks on the office where the theft occurred, staff training regarding the appropriate use and storage of devices containing ePHI, and encryption of portable flash drives and Blackberry devices.",2009-10-11,2009
+5,6,Universal American,Sengkang,83000,2009-12-11 00:00:00,Other,Paper,2014-01-23,"In its breach report and during the course of OCR's investigation, the covered entity advised that it took various corrective actions to prevent a reoccurrence of the breach.  Specifically, the covered entity conducted a risk assessment which revealed that the breach posed a significant risk of financial, reputational, or other harm to the 83,000 members.  The covered entity sent notification letters to 83,000 members apologizing for the breach and offered a year of free credit monitoring and a $25,000 insurance policy against identity theft ($10,000 for New York residents).  The covered entity also provided training to its call centers on November 29, 2009 to answer inquiries from callers concerned about the breach.  In addition, media outlets were contacted to alert of a breach in states in which more than 500 members were impacted by the breach.  The covered entity advised that media outlets were identified based on location of membership impacted, as well as ensuring it was a major media outlet and press releases were sent to 21 major media outlets on December 18, 2009.  The covered entity also created and implemented a new policy titled 'Personal Health Information and Personal Identifiable Information Data Security and Handling Policy Acknowledgement Form'  that centralized all data requests through a 'Team Track'  which is an internal electronic submission request that ensures all PHI requested data receives the sign off of the Privacy Officer and Security Officer prior to release.  Further, the covered entity also provided a mandatory annual computer-based training to all staff in May 2010.",2009-11-12,2009
+6,7,"Keith W. Mann, DDS, PLLC",Bukit Panjang,2000,2009-08-12 00:00:00,Hacking/IT Incident,"Desktop Computer, Network Server, Electronic Medical Record",2014-01-23,,2009-12-08,2009
+7,8,Detroit Department of Health and Wellness Promotion,Newton,10000,10/22/2009,Theft,Other Portable Electronic Device,2014-01-23,,2009-10-22,2009
+8,9,Detroit Department of Health and Wellness Promotion,Newton,646,11/26/2009,Theft,"Laptop, Desktop Computer",2014-01-23,"A desktop and four laptop computers were stolen from the covered entity's locked facility.  The protected health information involved in the breach included names, addresses, dates of birth, social security numbers, types of services received, and Medicare/Medicaid numbers.Following the breach, the covered entity installed new office door locks with assigned keys, installed security cameras with alarms, and physically secured computers to desks.  The covered entity now stores billing information in its patient management system, and it ensured that no electronic protected health information was stored locally. Additionally, OCR's investigation resulted in the covered entity providing training to workforce members regarding the incident",2009-11-26,2009
+9,10,Daniel J. Sigman MD PC,Paya Lebar,1860,2009-11-12 00:00:00,Theft,"Other Portable Electronic Device, Other, Electronic Medical Record",2014-01-23,"Computer backup tapes containing EPHI for the office practice management program including electronic medical records were stolen from the home of the practice manager on December 11, 2009.   The breach affected approximately 1,860 patients. The protected health information on the tapes contained patients' names, addresses, telephone numbers, dates of birth, insurance information, social security numbers and medical record information.  Following the breach, Sigman took the following voluntary corrective actions: (1) upgraded software application for backup security",2009-12-11,2009
+10,11,BlueCross BlueShield Association,Tampines,3400,10/26/2009,Theft,Paper,2014-06-30,"The covered entity's (CE) business associate (BA) incorrectly updated contract holders' addresses and mailed protected health information (PHI) to the wrong address of approximately 3,400 individuals.  The PHI involved included demographic information, explanations of benefits, clinical information, and diagnoses.  The breach incident involved a BA and occurred prior to the September 23, 2013, compliance date.  Upon discovery of the breach, the CE obtained assurances that the BA took steps to enforce the requirements of the BA agreement.  Specifically, the BA updated its processes and created an incident tracking report.  In addition, a contract was executed for a new vendor to handle mail address verification. Following OCR's investigation, the BA improved its code review process to catch the system error that caused this incident and instituted a manual quality review process.  OCR verified that the CE had a proper BA agreement in place that restricted the BA's use and disclosure of PHI and required the BA to safeguard all PHI.",2009-10-26,2009
+11,12,Kaiser Permanente Medical Care Program,Yio Chu Kang,15500,2009-01-12 00:00:00,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2009-12-01,2009
+12,13,Blue Island Radiology Consultants,Boon Lay,2562,2009-09-12 00:00:00,Theft,Other,2014-06-30,The covered entity's (CE's) business associate (BA) mailed a package to the CE that was supposed to contain a backup data tape and compact disc containing protected health information (PHI),2009-12-09,2009
+13,14,Concentra,Yishun,900,11/19/2009,Theft,Laptop,2014-01-23,,2009-11-19,2009
+14,15,Ashley and Gray DDS,Queenstown,9309,2010-10-01 00:00:00,Theft,Desktop Computer,2014-01-23,,2010-01-10,2010
+15,16,Advocate Health Care,Boon Lay,812,11/24/2009,Theft,Laptop,2014-01-23,"On November 24, 2009, an Advocate nurse's laptop computer was stolen.  The missing laptop computer contained the protected health information of approximately 812 individuals.  The protected health information involved in the breach included name, address, dates of birth, social security numbers, insurance information, medication, and diagnoses. Following the breach, Advocate specifically addressed mobile device security and accepted use. Additionally, OCR's investigation resulted in Advocate workforce members that use mobile devices are now required to fill out and submit an acknowledgment form that establish proper administrative, technical, and physical security safeguards.  ",2009-11-24,2009
+16,17,Carle Clinic Association,Boon Lay,1300,1/13/2010,Theft,"Other, Paper",2014-01-23,,2010-01-13,2010
+17,18,Educators Mutual Insurance Association of Utah ,Farrer Park,5700,12/27/2009,Theft,Other,2014-01-23,,2009-12-27,2009
+18,19,University Medical Center of Southern Nevada,Hougang,5103,10/31/2009,Theft,Paper,2014-01-23,"Between the dates of July 31, 2009 and November 19, 2009, a former UMC volunteer faxed patient face sheets to an attorney who used the sheets to contact prospective clients.  Although UMC only had proof of two disclosures, it chose to notify all 5,301 individuals that could have been affected by the breach.  The protected health information involved in the breach included names, addresses, dates of birth, social security numbers, and diagnoses.  Following the breach, UMC conducted an internal investigation, notified all 5,301 individuals, notified the media, and notified the Secretary.  Additionally, UMC reformulated face sheets so that they no longer include full social security numbers and provided all possible affected individuals with a year of free credit monitoring.  As a result of this breach, at least one person has been indicted on one count of conspiracy to illegally disclose personal health information in violation of the HIPAA",2009-10-31,2009
+19,20,Brown University,Pasir Ris,528,2009-11-12 00:00:00,Other,Paper,2014-01-23,"On January 5, 2010, BCBSRI was notified that a 16 page report pertaining to Brown University's health plan was impermissibly disclosed to two other BCBSRI agents.  The reports contained the PHI of approximately 528 individuals.  The PHI involved: first and last names, dates of service, cost of medical care provided, and member identification numbers.  Following the breach, BCBSRI recovered the reports, received written assurances that any electronic copies of the reports were deleted, notified affected individuals of the breach, implemented new procedure for all outgoing correspondence, and is in the process of auditing all affected members' claim history to ensure no fraud.",2009-12-11,2009
+20,21,University of New Mexico Health Sciences Center,Choa Chu Kang,1900,2010-08-02 00:00:00,Other,Desktop Computer,2014-01-23,,2010-02-08,2010
+21,22,Advanced NeuroSpinal Care,Yio Chu Kang,3500,12/30/2009,Theft,Network Server,2014-04-22,"A computer containing the electronic protected health information (ePHI) of 3,500 individuals was stolen from the office of a covered entity (CE).  The ePHI included patient names, addresses, dates of birth, social security numbers, driver's licenses, claims information, diagnoses, and conditions. As a result of the loss, the CE upgraded the alarm system and replaced the server housing and storage security lock-up.  The CE also notified affected individuals, the media, appropriate government agencies, and law enforcement.  In addition, the CE established an office-based hotline to assist affected individuals.  As a result of OCR's investigation, the CE has implemented regularly scheduled security risk analyses and has installed window bars, roll down shutters, four video surveillance cameras, and other physical security measures to prevent theft.",2009-12-30,2009
+22,23,Aspen Dental Care P.C.,Redhill,2500,2009-04-10 00:00:00,Theft,Other,2014-06-30,"A computer hard drive containing encrypted patient records was stolen from the covered entity's (CE) safe.  The hard drive contained clinical and demographic information of approximately 2,500 patients.  Following the breach, the CE provided additional training to its staff.  OCR obtained assurances that the CE implemented the corrective action listed above.",2009-10-04,2009
+23,24,Thrivent Financial for Lutherans,Simei,9500,1/29/2010,Theft,Laptop,2014-01-23,"On January 29, 2010, there was a break-in at one of the Thrivent's offices and five laptop computers were stolen",2010-01-29,2010
+24,25,Montefiore Medical Center,Sengkang,625,2/20/2010,Theft,Laptop,2014-06-03,"An unencrypted laptop computer containing the electronic protected health information (ePHI) of 625 individuals was stolen from the covered entity's (CE) mobile dental van.  The ePHI included names, dates of birth, medical record numbers and dental x-rays.  Upon discovery of the breach, the CE filed a police report and provided breach notification to HHS, the media and affected individuals.  As a result of OCR's investigation, the CE revised its procedures so that all ePHI is stored in a data center, rather than the mobile dental van laptop.  In addition, the CE encrypted all mobile dental van laptops and improved physical security for the van.  The CE developed a new policy on ePHI security and retrained all staff.  OCR obtained assurances that the CE implemented the corrective action listed above.",2010-02-20,2010
+25,26,"Ernest T. Bice, Jr. DDS, P.A.",Yishun,21000,2/20/2010,Theft,"Other Portable Electronic Device, Other",2014-01-23,"Three unencrypted external back-up drives were stolen from a safe in the covered entity's locked office.  The laptop computer contained the protected health information of approximately 21,000 individuals.  The protected health information involved in the breach included names, addresses phone numbers, dates of birth, social security numbers, insurance information, and treatment histories.  Following the breach, the covered entity moved back-up data offsite and encrypted all workstations.  Additionally, OCR's investigation resulted in the covered entity improving their physical safeguards and in retraining employees.",2010-02-20,2010
+26,27,Griffin Hospital,Admiralty,957,2010-04-02 00:00:00,Hacking/IT Incident,Network Server,2014-01-23,,2010-02-04,2010
+27,28,"Hypertension, Nephrology, Dialysis and Transplantation, PC",Clementi,2465,2010-06-03 00:00:00,Theft,Laptop,2014-01-23,,2010-03-06,2010
+28,29,Reliant Rehabilitation Hospital North Houston,Yishun,768,2010-09-02 00:00:00,Unauthorized Access/Disclosure ,E-mail,2014-01-23,,2010-02-09,2010
+29,30,"Laboratory Corporation of America / US LABS / Dianon Systems, Inc",Toa Payoh,2773,2/18/2010,Theft,Other Portable Electronic Device,2014-01-23,,2010-02-18,2010
+30,31,University of Pittsburgh Student Health Center,Serangoon,8000,2010-11-03 00:00:00,"Theft, Loss",Paper,2014-01-23,,2010-03-11,2010
+31,32,Providence Hospital,Newton,83945,2010-04-02 00:00:00,Other,Other,2014-01-23,,2010-02-04,2010
+32,33,VHS Genesis Lab Inc. ,Boon Lay,6800,2010-10-01 00:00:00,Loss,Paper,2014-01-23,,2010-01-10,2010
+33,34,John Muir Physician Network,Yio Chu Kang,5450,2010-04-02 00:00:00,Theft,Laptop,2014-01-23,,2010-02-04,2010
+34,35,Beatrice Community Hospital and Health Center,Bukit Batok,660,3/19/2010,Other,Paper,2014-01-23,,2010-03-19,2010
+35,36,Pediatric Sports and Spine Associates,Yishun,955,2010-10-02 00:00:00,Theft,Laptop,2014-01-23,"An unencrypted laptop was stolen from an employee's vehicle.  The laptop contained the protected health information of approximately 955 individuals.  The protected health information involved in the breach included names, addresses, dates of birth, social security numbers, diagnoses, medications and other treatment information.  Following the discovery of the breach, the covered entity revised policies, retrained staff and implemented additional physical and technical safeguards including encryption software.  The covered entity also removed the stolen laptop's access to the server, sanctioned the involved employee, notified the affected individuals and notified the local media.  ",2010-02-10,2010
+36,37,Tomah Memorial Hospital,Simei,600,3/19/2010,Other,Other,2014-01-23,,2010-03-19,2010
+37,38,"Praxair Healthcare Services, Inc. (Home Care Supply in NY)",Admiralty,54165,2/18/2010,Theft,Laptop,2014-01-23,"A laptop computer was stolen from the covered entity's office by a former employee after it had been damaged. The laptop computer contained the PHI of approximately 54,165 individuals.  The computer contained a limited amount of PHI, including client names and one or more of the following: addresses, phone numbers, social security numbers, insurance provider names and policy numbers, medical diagnostic codes or medical equipment.  Following the breach, the covered entity notified all affected individuals, the media, and HHS of the breach. Additionally, the covered entity completed its laptop encryption project to cover all PHI stored on computers in the office.  Additionally, OCR's investigation resulted in the covered entity reinforcing the requirements of HIPAA to its employees.",2010-02-18,2010
+38,39,Blue Cross & Blue Shield of Rhode Island,Pasir Ris,12000,12/20/2009,Theft,Paper,2014-06-30,"A covered entity (CE) donated a file cabinet containing the protected health information (PHI) of 12,000 individuals before cleaning it out.  The PHI included members' names, addresses, telephone numbers, social security numbers, and Medicare identification numbers.  The covered entity (CE) provided breach notification to HHS, the affected individuals, and media, and offered all affected individuals free credit monitoring for a period of one year.  Following the breach, the CE sanctioned the employees involved in the incident and held a mandatory training regarding the HIPAA Privacy and Security Rule for all departments involved in the breach. The CE also revised the policy for office moves.  OCR obtained assurances that the CE implemented the corrective action listed above.",2009-12-20,2009
+39,40,St. Joseph Heritage Healthcare,Yio Chu Kang,22012,2010-06-03 00:00:00,Theft,Desktop Computer,2014-01-23,"22 computers were stolen from Clinical Management Service office.Five of the stolen computers contained the protected health information of approximately 22,012 individuals. The protected health information involved in the breach included name, date of birth, social security number, referral number, encounter number, facility, member ID, diagnosis, procedure, and/or diagnosis code. As a result of this incident, St. Joseph notified the potentially affected individuals, notified the local media, installed security cameras, re-trained employees, and installed encryption software on all laptops and Computers enterprise-wide. OCR's investigation resulted in the covered entity improving their physical and technological safeguards and retraining employees.",2010-03-06,2010
+40,41,GENERAL AGENCIES WELFARE BENEFITS PROGRAM,Bishan,1874,2010-05-02 00:00:00,Loss,Other,2014-01-23,,2010-02-05,2010
+41,42,UnitedHealth Group health plan single affiliated covered entity,Chai Chee,735,2010-02-03 00:00:00,Theft,"Other, Paper",2014-01-23,,2010-03-02,2010
+42,43,South Texas Veterans Health Care System,Yishun,1430,9/30/2009,"Loss, Improper Disposal",Paper,2014-01-23,,2009-09-30,2009
+43,44,Rockbridge Area Community Services,Marine Parade,500,2010-12-03 00:00:00,Theft,"Laptop, Desktop Computer",2014-01-23,,2010-03-12,2010
+44,45,"Emergency Healthcare Physicians, Ltd.",Boon Lay,180111,2/27/2010,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2010-02-27,2010
+45,46,VA Eastern Colorado Health Care System,Redhill,649,1/19/2010,Theft,Paper,2014-06-19,"A covered entity's (CE's) employee placed paper records containing protected health information (PHI) in an unsecured box that was left undiscovered in a public parking garage for four days.  The box contained the PHI of 649 patients.  The PHI included treatment records, productivity reports, coding information, names, medical treatments, conditions, diagnoses, and social security numbers.  Upon discovery of the breach, the CE notified the affected individuals and provided credit protection to those whose social security numbers had been breached.  The CE provided OCR with copies of its breach prevention policies and procedures. Following OCR's investigation, the employee who left the records resigned from her position and the CE improved its breach response procedures. ",2010-01-19,2010
+46,47,Miami VA Healthcare System,Sembawang,568,1/19/2010,Loss,Paper,2014-01-23,,2010-01-19,2010
+47,48,"Heriberto Rodriguez-Ayala, M.D.",Yishun,4200,2010-03-04 00:00:00,Theft,Laptop,2014-01-23,,2010-04-03,2010
+48,49,Loma Linda University Health Care,Yio Chu Kang,584,2010-04-04 00:00:00,Theft,Desktop Computer,2014-01-23,,2010-04-04,2010
+49,50,Veterans Health Administration,Tampines,656,4/22/2010,Theft,Laptop,2014-01-23,,2010-04-22,2010
+50,51,"State of New Mexico Human Services Department, Medical Assistance Division",Choa Chu Kang,9600,3/20/2010,Theft,Laptop,2014-01-23,,2010-03-20,2010
+51,52,Oconee Physician Practices,Little India,653,2010-09-05 00:00:00,Theft,Laptop,2014-01-23,,2010-05-09,2010
+52,53,University of Rochester Medical Center and Affiliates,Sengkang,2628,4/19/2010,Other,Paper,2014-01-23,,2010-04-19,2010
+53,54,Omaha Construction Industry Health and Welfare Plan,Bukit Batok,800,2009-11-01 00:00:00,Theft,Laptop,2014-01-23,,2009-01-11,2009
+54,55,"City of Charlotte, NC (Health Plan)",Bukit Panjang,5220,2010-03-02 00:00:00,Loss,Other,2014-01-23,,2010-02-03,2010
+55,56,VA North Texas Health Care System,Yishun,4083,2010-04-05 00:00:00,Improper Disposal,Paper,2014-01-23,,2010-05-04,2010
+56,57,Occupational Health Partners,Alexandra,1105,2010-12-05 00:00:00,Theft,Laptop,2014-01-23,,2010-05-12,2010
+57,58,"AvMed, Inc.",Sembawang,1220000,2009-10-12 00:00:00,Theft,Laptop,2014-06-30,"Two laptop computers with questionable encryption (each containing the electronic protected health information (ePHI) of 350,000 individuals) were stolen from the covered entity's (CE) premises.  The types of ePHI involved included demographic and clinical information, diagnoses/conditions, medications, lab results, and other treatment data.  After discovering the breach, the CE reported the theft to law enforcement and worked with the local police to recover the laptops.  As a result of OCR's investigation, the CE developed and implemented new policies and procedures to comply with the Security Rule.  The CE also provided breach notification to all affected individuals, HHS, and the media and placed an accounting of disclosures in the medical records of all affected individuals.",2009-12-10,2009
+58,59,St. Jude Children's Research Hospital,Bishan,1745,4/19/2010,Loss,Laptop,2014-01-23,,2010-04-19,2010
+59,60,Comprehensive Care Management Corporation,Sengkang,1020,4/30/2010,Theft,"Laptop, Desktop Computer, Network Server, E-mail",2014-06-19,"OCR opened an investigation of the covered entity (CE), Comprehensive Care Management Corporation, after it reported two former employees sent emails that contained the electronic protected health information (ePHI) of 1,020 individuals to their personal email accounts to open a competitor organization.  The ePHI included names, addresses, and enrollment information.  Upon discovery of the breach, the CE conducted an internal inquiry and found that the former employees disclosed the ePHI to its competitor.  As a result of OCR's investigation, the CE replaced and strengthened external firewalls, restricted access to email websites, restricted the use of portable devices, limited the ability to upload data to external websites, and evaluated new monitor and control software for network information.  In addition, the CE provided training to all staff on its HIPAA policies and procedures.  The CE also entered into an agreement with its competitor who hired the former employees to return or destroy the ePHI.",2010-04-30,2010
+60,61,alma aguado md pa,Yishun,600,5/29/2010,Theft,Network Server,2014-04-23,"OCR investigated the covered entity (CE) following a report that its main server and desktop computers containing the electronic protected health information (ePHI) of 600 individuals were taken from the CE's office.  The ePHI involved in the breach included patient names, addresses, dates of birth, and social security numbers.  As a result of OCR's investigation, the CE changed its privacy and security policies, retrained its employees and provided additional physical security to better safeguard patient ePHI.",2010-05-29,2010
+61,62,University Hospital,Eunos,14000,2010-07-05 00:00:00,Loss,Other,2014-01-23,,2010-05-07,2010
+62,63,University Health System,Hougang,7526,2010-11-06 00:00:00,Theft,Network Server,2014-01-23,,2010-06-11,2010
+63,64,Children's Hospital & Research Center at Oakland,Yio Chu Kang,1000,5/25/2010,Other,Paper,2014-01-23,,2010-05-25,2010
+64,65,Centerstone,Bishan,1537,2010-01-05 00:00:00,Other,"Desktop Computer, Paper",2014-01-23,,2010-05-01,2010
+65,66,California Department of Healthcare Services,Yio Chu Kang,29000,4/29/2010,"Loss, Other","Other Portable Electronic Device, Other",2014-01-23,,2010-04-29,2010
+66,67,Long Island Consultation Center,Sengkang,800,5/21/2010,Theft,"Other Portable Electronic Device, Other",2014-06-19,"The covered entity (CE), Long Island Consultation Center, misplaced an unencrypted portable device that contained the electronic protected health information (ePHI) of 800 individuals.  The ePHI included names, dates of birth, diagnoses, and other treatment information.  Upon discovery of the breach, the CE conducted a search for the portable device.  The CE provided breach notification to HHS, the media, and affected individuals.  As a result of OCR's investigation, the CE improved physical security.   The CE also developed and implemented a policy and procedure prohibiting use of portable media for storing ePHI and trained staff on its new policy. ",2010-05-21,2010
+67,68,NYU Hospitals Center,Sengkang,2563,2010-08-05 00:00:00,Theft,Other Portable Electronic Device,2014-05-28,"The covered entity (CE) misplaced an unencrypted USB drive that contained the electronic protected health information (ePHI) of 2,563 individuals.  The ePHI included names, medical record numbers, ages, genders, procedures, attending physicians' names, anesthesiologists' names, types of anesthesia, times of arrival in the recovery room, and times of discharge.  Upon discovery of the breach, the CE reported the incident to internal security as a possible theft and conducted a thorough search of the perimeter.  The CE provided breach notification to HHS, the media, and affected individuals.  As a result of OCR's investigation, the CE stopped using USB drives and local desktop computers for data storage.  In addition, the CE updated physical security in the recovery room and installed data prevention software to monitor, block or encrypt mobile media used in the CE.  Further, the CE purchased encrypted USB drives for workforce members with an identified need to download and store ePHI.  The CE also revised its mobile device and portable storage media policy and retrained all workforce members on its policies.",2010-05-08,2010
+68,69,University of Florida,Sembawang,2047,5/24/2010,Other,Paper,2014-01-23,,2010-05-24,2010
+69,70,SunBridge Healthcare Corporation,Choa Chu Kang,3830,2010-11-05 00:00:00,Theft,Laptop,2014-01-23,,2010-05-11,2010
+70,71,Department of Health Care Policy & Financing,Redhill,105470,5/17/2010,Theft,Desktop Computer,2014-01-23,,2010-05-17,2010
+71,72,Prince William County Community Services (CS),Marine Parade,669,6/18/2010,Theft,Other Portable Electronic Device,2014-01-23,,2010-06-18,2010
+72,73,South Shore Hospital,Paya Lebar,800000,2/26/2010,Loss,"Other Portable Electronic Device, Other, Electronic Medical Record",2014-01-23,,2010-02-26,2010
+73,74,Montefiore Medical Center,Sengkang,16820,5/22/2010,Theft,Desktop Computer,2014-06-19,"Two unencrypted desktop computers containing the electronic protected health information (ePHI) of 16,820 individuals were stolen from the covered entity (CE).  The ePHI included medical record numbers, dates of birth, admission /discharge dates, billing codes, and social security numbers.  Upon discovery of the breach, the CE filed a police report and provided breach notification to HHS, the media, and affected individuals.  It also provide substitute notification by posting on its website.  As a result of OCR's investigation, the CE replaced its building alarm and installed bars on the windows.  In addition, the CE directed its staff to save patient data only on a centralized network drive, moved all ePHI stored on desktop hard drives to centralized secured network servers, and encrypted all of its computers.   The CE also revised its policy and procedure on password management and provided training to all staff on its new policy.",2010-05-22,2010
+74,75,"DC Chartered Health Plan, Inc",Tampines,540,5/26/2010,Theft,Laptop,2014-01-23,,2010-05-26,2010
+75,76,Montefiore Medical Center,Sengkang,23753,2010-09-06 00:00:00,Theft,Desktop Computer,2014-06-19,"OCR opened an investigation of the covered entity (CE), Montefiore Medical Center, after it reported three unencrypted desktop computers were stolen that contained the electronic protected health information (ePHI) of 23,753 individuals.  The ePHI included names, medical record numbers, dates of birth, parent or guardian contact numbers, asthma diagnoses, vaccination information, and number of visits to the school health clinic.  Upon discovery of the breach, the CE filed a police report and provided breach notification to affected individuals, HHS, and the media.  As a result of OCR's investigation, the CE updated its building alarm to include additional motion sensors and installed surveillance cameras.  Further, the CE encrypted all of its computers, advised that no ePHI is stored on desktop hard drives, removed all ePHI from its computers, and stored ePHI on the centralized secured network servers.  The CE also revised its policy and procedure on password management and provided training to all staff on its new policy.",2010-06-09,2010
+76,77,Medina County OB/GYN,Jurong East,1200,6/13/2010,Improper Disposal,Paper,2014-01-23,,2010-06-13,2010
+77,78,Charles Mitchell MD,Yishun,6873,6/27/2010,Theft,Desktop Computer,2014-06-30,"A burglary occurred at the covered entity's (CE) facility and two desktop computers containing protected health information (PHI) were stolen.  Approximately 6873 individuals were affected.  The PHI involved included names, addresses, dates of birth, social security numbers, diagnoses and conditions, medications, and other treatment information.  OCR closed this investigation after determining that the individual who reported the breach worked for a CE no longer in existence.",2010-06-27,2010
+78,79,Humana Inc [case 4486],Kembangan,2631,6/25/2010,Other,Paper,2014-01-23,,2010-06-25,2010
+79,80,"WellPoint, Inc.",Novena,31700,2009-03-11 00:00:00,Hacking/IT Incident,Network Server,2014-01-23,,2009-11-03,2009
+80,81,Carolina Center for Development and Rehabilitation,Bukit Panjang,1590,6/24/2010,Theft,Paper,2014-06-30,"The covered entity's (CE) staff inadvertently sent twenty-three boxes containing the protected health information (PHI) of 1,590 patients to a recycling center.  The PHI included patients' full names, addresses, dates of birth, social security numbers, insurance identification numbers, driver's license numbers, diagnoses, medication information, checking and savings account numbers, credit and debit card numbers, and photographs of the patients.  Following the breach, the CE immediately took steps for the records to be returned.  The CE notified HHS, the media, and all individuals affected by the breach, and established a toll free number for patients to call for more information.  The CE cooperated with the state attorney general's investigation and suspended the responsible staff members.  Following OCR's investigation, the CE placed a record into its accounting of disclosure log for each individual affected and terminated the employment of the staff involved in the breach.  In addition, the CE revised its policies and procedures regarding the rights of individuals and safeguards for PHI, and re-trained staff.  ",2010-06-24,2010
+81,82,Trinity Health Corporation Welfare Benefit Plan,Newton,1073,3/29/2010,Loss,Other,2014-01-23,,2010-03-29,2010
+82,83,Texas Children's Hospital,Yishun,694,5/13/2010,Theft,Laptop,2014-01-23,,2010-05-13,2010
+83,84,Baylor College of Medicine,Yishun,1646,5/13/2010,Theft,Laptop,2014-04-24,"An unencrypted laptop containing electronic protected health information (ePHI) of approximately 1,618 individuals was stolen from the covered entity's (CE) affiliate.  The ePHI involved in the breach included names, medical reconciliation numbers, dates of service, diagnoses, and dates of birth.  Upon discovery of the breach, the CE and its affiliate jointly notified the affected individuals, OCR, and the local media.  Notifications were delayed at the request of law enforcement.  Following OCR's investigation, the CE revised policies and procedures to require encryption of all mobile devices containing PHI and began encrypting all necessary devices in order to ensure reasonable safeguards.",2010-05-13,2010
+84,85,Fort Worth Allergy and Asthma Associates,Yishun,25000,6/29/2010,Theft,Network Server,2014-01-23,,2010-06-29,2010
+85,86,Jewish Hospital,Kembangan,2089,7/16/2010,Theft,Laptop,2014-01-23,,2010-07-16,2010
+86,87,UNCG Speech and Hearing Center,Bukit Panjang,2300,1997-01-01 00:00:00,Hacking/IT Incident,Desktop Computer,2014-01-23,,1997-01-01,1997
+87,88,"Ward A. Morris, DDS",Punggol,2698,7/16/2010,Theft,Desktop Computer,2014-01-23,,2010-07-16,2010
+88,89,"Chattanooga Family Practice Associates, P.C.",Bishan,1711,7/15/2010,Loss,"Other Portable Electronic Device, Other",2014-01-23,,2010-07-15,2010
+89,90,Yale University,Admiralty,1000,7/28/2010,Theft,Laptop,2014-01-23,,2010-07-28,2010
+90,91,University of Kentucky,Kembangan,2027,6/18/2010,Theft,Laptop,2014-01-23,,2010-06-18,2010
+91,92,Holyoke Medical Center,Paya Lebar,24750,7/26/2010,Improper Disposal,Paper,2014-01-23,,2010-07-26,2010
+92,93,Newark Beth Israel Medical Center,Bedok,956,2010-10-05 00:00:00,Theft,"Other Portable Electronic Device, Other",2014-06-19,"OCR opened an investigation of the covered entity (CE), Newark Beth Israel Medical Center, after it reported an employee of the CE's business associate (BA), KPMG LLP, lost an unencrypted USB drive that contained the electronic protected health information (ePHI) of 956 individuals.  The ePHI included names and clinical information.  Upon discovery of the breach, the CE's BA conducted a search of the area.  The CE provided breach notification to HHS, the Media and affected individuals.  As a result of OCR's investigation, the BA installed and implemented encryption software to its electronic equipment and devices.  In addition, the BA encrypted and password protected all equipment and devices that could contain the CE's data.  The BA also reprimanded and retrained the employee and retrained all employees on safeguarding ePHI.  The breach incident involved a BA and occurred prior to the September 23, 2013, compliance date.  OCR verified that the CE had a proper BA agreement in place that restricted the BA's use and disclosure of PHI and required the BA to safeguard all PHI.",2010-05-10,2010
+93,94,Saint Barnabas Medical Center,Bedok,3630,2010-10-05 00:00:00,Theft,Other Portable Electronic Device,2014-06-19,"The covered entity (CE), Long Island Consultation Center, misplaced an unencrypted portable device that contained the electronic protected health information (ePHI) of 800 individuals.  The ePHI included names, dates of birth, diagnoses, and other treatment information.  Upon discovery of the breach, the CE conducted a search for the portable device.  The CE provided breach notification to HHS, the media, and affected individuals.  As a result of OCR's investigation, the CE improved physical security.   The CE also developed and implemented a policy and procedure prohibiting use of portable media for storing ePHI and trained staff on its new policy. ",2010-05-10,2010
+94,95,NYU School of Medicine--Aging and Dementia Clinical Research Center ,Sengkang,1200,2010-03-04 00:00:00,Loss,"Other Portable Electronic Device, Other",2014-01-23,,2010-04-03,2010
+95,96,University of Rochester Medical Center and Affiliates,Sengkang,857,2010-02-08 00:00:00,Loss,Other Portable Electronic Device,2014-01-23,,2010-08-02,2010
+96,97,Mayo Clinic,Chai Chee,1740,7/15/2009,Unauthorized Access/Disclosure,Electronic Medical Record,2014-01-23,,2009-07-15,2009
+97,98,LabCorp Patient Service Center,Hougang,507,2010-02-08 00:00:00,Theft,Paper,2014-01-23,,2010-08-02,2010
+98,99,The Kent Center ,Pasir Ris,1361,7/13/2010,Theft,Paper,2014-01-23,,2010-07-13,2010
+99,100,"Pediatric and Adult Allergy, PC",Bukit Merah,19222,2010-11-07 00:00:00,Loss,Other Portable Electronic Device,2014-01-23,,2010-07-11,2010
+100,101,Ault Chiropractic Center,Novena,2000,9/15/2010,Theft,"Laptop, Desktop Computer",2014-01-23,,2010-09-15,2010
+101,102,County of Los Angeles,Yio Chu Kang,33000,7/29/2010,Theft,Paper,2014-01-23,,2010-07-29,2010
+102,103,"Matthew H. Conrad, M.D., P.A.",Alexandra,1200,8/20/2010,Theft,"Laptop, Paper",2014-01-23,,2010-08-20,2010
+103,104,UnitedHealth Group health plan single affiliated covered entity,Chai Chee,1270,2010-08-07 00:00:00,Other,Paper,2014-01-23,,2010-07-08,2010
+104,105,Counseling and Psychotherapy of Throggs Neck,Sengkang,9000,2010-06-09 00:00:00,Theft,Desktop Computer,2014-01-23,,2010-09-06,2010
+105,106,United States Air Force,Jurong East,2123,7/29/2010,Improper Disposal,Paper,2014-01-23,,2010-07-29,2010
+106,107,"State of Alaska, Department of Health and Social Services",Woodlands,2000,2010-07-09 00:00:00,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2010-09-07,2010
+107,108,"St. Vincent Hospital and Health Care Center, Inc.",Novena,1199,7/25/2010,Theft,Laptop,2014-01-23,,2010-07-25,2010
+108,109,Milford Regional Medical Center,Paya Lebar,20000,7/26/2010,Improper Disposal,Paper,2014-01-23,,2010-07-26,2010
+109,110,"University of Oklahoma - Tulsa, Neurology Clinic",Bukit Gombak,19200,7/28/2010,Hacking/IT Incident,Desktop Computer,2014-01-23,,2010-07-28,2010
+110,111,"LORENZO BROWN, MD INC.",Yio Chu Kang,928,8/17/2010,Theft,Desktop Computer,2014-01-23,,2010-08-17,2010
+111,112,"Milton Pathology Associates, P.C.",Paya Lebar,11000,7/26/2010,Improper Disposal,Paper,2014-01-23,,2010-07-26,2010
+112,113,"BlueCross BlueShield of Tennessee, Inc.",Bishan,1023209,2009-02-10 00:00:00,Theft,Other,2014-01-23,,2009-10-02,2009
+113,114,Northridge Hospital Medical Center,Yio Chu Kang,716,10/16/2010,Loss,Paper,2014-01-23,,2010-10-16,2010
+114,115,Puerto Rico Department of Health,Ang Mo Kio,115000,2010-03-09 00:00:00,Unauthorized Access/Disclosure,"Other Portable Electronic Device, Other",2014-01-23,,2010-09-03,2010
+115,116,VNA of Southeastern Ct.,Admiralty,12000,9/30/2010,Theft,Laptop,2014-01-23,,2010-09-30,2010
+116,117,"Prime Home Care, LLC",Bukit Batok,1550,9/13/2010,Theft,Desktop Computer,2014-01-23,,2010-09-13,2010
+117,118,Visiting Nurse Service Association of Schenectady County,Sengkang,535,9/14/2010,Theft,Laptop,2014-06-19,"An encrypted laptop computer that contained the electronic protected health information (ePHI) of 535 individuals was stolen from the covered entity (CE).  The ePHI included names, addresses, and dates of birth.  Upon discovery of the breach, the CE filed a police report to recover the stolen item.  Following OCR's investigation, the CE disabled the involved staff member's account, verbally counseled the staff member, and retrained the staff member.  The CE also adopted and implemented security policies and procedures for laptops/tablet devices and provided training to all staff.",2010-09-14,2010
+118,119,"Manor Care Indy (South), LLC.",Novena,845,2010-11-09 00:00:00,Unauthorized Access/Disclosure,Paper,2014-01-23,,2010-09-11,2010
+119,120,"Robert Wheatley, DDS, PC",Queenstown,1400,10/17/2010,Theft,Laptop,2014-01-23,,2010-10-17,2010
+120,121,Henry Ford Hospital,Newton,3700,9/24/2010,Theft,Laptop,2014-01-23,,2010-09-24,2010
+121,122,Holy Cross Hospital,Sembawang,1500,7/27/2010,Theft,Paper,2014-01-23,,2010-07-27,2010
+122,123,Newark Beth Israel Medical Center,Bedok,1744,2010-01-01 00:00:00,Theft,Network Server,2014-06-19,"The covered entity's (CE) business associate (BA), Professional Transcription Company, posted the electronic protected health information (ePHI) of 1,744 individuals on a website portal of the BA.  The ePHI included names, dates of birth, diagnosis, and other clinical information.  Upon discovery of the breach, the BA shut down the applicable server.  The CE, Newark Beth Israel Medical Center, provided breach notification to HHS, the media, and affected individuals and also posted substitute notice on its website.  As a result of OCR's investigation, the BA located the ePHI online and contacted Google to block files that contained ePHI.  In addition, the BA retrained all employees regarding its security policies.  The CE terminated its BA agreement with the BA.  The breach incident involved a BA and occurred prior to the September 23, 2013, compliance date.  OCR verified that the CE had a proper BA agreement in place that restricted the BA's use and disclosure of PHI and required the BA to safeguard all PHI.",2010-01-01,2010
+123,124,Memorial Hospital of Gardena,Yio Chu Kang,771,10/14/2010,Unauthorized Access/Disclosure,Paper,2014-01-23,,2010-10-14,2010
+124,125,Oklahoma City VA Medical Center,Bukit Gombak,1950,2010-08-10 00:00:00,"Theft, Loss, Improper Disposal",Paper,2014-01-23,,2010-10-08,2010
+125,126,Albert Einstein Healthcare Network,Serangoon,613,10/21/2010,Theft,Desktop Computer,2014-01-23,,2010-10-21,2010
+126,127,Kings County Hospital Center,Sengkang,542,8/22/2010,Theft,Desktop Computer,2014-06-19,"An unencrypted desktop computer that contained the electronic protected health information (ePHI) of 542 individuals was stolen from the covered entity (CE), Kings County Hospital Center.  The ePHI included names, medical record numbers, admission and treatment dates, diagnostic treatment, pathology and/or medication information, telephone numbers and ages.  Upon discovery of the breach, the CE filed a police report and provided breach notification to affected individuals, HHS, and the media.  As a result of OCR's investigation, the CE installed an encryption system for all internal and external computers and laptops.  The CE implemented a new policy that prohibits staff from storing ePHI on their local computer hard drives or Windows desktop.",2010-08-22,2010
+127,128,University of Tennessee Medical Center,Bishan,8200,9/23/2009,Improper Disposal,Paper,2014-01-23,,2009-09-23,2009
+128,129,Hospital Auxilio Mutuo,Ang Mo Kio,1000,2010-09-11 00:00:00,"Theft, Unauthorized Access/Disclosure, Hacking/IT Incident","Laptop, Desktop Computer",2014-01-23,,2010-11-09,2010
+129,130,Cook County Health & Hospitals System,Boon Lay,556,2010-01-11 00:00:00,Theft,Desktop Computer,2014-01-23,,2010-11-01,2010
+130,131,Riverside Mercy Hospital and Ohio/Mercy Diagnostics,Jurong East,1000,3/29/2003,Improper Disposal,Paper,2014-01-23,,2003-03-29,2003
+131,132,California Therapy Solutions,Yio Chu Kang,1250,2010-11-11 00:00:00,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2010-11-11,2010
+132,133,Osceola Medical Center,Simei,585,11/25/2010,Unauthorized Access/Disclosure,Other,2014-01-23,,2010-11-25,2010
+133,134,Indiana Family and Social Services Administration,Novena,757,2010-04-11 00:00:00,Theft,Laptop,2014-01-23,,2010-11-04,2010
+134,135,Mankato Clinic,Chai Chee,3159,2010-01-11 00:00:00,Theft,Laptop,2014-01-23,,2010-11-01,2010
+135,136,Geisinger Wyoming Valley Medical Center,Serangoon,2928,2010-03-11 00:00:00,Unauthorized Access/Disclosure,E-mail,2014-01-23,,2010-11-03,2010
+136,137,Our Lady of Peace Hospital,Kembangan,24600,3/31/2010,"Theft, Loss","Other Portable Electronic Device, Other",2014-01-23,,2010-03-31,2010
+137,138,International Union of Operating Engineers Health and Welfare Fund ,Tanglin,800,10/25/2010,Theft,Paper,2014-01-23,,2010-10-25,2010
+138,139,"Southern Perioperative Services, P.C.",Clementi,2000,11/17/2010,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2010-11-17,2010
+139,140,Keystone/AmeriHealth Mercy Health Plans,Serangoon,808,9/20/2010,Loss,"Other Portable Electronic Device, Other",2014-01-23,,2010-09-20,2010
+140,141,"Ankle + Foot Center of Tampa Bay, Inc.",Sembawang,156000,10/28/2010,Theft,Network Server,2014-06-30,"The covered entity's (CE) network server, containing the electronic protected health information (ePHI) of 136,000 patients, was hacked.  The types of ePHI involved in the breach were demographic and clinical information, including diagnoses and other treatment data.  Following the breach, the CE hired a third party vendor to resolve a data crash and to create a data back-up plan in order to restore office functioning.  To implement adequate safeguards, the CE also employed a cloud service with increased security as the new network server.  Additionally, the CE contacted the local FBI office to assist with the CE's internal investigation of the breach and provided breach notification to all affected individuals, the media, and HHS.  As a result of OCR's investigation, the CE developed and implemented new protocols to comply with the Security Rule.  In addition, the CE provided and initiated new trainings for its staff, completed hiring of a new network vendor, implemented a new electronic health records system, and accounted for the disclosures in the affected individuals' medical records.",2010-10-28,2010
+141,142,OhioHealth Corporation dba Grant Medical Center,Jurong East,501,2008-01-01 00:00:00,Theft,"Laptop, Desktop Computer",2014-01-23,,2008-01-01,2008
+142,143,"Seacoast Radiology, PA",Macpherson,231400,2010-12-11 00:00:00,Hacking/IT Incident,Network Server,2014-01-23,,2010-11-12,2010
+143,144,Friendship Center Dental Office,Sembawang,2200,12/19/2010,Theft,Laptop,2014-01-23,,2010-12-19,2010
+144,145,Centra,Marine Parade,11982,2010-11-11 00:00:00,Theft,Laptop,2014-01-23,,2010-11-11,2010
+145,146,St.Vincent Hospital - Indianapolis,Novena,1848,2010-12-11 00:00:00,Hacking/IT Incident,"Network Server, E-mail",2014-01-23,,2010-11-12,2010
+146,147,Texas Health Harris Methodist Hospital Azle,Yishun,9922,2010-07-04 00:00:00,"Theft, Loss","Other Portable Electronic Device, Other",2014-01-23,,2010-04-07,2010
+147,148,Franciscan Medical Group,Punggol,1250,11/18/2010,Theft,Desktop Computer,2014-01-23,,2010-11-18,2010
+148,149,State of South Carolina Budget and Control Board Employee Insurance Program (EIP),Little India,5596,2010-08-11 00:00:00,Hacking/IT Incident,Desktop Computer,2014-01-23,,2010-11-08,2010
+149,150,Lake Woods Nursing & Rehabilitation Center,Newton,656,12/28/2010,Theft,"Laptop, Desktop Computer",2014-01-23,,2010-12-28,2010
+150,151,"Benefit Resources, Inc.",Little India,16200,10/13/2010,Loss,"Other Portable Electronic Device, Other",2014-01-23,,2010-10-13,2010
+151,152,Baptist Memorial Hospital - Huntingdon,Bishan,4800,11/27/2010,Theft,Other,2014-04-23,"Two diskettes containing the electronic protected health information (ePHI) of approximately 4,754 individuals were lost by the Covered Entity's (CE) Business Associate (BA) after the package containing the diskettes was damaged by the mail carrier.  Although one of the diskettes was eventually found, the other diskette was never recovered.  The ePHI on the diskettes included names, addresses, dates of birth, social security numbers, and clinical information.  Upon discovery of the breach, the CE obtained a copy of the information contained on the diskettes and notified all affected individuals, OCR and the media.  Following OCR's investigation, the CE terminated its contract with the BA involved in the incident and provided evidence of the assurances in its BA agreement pertaining to the return or destruction of ePHI.  Lastly, the CE entered an accounting of disclosures for each affected individual into its electronic database.",2010-11-27,2010
+152,153,"Grays Harbor Pediatrics, PLLC",Punggol,12009,11/23/2010,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2010-11-23,2010
+153,154,"CHC MEMPHIS CMHC, LLC",Bishan,500,2010-04-12 00:00:00,Theft,Desktop Computer,2014-01-23,,2010-12-04,2010
+154,155,Jefferson Center for Mental Health,Redhill,546,12/13/2010,Theft,Paper,2014-01-23,,2010-12-13,2010
+155,156,Green River District Health Department,Kembangan,18871,2011-12-01 00:00:00,Hacking/IT Incident,Network Server,2014-01-23,,2011-01-12,2011
+156,157,"Ortho Montana, PSC",Telok Blangah,37000,2011-08-01 00:00:00,"Theft, Loss",Laptop,2014-02-14,,2011-01-08,2011
+157,158,Cancer Care Northwest P.S.,Punggol,3100,2011-07-01 00:00:00,Theft,Paper,2014-06-30,"The covered entity (CE) accidentally mailed the protected health information (PHI) of approximately 3,100 individuals to other individuals when a mail-merge process mismatched names and addresses.  The PHI involved in the breach included names and indicated that the individuals were patients of the CE.  Following the breach, the CE implemented additional safeguards, as well as policies and procedures to ensure mailing list accuracy.  As a result of this incident, OCR required the CE to train its workforce members on its newly developed policies and procedures.  Additionally, OCR provided technical assistance regarding substitute breach notification methods, including a conspicuous posting on the CE's website.",2011-01-07,2011
+158,159,Saint Louis University,Queenstown,800,2010-11-12 00:00:00,Hacking/IT Incident,Desktop Computer,2014-01-23,,2010-12-11,2010
+159,160,New York City Health & Hospitals Corporation's North Bronx Healthcare Network,Sengkang,1700000,12/23/2010,Theft,"Other, Electronic Medical Record",2014-05-28,"Unencrypted clinical system backup tapes that contained the electronic protected health information (ePHI) of 1,700,000 individuals were stolen from the unlocked vehicle of an employee of the covered entity's (CE) business associate (BA).  The ePHI included names, medical record numbers, social security numbers, addresses, telephone numbers, health plan numbers, dates of birth, dates of admission, dates of treatment, dates of discharge, dates of death, mother's name, next of kin, clinical information related to diagnosis, treatment, prognosis, laboratory tests and results, and medications.  Upon discovery of the breach, the CE filed a police report to recover the stolen items and provided breach notification to HHS, the media, and affected individuals.  As a result of OCR's investigation, the CE terminated its BA agreement and installed encryption software on backup media.  The breach incident involved a BA and occurred prior to the September 23, 2013, compliance date.  OCR verified that the CE had a proper BA agreement in place that restricted the BA's use and disclosure of PHI and required the BA to safeguard all PHI.",2010-12-23,2010
+160,161,Long Beach Memorial Medical Center,Yio Chu Kang,2250,2010-10-12 00:00:00,Unauthorized Access/Disclosure,Other,2014-01-23,,2010-12-10,2010
+161,162,Walgreen Co.,Boon Lay,2700,1/26/2011,Theft,"Other Portable Electronic Device, Other",2014-06-10,,2011-01-26,2011
+162,163,"Charleston Area Medical Center, Inc",Kent Ridge,3655,2011-08-02 00:00:00,Unauthorized Access/Disclosure,Network Server,2014-01-23,,2011-02-08,2011
+163,164,Mountain Vista Medical Center,Toa Payoh,2291,10/13/2010,Loss,"Other Portable Electronic Device, Other",2014-01-23,,2010-10-13,2010
+164,165,Departamento de Salud de Puerto Rico,Ang Mo Kio,2621,3/14/2010,Unknown,Desktop Computer,2014-01-23,,2010-03-14,2010
+165,166,Henry Ford Hospital,Newton,2777,1/31/2011,Loss,"Other Portable Electronic Device, Other",2014-01-23,,2011-01-31,2011
+166,167,"Central Brooklyn Medical Group, PC",Sengkang,500,2010-03-08 00:00:00,Theft,Paper,2014-06-20,"OCR opened an investigation of the covered entity (CE), Preferred Health Partners f/k/a Central Brooklyn Medical Group, after it reported appointment schedules, pathology reports and portions of medical records containing the protected health information (PHI) of 500 individuals were stolen from an office.  The PHI included names, ages, telephone numbers, social security numbers, medical insurance information, pathology reports, and other clinical information.  Upon discovery of the breach, the CE filed a police report and worked with law enforcement authorities to recover as much of the PHI as possible that was stolen.  As a result of OCR's investigation, the CE removed PHI such as social security or medical insurance numbers from tracking logs.  In addition, the CE improved safeguards by storing log binders in a locked area and shredding documents regularly.  Further, the CE replaced the manual process of printing certain records with an electronic verification system.  The CE also archived, stored off site, and locked up all paper records and retrained all staff on its HIPAA policies and procedures. ",2010-08-03,2010
+167,168,TRICARE Management Activity,Redhill,4500,6/25/2010,Unauthorized Access/Disclosure,Paper,2014-01-23,,2010-06-25,2010
+168,169,Blue Cross and Blue Shield of Florida ,Sembawang,7366,10/16/2010,Unknown,Other,2014-01-23,,2010-10-16,2010
+169,170,"University Health Services, University of Massachusetts, Amherst",Paya Lebar,942,9/29/2010,Unauthorized Access/Disclosure,Desktop Computer,2014-01-23,,2010-09-29,2010
+170,171,"Omnicare, Inc",Kembangan,8845,1/19/2011,Theft,Laptop,2014-01-23,,2011-01-19,2011
+171,172,"JEFFREY J. SMITH, MD",Bukit Gombak,600,11/24/2010,Loss,"Desktop Computer, Other Portable Electronic Device, Other",2014-01-23,,2010-11-24,2010
+172,173,University of Missouri Health Plan,Queenstown,765,2011-10-01 00:00:00,Unauthorized Access/Disclosure,Paper,2014-01-23,,2011-01-10,2011
+173,174,"Rape & Brooks Orthodontics, P.C.",Clementi,20744,2011-03-02 00:00:00,Theft,"Desktop Computer, Network Server, Other Portable Electronic Device, Other",2014-01-23,,2011-02-03,2011
+174,175,Clarksburg - Louis A. Johnson VA Medical Center,Kent Ridge,1470,10/26/2010,Unauthorized Access/Disclosure,Paper,2014-01-23,,2010-10-26,2010
+175,176,County of Los Angeles,Yio Chu Kang,667,2/23/2011,Theft,Laptop,2014-01-23,,2011-02-23,2011
+176,177,EISENHOWER MEDICAL CENTER,Yio Chu Kang,514330,2011-11-03 00:00:00,Theft,Desktop Computer,2014-01-23,,2011-03-11,2011
+177,178,Catholic Social Services,Woodlands,1700,2011-01-02 00:00:00,Theft,Laptop,2014-06-30,"A personal laptop computer containing the electronic protected health information (ePHI) of 1,700 individuals and approximately 493 adoption home studies was stolen from a contractor's vehicle.  The ePHI involved included names, addresses, phone numbers, dates of birth, driver's license numbers, health information, and social security numbers.  At the time of the breach, the covered entity (CE) did not have a business associate (BA) contract with the contractor.  Following OCR's investigation, the CE developed policies and procedures for obtaining BA contracts as required by the Privacy Rule and verified that the contractor no longer had a business relationship with the CE.  OCR obtained assurances that breach notification was provided to the affected individuals, HHS, and the media.",2011-02-01,2011
+178,179,"Park Avenue Obstetrics & Gynecology, PC",Toa Payoh,635,3/25/2011,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2011-03-25,2011
+179,180,"Brian J Daniels D.D.S.,Paul R Daniels D.D.S.",Toa Payoh,10000,2011-01-03 00:00:00,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2011-03-01,2011
+180,181,MidState Medical Center,Admiralty,93500,2/14/2011,Loss,Other,2014-01-23,,2011-02-14,2011
+181,182,"Patient Care Services at Saint Francis, Inc.",Bukit Gombak,84000,1/13/2011,Theft,Network Server,2014-03-13,,2011-01-13,2011
+182,183,Union Security Insurance Company,Queenstown,935,2/18/2011,Unauthorized Access/Disclosure,Other,2014-01-23,,2011-02-18,2011
+183,184,Oklaholma State Dept. of Health,Bukit Gombak,132940,2011-06-04 00:00:00,Theft,"Laptop, Paper",2014-04-23,,2011-04-06,2011
+184,185,Aiken Community Based Outpatient Clinic,Little India,2717,2/16/2011,Improper Disposal,Paper,2014-01-23,,2011-02-16,2011
+185,186,"Health Net, Inc.",Yio Chu Kang,1900000,1/21/2011,Unknown,Other,2014-01-23,,2011-01-21,2011
+186,187,SW General Inc,Toa Payoh,566,2004-01-05 00:00:00,Theft,Paper,2014-01-23,,2004-05-01,2004
+187,188,Fairview Health Services,Chai Chee,1215,2/19/2011,Loss,Paper,2014-01-23,,2011-02-19,2011
+188,189,Time Insurance Company,Simei,675,2011-01-02 00:00:00,Unauthorized Access/Disclosure,Other,2014-04-23,,2011-02-01,2011
+189,190,Community Action partnership of Natrona County,Teban Gardens,15000,2/23/2011,Hacking/IT Incident,Desktop Computer,2014-01-23,,2011-02-23,2011
+190,191,"Keith & Fisher, DDS, PA",Bukit Panjang,6000,2/16/2011,Hacking/IT Incident,Network Server,2014-01-23,,2011-02-16,2011
+191,192,MacNeal Hospital,Boon Lay,845,2011-10-03 00:00:00,Hacking/IT Incident,"Laptop, Desktop Computer, Network Server, E-mail",2014-03-24,,2011-03-10,2011
+192,193,West Lake Hospital ,Boon Lay,686,2011-10-03 00:00:00,Hacking/IT Incident,"Laptop, Desktop Computer, Network Server, E-mail",2014-03-24,,2011-03-10,2011
+193,194,Phoenix Health Plan,Toa Payoh,9393,2011-10-03 00:00:00,Hacking/IT Incident,"Laptop, Desktop Computer, Network Server, E-mail",2014-04-23,,2011-03-10,2011
+194,195,MacNeal Physician Group,Boon Lay,532,2011-10-03 00:00:00,Hacking/IT Incident,"Laptop, Desktop Computer, Network Server, E-mail",2014-03-24,,2011-03-10,2011
+195,196,Genesis Clinical Laboratory,Boon Lay,1070,2011-10-03 00:00:00,Hacking/IT Incident,"Laptop, Desktop Computer, Network Server, E-mail",2014-03-24,,2011-03-10,2011
+196,197,Knox Community Hospital,Jurong East,500,2010-01-10 00:00:00,Improper Disposal,Other,2014-01-23,,2010-10-01,2010
+197,198,Speare Memorial Hospital,Macpherson,5960,2011-02-04 00:00:00,Theft,Laptop,2014-03-13,,2011-04-02,2011
+198,199,Reid Hospital & Health Care Services,Novena,22001,2011-02-04 00:00:00,Theft,Laptop,2014-01-23,,2011-04-02,2011
+199,200,Union Security Insurance Company,Queenstown,850,3/24/2011,Unauthorized Access/Disclosure,Other,2014-01-23,,2011-03-24,2011
+200,201,Indiana Regional Medical Center,Serangoon,1388,9/28/2010,Theft,Paper,2014-01-23,,2010-09-28,2010
+201,202,"MMM Healthcare, Inc.",Ang Mo Kio,32390,2011-08-03 00:00:00,Theft,Desktop Computer,2014-01-23,,2011-03-08,2011
+202,203,PMC Medicare Choice,Ang Mo Kio,24361,2011-08-03 00:00:00,Theft,Desktop Computer,2014-01-23,,2011-03-08,2011
+203,204,CVS CAREMARK,Toa Payoh,654,1/17/2011,"Theft, Unauthorized Access/Disclosure",Paper,2014-04-23,,2011-01-17,2011
+204,205,CENTER FOR ARTHRITIS & RHEUMATIC DISEASES,Sembawang,8000,2011-01-01 00:00:00,Theft,"Other, Paper",2014-01-23,,2011-01-01,2011
+205,206,"Robert B. Miller, MD",Yio Chu Kang,620,2011-01-04 00:00:00,Theft,Laptop,2014-01-23,,2011-04-01,2011
+206,207,Imaging Center of Garland,Yishun,1031,3/15/2011,Improper Disposal,Other,2014-01-23,,2011-03-15,2011
+207,208,New York State Department of Health,Sengkang,550,4/17/2011,Theft,Paper,2014-06-03,"A bag containing 43 pages of protected health information (PHI) of 550 nursing home residents and an encrypted laptop computer were stolen from the vehicle of an employee of the covered entity's (CE) business associate (BA).  The PHI included names, dates of birth, gender identities, names of the nursing homes, and Medicaid numbers.  Upon discovery of the breach, the CE filed a police report and provided breach notification to HHS, the media, and all affected individuals, as well as offering one year of free identity theft protection.  Following OCR's investigation, the CE's BA terminated the employee and re-trained its staff on its privacy and security policies, including not leaving laptops in unoccupied vehicles.  In addition, the CE reminded all contractors about the need to safeguard confidential information, and reviewed the BA's contractual obligations relating to safeguarding PHI.   The breach incident involved a BA and occurred prior to the September 23, 2013, compliance date.  OCR verified that the CE had a proper BA agreement in place that restricted the BA's use and disclosure of PHI and required the BA to safeguard all PHI.",2011-04-17,2011
+208,209,St. Mary's Hospital for Children,Sengkang,550,4/17/2011,Theft,Paper,2014-06-02,"A laptop computer containing the protected health information (PHI) of approximately 550 individuals was stolen from the vehicle of the business associate's (BA) workforce member.  The PHI included names, dates of birth, gender identities, names of nursing homes, and Medicaid numbers of the covered entity's (CE) patients.  Following the breach, the BA terminated the employee who was involved in the breach and provided credit monitoring services to the affected individuals.  The BA also re-trained its staff.  Following OCR's investigation, the CE and the BA reviewed the BA's contractual obligations relating to PHI during an in-person meeting.  The breach incident involved a BA and occurred prior to the September 23, 2013, compliance date.  OCR verified that the CE had a proper BA agreement in place that restricted the BA's use and disclosure of PHI and required the BA to safeguard all PHI.",2011-04-17,2011
+209,210,Medicare Fee-for-Service Program,Tanglin,13412,2011-11-04 00:00:00,Unauthorized Access/Disclosure,Paper,2014-01-23,,2011-04-11,2011
+210,211,VA Caribbean Healthcare System,Ang Mo Kio,6006,3/30/2011,Theft,Paper,2014-06-19,"An employee of the covered entity (CE), VA Caribbean Healthcare System, left documents containing the protected health information (PHI) of 6,006 individuals in an unsecure bag at a nursing station.  The PHI included names, social security numbers, patient care assignments, patient counts and patient census lists.  Upon discovery of the breach, the CE secured the PHI and provided breach notification to HHS, the media, and affected individuals.  As a result of OCR's investigation, the CE disciplined and retrained the employee and implemented a procedure that nursing leadership is required to conduct rounds on wards once vacated.  The CE also retrained all staff on its privacy and security policies and procedures.",2011-03-30,2011
+211,212,Blue Cross Blue Shield of Michigan,Newton,11387,11/17/2010,"Unauthorized Access/Disclosure, Hacking/IT Incident",Network Server,2014-01-23,,2010-11-17,2010
+212,213,Spartanburg Regional Healthcare System,Little India,400000,3/28/2011,Theft,Desktop Computer,2014-01-23,,2011-03-28,2011
+213,214,Saint Joseph - Berea,Kembangan,1986,4/14/2011,"Theft, Loss","Other Portable Electronic Device, Other",2014-04-23,,2011-04-14,2011
+214,215,Navos,Punggol,2700,3/15/2011,Unknown,Paper,2014-01-23,,2011-03-15,2011
+215,216,"Dunes Family Health Care, P.C",Boon Keng,17000,2011-11-03 00:00:00,Theft,"Other Portable Electronic Device, Other",2014-02-14,,2011-03-11,2011
+216,217,"Metropolitan Community Health Services, Inc.",Bukit Panjang,1263,5/18/2011,Unknown,E-mail,2014-04-23,,2011-05-18,2011
+217,218,TUBA CITY REGIONAL HEALTH CARE CORPORATION,Toa Payoh,2000,2011-01-04 00:00:00,"Loss, Improper Disposal",Paper,2014-01-23,,2011-04-01,2011
+218,219,"FOOTHILLS NEPHROLOGY, PC",Little India,1280,4/28/2011,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2011-04-28,2011
+219,220,Sutter Gould Medical Foundation (SGMF),Yio Chu Kang,1192,5/23/2011,Loss,Paper,2014-01-23,,2011-05-23,2011
+220,221,Silverpop Systems Inc. Health and Welfare Plan,Eunos,884,4/15/2011,Theft,Laptop,2014-01-23,,2011-04-15,2011
+221,222,New River Health Association,Kent Ridge,950,2011-01-04 00:00:00,Unauthorized Access/Disclosure,Paper,2014-01-23,,2011-04-01,2011
+222,223,HealthCare Partners,Yio Chu Kang,15677,4/17/2011,Theft,Desktop Computer,2014-01-23,,2011-04-17,2011
+223,224,"Gene S. J. Liaw, MD. PS",Punggol,1105,2011-04-04 00:00:00,Loss,"Other Portable Electronic Device, Other",2014-01-23,,2011-04-04,2011
+224,225,Blue Cross and Blue Shield of Florida ,Sembawang,3463,2011-11-04 00:00:00,Unauthorized Access/Disclosure,Other,2014-01-23,,2011-04-11,2011
+225,226,"NOL, LLC d/b/a Premier Radiology",Bishan,810,2011-07-05 00:00:00,Theft,Laptop,2014-04-23,,2011-05-07,2011
+226,227,"Advanced Diagnostic Imaging, P.C.",Bishan,705,2011-07-05 00:00:00,Theft,Laptop,2014-04-23,,2011-05-07,2011
+227,228,University of Missouri Health Care,Queenstown,1288,6/14/2011,Unknown,Paper,2014-01-23,,2011-06-14,2011
+228,229,Accendo,Toa Payoh,175350,2011-01-01 00:00:00,Unauthorized Access/Disclosure,Paper,2014-01-23,,2011-01-01,2011
+229,230,Ohio Health Plans,Jurong East,78042,2011-03-06 00:00:00,Theft,Laptop,2014-01-23,,2011-06-03,2011
+230,231,"Gail Gillespie and Associates, LLC",Kovan,2000,6/25/2011,Theft,"Laptop, Desktop Computer, Network Server, E-mail, Other Portable Electronic Device, Other, Electronic Medical Record",2014-01-23,,2011-06-25,2011
+231,232,Health Plan of San Mateo,Yio Chu Kang,694,4/25/2011,Unauthorized Access/Disclosure,Paper,2014-01-23,,2011-04-25,2011
+232,233,Department of Health Care Policy and Financing,Redhill,3589,2011-06-05 00:00:00,Loss,Other,2014-02-14,,2011-05-06,2011
+233,234,Yanez Dental Corporation,Yio Chu Kang,10190,5/22/2011,Theft,"Desktop Computer, Network Server",2014-01-23,,2011-05-22,2011
+234,235,Jackson Health System,Sembawang,1562,2008-01-10 00:00:00,Unauthorized Access/Disclosure,"Other, Electronic Medical Record",2014-01-23,,2008-10-01,2008
+235,236,The Mount Sinai Hospital,Sengkang,712,2011-07-06 00:00:00,Theft,Laptop,2014-06-02,"Two unencrypted laptop computers containing the electronic protected health information (ePHI) of 712 individuals were stolen from the covered entity's (CE) office.  The ePHI included names, dates of birth, social security numbers, diagnostic reports, and demographic information.  Upon discovery of the breach, the CE filed a police report to recover the stolen items.  As a result of OCR's investigation, the CE improved physical security by installing an exit alarm lock and surveillance camera, and implementing a policy and procedure requiring managers to monitor inappropriate use of the facility's rear exit.  The CE also inventoried its ePHI systems and adopted and implemented policies and procedures for workstation security, encryption, security awareness and training, electronic devices, and media controls.",2011-06-07,2011
+236,237,Troy Regional Medical Center,Clementi,880,3/22/2011,Unauthorized Access/Disclosure,Paper,2014-01-23,,2011-03-22,2011
+237,238,Lansing Community College,Newton,5000,2011-09-05 00:00:00,Hacking/IT Incident,Network Server,2014-03-24,,2011-05-09,2011
+238,239,Dr Axel Velez,Ang Mo Kio,2800,6/19/2011,Theft,Desktop Computer,2014-03-13,,2011-06-19,2011
+239,240," DeKalb Medical Center, Inc. d/b/a DeKalb Medical Hillandale",Eunos,7500,2010-11-07 00:00:00,Theft,Paper,2014-01-23,,2010-07-11,2010
+240,241,Beth Israel Deaconess Medical Center,Paya Lebar,2021,4/17/2011,Hacking/IT Incident,Network Server,2014-01-23,,2011-04-17,2011
+241,242,"Gypsum Management and Supply, Inc. Medical and Dental Plan",Eunos,25330,2011-09-05 00:00:00,Unauthorized Access/Disclosure,Network Server,2014-01-23,,2011-05-09,2011
+242,243,"Andersen Air Force Base, Guam",Marine Parade,700,5/13/2011,Improper Disposal,Paper,2014-01-23,,2011-05-13,2011
+243,244,Molina Medicare,Yio Chu Kang,4573,2011-01-01 00:00:00,Unauthorized Access/Disclosure,Paper,2014-01-23,,2011-01-01,2011
+244,245,Windsor Health Plan,Bishan,1378,2011-01-03 00:00:00,Unauthorized Access/Disclosure,Paper,2014-01-23,,2011-03-01,2011
+245,246,Health Care Service Corporation,Boon Lay,501,6/28/2011,Theft,Paper,2014-01-23,,2011-06-28,2011
+246,247,University of Kentucky - UK HealthCare,Kembangan,3604,2011-07-06 00:00:00,Theft,Laptop,2014-04-23,,2011-06-07,2011
+247,248,"Austin Center for Therapy and Assessment, LLC",Yishun,1870,2011-08-07 00:00:00,Theft,Laptop,2014-04-24,"An unencrypted laptop, containing the electronic protected health information (ePHI) of 1,870 individuals, was stolen from the covered entity's (CE) office.  The ePHI involved includes clinical evaluation reports, test results, patient names, addresses, phone numbers, and social security numbers.  Upon discovery of the breach, the CE notified affected individuals, OCR and the media.  Following OCR's investigation, the CE revised its HIPAA policies and procedures, implemented additional physical safeguards in its facility and installed encryption software.",2011-07-08,2011
+248,249,Treatment Services Northwest,Boon Keng,1200,2011-08-07 00:00:00,Theft,Desktop Computer,2014-01-23,,2011-07-08,2011
+249,250,Mills-Peninsula Health Services,Yio Chu Kang,1500,2009-01-11 00:00:00,Unauthorized Access/Disclosure,Paper,2014-01-23,,2009-11-01,2009
+250,251,Brigham and Women's Hospital and Faulkner Hospital ,Paya Lebar,638,6/21/2011,Theft,Other Portable Electronic Device,2014-06-30,"A covered entity's (CE) workforce member lost an external hard drive containing the electronic protected health information (ePHI) of 638 individuals while traveling.  The external hard drive included names, medical record numbers, dates of admission, medications, diagnoses, and treatment information.  The CE notified HHS, the media, and all individuals affected regarding the breach and provided individuals with identity protection services.  Following the breach, the CE sanctioned the workforce member involved and retrained the workforce member and division staff on  safeguards for ePHI.  In addition, the CE established a mitigation workgroup to review policies and procedures regarding the protection of ePHI and created a new external hard drive encryption policy.  OCR obtained assurances that the CE  implemented the corrective action listed above.",2011-06-21,2011
+251,252,"Ashley Industrial Molding, Inc. Employee Welfare Benefit Plan ",Novena,506,2011-09-05 00:00:00,Hacking/IT Incident,Network Server,2014-01-23,,2011-05-09,2011
+252,253,St. Francis Hospital,Marsiling,948,2011-01-06 00:00:00,Loss,"Other Portable Electronic Device, Other",2014-06-10,,2011-06-01,2011
+253,254,"Reznick Group, P.C.",Tanglin,2459,2011-09-05 00:00:00,Hacking/IT Incident,Network Server,2014-03-25,,2011-05-09,2011
+254,255,The Neurological Institute of Savannah & Center for Spine,Eunos,63425,2011-02-07 00:00:00,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2011-07-02,2011
+255,256,Texas Health Presbtyerian Hospital Flower Mound,Yishun,10345,6/21/2011,Theft,Laptop,2014-01-23,,2011-06-21,2011
+256,257,Capron Rescue Squad District,Boon Lay,815,2011-05-02 00:00:00,Unauthorized Access/Disclosure,Laptop,2014-01-23,,2011-02-05,2011
+257,258,Cook County Health & Hospitals System,Boon Lay,32008,6/24/2011,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2011-06-24,2011
+258,259,"HEALTH RESEARCH INSTITUTE, INC., PFEIFFER TREATMENT CENTER",Boon Lay,2000,2011-01-07 00:00:00,Theft,"Desktop Computer, Network Server",2014-01-23,,2011-07-01,2011
+259,260,Stanford Hospital & Clinics,Yio Chu Kang,19651,2010-09-09 00:00:00,Unauthorized Access/Disclosure,Other,2014-01-23,,2010-09-09,2010
+260,261,"Muir Orthopaedic Specialists, A Medical Group Inc.",Yio Chu Kang,1800,7/27/2011,Theft,Paper,2014-01-23,,2011-07-27,2011
+261,262,NEA Baptist Clinic,Bouna Vista,3116,2011-12-07 00:00:00,Hacking/IT Incident,Network Server,2014-01-23,,2011-07-12,2011
+262,263,Jonathan Noel MD,Novena,2059,7/13/2011,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2011-07-13,2011
+263,264,Centro de Ortodoncia Inc.,Ang Mo Kio,2000,2010-06-05 00:00:00,Theft,Paper,2014-06-20,"OCR opened an investigation of the covered entity (CE), Dr. Pedro Valentin, after it reported boxes containing the protected health information (PHI) of 2,000 individuals were moved from the CE's office.  The PHI included names, account numbers, responsible party in charge of account, and method of payment.  OCR's investigation revealed that the individual who removed the PHI was the CE's wife and business partner.  The CE advised OCR that he knew his wife/partner was removing the boxes for the purpose of ascertaining the amount of monies the CE was receiving and that he is in the process of dissolving the partnership.  OCR concluded that the actions alleged in the breach report did not amount to a breach.",2010-05-06,2010
+264,265,"John T. Melvin, M.D.& Associates",Yishun,2541,2011-09-08 00:00:00,Theft,Paper,2014-03-13,,2011-08-09,2011
+265,266,"Diversified Resources, Inc.",Eunos,863,2011-11-08 00:00:00,Theft,Laptop,2014-01-23,,2011-08-11,2011
+266,267,"Bonney Lake Medical Center and Mythili R. Ramachandran, MD",Punggol,2367,2011-12-08 00:00:00,Theft,"Laptop, Desktop Computer",2014-02-14,,2011-08-12,2011
+267,268,United States Steel Corporation Plan for Active Employee Insurance Benefits and the United States Steel Corporation Plan for Retiree Insurance Benefits,Serangoon,4000,8/15/2011,Loss,"Other Portable Electronic Device, Other",2014-03-24,,2011-08-15,2011
+268,269,VA Illiana Health Care System,Boon Lay,518,7/14/2011,Loss,Paper,2014-01-23,,2011-07-14,2011
+269,270,Health Texas Provider Network,Yishun,1259,7/27/2011,Theft,Laptop,2014-03-13,,2011-07-27,2011
+270,271,Blue Cross of Northeastern Pennsylvania,Serangoon,507,2011-09-09 00:00:00,"Theft, Unauthorized Access/Disclosure","Laptop, Paper",2014-03-24,,2011-09-09,2011
+271,272,NYU Hospital for Joint Diseases Inventory Management Department,Sengkang,2600,6/23/2011,Theft,Paper,2014-06-20,"A box containing 2,600 paper records of tissue implants used in surgeries was discarded by a waste disposal contractor of the covered entity (CE), NYU Hospital for Joint Diseases Inventory Management Department, when the box was not property secured.  The box contained the protected health information (PHI) of 2,239 individuals and included names, dates of birth, dates of surgery, surgeon names, procedures, and types and serial numbers of the tissues used in the surgeries.  Upon discovery of the breach, the CE contacted the waste disposal contractor and determined that the documents were discarded and buried in a landfill out of state.  The CE provided breach notification to HHS, the media, and affected individuals, and posted substitute notice on its website.  As a result of OCR's investigation, the CE improved safeguards by storing all tissue records in a locked cabinet and requiring management to store the keys.  In addition, the CE counseled the employees involved in the incident and retrained all staff on its policies and procedures for safeguarding PHI.  The CE also implemented a plan to conduct reviews of HIPAA compliance, including both physical access and physical security risks.",2011-06-23,2011
+272,273,WAYNE HIGHLANDS SCHOOL DISTRICT,Serangoon,579,2011-09-09 00:00:00,"Theft, Unauthorized Access/Disclosure",Paper,2014-06-10,,2011-09-09,2011
+273,274,"Summit Medical Group, PLLC",Bishan,731,2011-04-09 00:00:00,Theft,Paper,2014-01-23,,2011-09-04,2011
+274,275,MAPFRE Life,Ang Mo Kio,2209,2011-05-08 00:00:00,Theft,Other,2014-03-13,,2011-08-05,2011
+275,276,American Continental Insurance Company,Bishan,690,7/28/2011,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2011-07-28,2011
+276,277,United of Omaha Life Insurance Company,Bukit Batok,1631,7/28/2011,Loss,"Other Portable Electronic Device, Other",2014-01-23,,2011-07-28,2011
+277,278,Mutual of Omaha Insurance Company,Bukit Batok,705,7/28/2011,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2011-07-28,2011
+278,279,Henry Ford Health System,Newton,520,2011-08-08 00:00:00,Theft,Desktop Computer,2014-01-23,,2011-08-08,2011
+279,280,Indiana University,Novena,3266,8/16/2011,Theft,Laptop,2014-01-23,,2011-08-16,2011
+280,281,"Adult & Pediatric Dermatology, PC",Paya Lebar,2200,9/14/2011,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2011-09-14,2011
+281,282,The Nemours Foundation,Sembawang,1055489,2011-10-08 00:00:00,Loss,Other,2014-01-23,,2011-08-10,2011
+282,283,"California Industrial Medicine, Inc.",Yio Chu Kang,700,9/28/2011,"Theft, Unauthorized Access/Disclosure",Paper,2014-02-14,,2011-09-28,2011
+283,284,"InStep Foot Clinic, P.A.",Chai Chee,2600,8/28/2011,Theft,"Laptop, Electronic Medical Record",2014-01-23,,2011-08-28,2011
+284,285,North Memorial,Chai Chee,6697,7/25/2011,Theft,Laptop,2014-01-23,,2011-07-25,2011
+285,286,"Lahey Clinic Hospital, Inc.",Paya Lebar,599,2011-12-08 00:00:00,Theft,Laptop,2014-03-13,,2011-08-12,2011
+286,287,UnitedHealth Group health plan single affiliated covered entity,Chai Chee,3994,7/28/2011,Theft,Other,2014-01-23,,2011-07-28,2011
+287,288,Good Samaritan Hospital,Tanglin,1500,2011-09-09 00:00:00,Theft,Paper,2014-01-23,,2011-09-09,2011
+288,289,"Amerigroup Community Care of New Mexico, Inc",Choa Chu Kang,1537,7/15/2011,Theft,Paper,2014-01-23,,2011-07-15,2011
+289,290,Florida Hospital,Sembawang,12784,2011-10-08 00:00:00,Unauthorized Access/Disclosure,Electronic Medical Record,2014-02-19,,2011-08-10,2011
+290,291,"Thomas Jefferson University Hospitals, Inc.",Serangoon,3150,2011-06-09 00:00:00,Theft,Other,2014-01-23,,2011-09-06,2011
+291,292,Lankenau Medical Center,Serangoon,500,2011-06-09 00:00:00,Theft,Other,2014-01-23,,2011-09-06,2011
+292,293,"Spectrum Health Ssytems, Inc.  ",Paya Lebar,14750,8/24/2011,Theft,Desktop Computer,2014-03-13,,2011-08-24,2011
+293,294,Conway Regional Medical Center,Bouna Vista,1472,8/24/2011,Loss,Other,2014-01-23,,2011-08-24,2011
+294,295,Concordia Plan Services,Queenstown,7059,2011-10-05 00:00:00,Loss,Other,2014-01-23,,2011-05-10,2011
+295,296,Stone Oak Urgent Care & Family Practice,Yishun,6672,10/23/2011,"Theft, Loss",Desktop Computer,2014-01-23,,2011-10-23,2011
+296,297,Indiana University School of Optometry,Novena,757,2011-12-08 00:00:00,Unauthorized Access/Disclosure,Network Server,2014-01-23,,2011-08-12,2011
+297,298,"Brevard Emergency Services, P.A.",Sembawang,2200,8/26/2011,Theft,Paper,2014-04-23,,2011-08-26,2011
+298,299,Georgetown University Hospital,Tampines,1526,2011-09-09 00:00:00,Loss,"Other Portable Electronic Device, Other",2014-03-24,,2011-09-09,2011
+299,300,Morris Heights Health Center,Sengkang,927,8/27/2011,Theft,Laptop,2014-06-03,"An unencrypted laptop computer containing the electronic protected health information (ePHI) of 927 individuals was stolen from the covered entity's (CE) school based health center.  The ePHI included names, dates of birth, sex, ethnicities, height, weight, body mass index data, complete physical examination information such as asthma and obesity information, health action plans, and enrollment dates.  Upon discovery of the breach, the CE filed a police report to recover the stolen laptop.  As a result of OCR's investigation, the CE purchased locks to physically secure its' school health computers to the desks where the computers are located.  In addition, the CE encrypted all portable devices' hard drives and installed software to track portable devices. The CE also retrained all staff on its policies and procedures for using and securing ePHI. ",2011-08-27,2011
+300,301,network180,Newton,1100,9/16/2011,Theft,Paper,2014-03-24,,2011-09-16,2011
+301,302,"Bethesda Hospital, Inc.",Jurong East,946,2011-03-09 00:00:00,Theft,Desktop Computer,2014-03-24,,2011-09-03,2011
+302,303,"Julie A. Kennedy, D.M.D., P.A.",Sembawang,2900,9/30/2011,Theft,Network Server,2014-01-23,,2011-09-30,2011
+303,304,"KCI USA, Inc.",Yishun,567,2011-08-09 00:00:00,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2011-09-08,2011
+304,305,Lebanon Internal Medicine Associates,Serangoon,55000,2011-10-09 00:00:00,Improper Disposal,Network Server,2014-01-23,,2011-09-10,2011
+305,306,St. Joseph Medical Center,Tanglin,5000,2011-11-09 00:00:00,Theft,"Other, Paper",2014-03-24,,2011-09-11,2011
+306,307,TRICARE Management Activity (TMA),Marine Parade,4900000,9/13/2011,Loss,Other,2014-01-23,,2011-09-13,2011
+307,308,UCLA Health System,Yio Chu Kang,2761,2011-06-09 00:00:00,Theft,"Other Portable Electronic Device, Other",2014-01-23,,2011-09-06,2011
+308,309,Logan County Emergeny Ambulance Service Authority,Kent Ridge,12563,2011-01-10 00:00:00,"Theft, Loss",Laptop,2014-01-23,,2011-10-01,2011
+309,310,Lawrence Memorial Hospital,Alexandra,8275,09/20/2011 - 10/28/2011,"Unauthorized Access/Disclosure, Other",Other,2014-04-23,,2011-09-20,2011
+310,311,Sutter Medical Foundation,Clementi,943434,10/15/2011,Theft,Desktop Computer,2014-01-23,,2011-10-15,2011
+311,312,Medcenter One,Potong Pasir,650,10/21/2011,Theft,Laptop,2014-01-23,,2011-10-21,2011
+312,313,Dallas County Hospital District dba Parkland Health & Hospital System,Yishun,2464,2011-05-09 00:00:00,Unauthorized Access/Disclosure,"Electronic Medical Record, Paper",2014-01-23,,2011-09-05,2011
+313,314,University of Kentucky UK HealthCare,Kembangan,878,9/25/2011,Loss,Other Portable Electronic Device,2014-01-23,,2011-09-25,2011
+314,315,"Jay C. Platt, DDS",Novena,10705,2011-06-10 00:00:00,Theft,Other,2014-03-24,,2011-10-06,2011
+315,316,Rite Aid Corporation ,Serangoon,2900,2011-07-10 00:00:00,Other,Paper,2014-01-23,,2011-10-07,2011
+316,317,Advanced Occupational Medicine Specialists,Boon Lay,7226,2011-12-10 00:00:00,Unauthorized Access/Disclosure,Network Server,2014-01-23,,2011-10-12,2011
+317,318,Open MRI of Chicago,Boon Lay,2000,2011-06-09 00:00:00,Improper Disposal,Paper,2014-01-23,,2011-09-06,2011
+318,319,University of Nebraska Medical Center,Bukit Batok,611,11/15/2011,Theft,Paper,2014-04-23,,2011-11-15,2011
+319,320,Roberts S. Smith M.D. Inc.,Eunos,17000,10/17/2011,Theft,Laptop,2014-01-23,,2011-10-17,2011
+320,321,"Paul C. Brown, MD, PS",Punggol,4693,10/14/2011 - 10/17/2011,Theft,Other,2014-02-14,,2011-10-14,2011
+321,322,Molina Healthcare of California,Yio Chu Kang,11081,9/23/2009,Other,Paper,2014-01-23,,2009-09-23,2009
+322,323,Aegis Sciences Corporation,Bishan,2185,11/22/2011,Theft,"Laptop, Other Portable Electronic Device",2014-04-23,"OCR opened an investigation of the covered entity (CE), Aegis Science Corp., after the CE reported that a laptop computer and unencrypted external hard drive containing the electronic protected health information (ePHI) of 2,185 individuals were stolen from a workforce member's vehicle.  The ePHI included social security numbers, driver's license numbers, and other demographic information, as well as bank account information of fourteen individuals and credit card information of three individuals.  Upon discovering the breach, the CE filed a police report and hired a private investigator to recover the stolen items.  The CE also initiated plans to encrypt laptops, revise security procedures, retrain employees, and offer credit monitoring to affected individuals.  As a result of OCR's investigation, the CE completed a security risk analysis and risk management report and implemented new security policies and procedures to ensure adequate safeguards to protect ePHI.  The CE also provided media notification in the two localities with greater than 500 individuals affected.  Additionally, the CE encrypted all employee computers and removable media containing ePHI and retrained employees on the CE's confidentiality and security policies.",2011-11-22,2011
+323,324,"Soundpath Health, Inc",Punggol,7581,11/22/2011,Theft,Laptop,2014-02-14,,2011-11-22,2011
+324,325,Concentra Health,Yishun,870,11/30/2011,Theft,Laptop,2014-01-23,,2011-11-30,2011
+325,326,Sleep HealthCenters LLC,Paya Lebar,2988,11/23/2011,Theft,Laptop,2014-03-13,,2011-11-23,2011
+326,327,Smile Designs,Sembawang,1670,2011-01-12 00:00:00,Theft,"Desktop Computer, Network Server",2014-01-23,,2011-12-01,2011
+327,328,PBH,Bukit Panjang,50000,11/15/2011,"Unauthorized Access/Disclosure, Other","Network Server, E-mail",2014-01-23,,2011-11-15,2011
+328,329,"CardioNet, Inc",Serangoon,1300,2011-10-11 00:00:00,Theft,Laptop,2014-01-23,,2011-11-10,2011
+329,330,"MDwise, Inc.",Novena,2700,2011-10-02 00:00:00,Unauthorized Access/Disclosure,Other,2014-03-24,,2011-02-10,2011
+330,331,Ford Motor Company,Newton,1700,2012-03-01 00:00:00,Other,Paper,2014-03-24,,2012-01-03,2012
+331,332,Foundation Medical Partners,Macpherson,771,11/19/2011 - 12/01/2011,Theft,Paper,2014-06-02,"Without permission from the covered entity (CE), an employee provided a list of patient's names to a local counseling center as the employee was leaving the CE to begin employment at the new counseling center in an attempt to coordinate care of the patients she was treating.  The list, containing the PHI of approximately 771 individuals, included names, dates of birth, addresses, phone numbers, names of the insurance carriers, and facility codes.  Following the disclosure, the CE provided breach notification to HHS, the media, and all individuals affected and sanctioned the former employee for violating its policies and procedures. The CE also changed its procedures for list management.  The CE sent a reminder to all of its health care providers regarding the handling of PHI and made plans to provide HIPAA compliance information in a quality assurance newsletter.",2011-11-19,2011
+332,333,Kansas Department on Aging,Alexandra,7757,2012-11-01 00:00:00,Theft,Laptop,2014-01-23,,2012-01-11,2012
+333,334,Delta Dental of California,Yio Chu Kang,11646,12/22/2011 - 12/23/2011,Other,Paper,2014-01-23,,2011-12-22,2011
+334,335,Muskogee Regional Medical Center,Bukit Gombak,844,2011-05-12 00:00:00,Loss,Other,2014-01-23,,2011-12-05,2011
+335,336,Department of Medical Assistance Services,Marine Parade,1444,11/02/2011 - 11/16/2011,"Unauthorized Access/Disclosure, Other",Paper,2014-01-23,,2011-11-02,2011
+336,337,"Oldendorf Medical Services, PLLC",Sengkang,549,1/17/2012,Theft,Laptop,2014-06-02,"OCR opened an investigation of the covered entity (CE) after it reported two unencrypted laptops were stolen that contained the electronic protected health information (ePHI) of 549 individuals.  The ePHI included names, dates of birth, diagnostic test results, and social security numbers.  Upon discovery of the breach, the CE filed a police report to recover the stolen items.  As a result of OCR's investigation, the CE installed security cameras and new door locks and changed the codes to the outside entrance keypad lock.  The CE also encrypted laptop computers. ",2012-01-17,2012
+337,338,St.Vincent Physician Network,Novena,1423,12/01/2010-11/21/2011,"Theft, Unauthorized Access/Disclosure",Paper,2014-03-24,,2010-12-01,2010
+338,339,Flex Physical Therapy,Punggol,3100,12/30/2011,Theft,Desktop Computer,2014-01-23,,2011-12-30,2011
+339,340,Metro Community Provider Network,Redhill,3200,2011-05-12 00:00:00,"Hacking/IT Incident, Other",E-mail,2014-01-23,,2011-12-05,2011
+340,341,University of Miami ,Sembawang,1219,11/24/2011,Theft,Other Portable Electronic Device,2014-01-23,,2011-11-24,2011
+341,342,UnitedHealth Group health plan single affiliated covered entity,Chai Chee,6678,12/15/2011,Other,Paper,2014-03-24,,2011-12-15,2011
+342,343,"Triumph, LLC",Bukit Panjang,2000,12/13/2011,Theft,Laptop,2014-01-23,,2011-12-13,2011
+343,344,Fairview Health Services,Chai Chee,14000,7/25/2011,Theft,Laptop,2014-01-23,,2011-07-25,2011
+344,345,Loma Linda University Medical Center (LLUMC),Yio Chu Kang,1366,12/19/2011,Other,Paper,2014-01-23,,2011-12-19,2011
+345,346,Ford Motor Company Salaried Health Reimbursement Arrangement (HRA) Plan,Newton,1700,12/29/2011,Other,Other,2014-03-24,,2011-12-29,2011
+346,347,"Goshen Health System, Inc.",Novena,660,12/22/2011,Hacking/IT Incident,Other,2014-01-23,,2011-12-22,2011
+347,348,Georgetown University Hospital,Tampines,1549,2011-01-11 00:00:00,Unauthorized Access/Disclosure,Paper,2014-01-23,,2011-11-01,2011
+348,349,Motion Picture Industry Health Plans (MPI),Yio Chu Kang,703,09/23/2009 - 12/02/2011,Other,Other,2014-02-14,,2009-09-23,2009
+349,350,Ochsner Health System,Kovan,2088,1/19/2012,Loss,Other Portable Electronic Device,2014-01-23,,2012-01-19,2012
+350,351,Applegate Valley Family Medicine,Boon Keng,2300,12/01/2011-12/17/2011,"Theft, Unauthorized Access/Disclosure",Laptop,2014-01-23,,2011-12-01,2011
+351,352,"CardioNet, Inc.",Serangoon,728,12/29/2011,Theft,Laptop,2014-01-23,,2011-12-29,2011
+352,353,Presbyterian Healthcare Services,Choa Chu Kang,7000,12/29/2011,Theft,Laptop,2014-03-13,,2011-12-29,2011
+353,354,"Alliant Health Plans, Inc.",Eunos,632,2012-01-01 00:00:00,Unauthorized Access/Disclosure,Other,2014-01-23,,2012-01-01,2012
+354,355,"FIRST MEDICAL CENTER, INC.",Ang Mo Kio,7706,2012-11-01 00:00:00,Theft,Laptop,2014-06-13,"An unencrypted laptop computer and external hard drive containing the electronic protected health information (ePHI) of 7,706 individuals were stolen from a staff member of the covered entity's (CE) business associate (BA).  The ePHI included names, ages, sex, social security numbers, medical services provided, diagnosis codes, and dates of service.  Upon discovery of the breach, the CE filed a police report to recover the stolen items and provided breach notification to HHS, the media, and all individuals affected by the breach.  As a result of OCR's investigation, the CE had its BA conduct a risk analysis, implement new security policies and procedures to ensure adequate safeguards to protect ePHI, and retrain its employees.  In addition, the CE also had its BA change its security practices to include encryption on all laptops and restrict the use of portable media devices.  OCR obtained assurances that the CE implemented the corrective action listed above and required two additional corrective actions.  OCR identified the need for the CE to complete a risk assessment and implement certain security policies and procedures.",2012-01-11,2012
+355,356,Lee Miller Rehabilitation Associates,Tanglin,10480,1/15/2012,Theft,Network Server,2014-01-23,,2012-01-15,2012
+356,357,"Jeremaih J. Twomey, F.A.C.P., P.A.",Yishun,2559,12/31/2011,Theft,Other,2014-01-23,,2011-12-31,2011
+357,358,Anchorage Community Mental Health Services Inc.,Woodlands,2743,12/20/2011 - 01/04/2012,Unauthorized Access/Disclosure,Desktop Computer,2014-01-23,,2011-12-20,2011
+358,359,Robley Rex VA Medical Center ,Kembangan,1182,2012-09-01 00:00:00,Other,Paper,2014-01-23,,2012-01-09,2012
+359,360,Indiana Internal Medicine Consultants,Novena,20000,2012-11-02 00:00:00,Theft,Laptop,2014-06-24,"A laptop computer that contained the electronic protected health information (ePHI) of approximately 20,000 individuals was stolen from the covered entity's (CE) laboratory manager's office.  The ePHI involved in the breach included patients' names, dates of birth, clinic identification numbers, and laboratory results.  Following the breach, the CE reported the theft to the building management company.  The management company investigated the theft and determined that cleaning personnel had stolen the laptop.  The company reported that the patient information was not compromised, as the database could not be accessed without propriety software and specialized assistance. As a result of OCR's investigation, physical security was improved by housing the replacement laptop in a locked drawer in a locked office with limited staff access.  The CE also implemented a new policy prohibiting the storage of PHI on the laptop computer and updated additional policies and procedures to enhance safeguards for systems containing PHI.      ",2012-02-11,2012
+360,361,Kern Medical Center ,Yio Chu Kang,1431,2/25/2012,Theft,Paper,2014-01-23,,2012-02-25,2012
+361,362,"William F. DeLuca Jr., M.D.",Sengkang,577,1/16/2012,Theft,Laptop,2014-06-02,"OCR opened an investigation of the covered entity (CE) after it reported two unencrypted laptops were stolen that contained the electronic protected health information (ePHI) of 577 individuals.  The ePHI included names and pictures.  Upon discovery of the breach, the CE filed a police report to recover the stolen items.  As a result of OCR's investigation, the CE encrypted its computers, changed the locks to a numbered key system, and installed a lock to secure portable devices in storage.  In addition, the CE started using identification numbers instead of names on patients' files.  The CE also revised its security policy and trained all staff on its policies.",2012-01-16,2012
+362,363,Grupo Medico IPA -341,Ang Mo Kio,7923,2012-11-01 00:00:00,Theft,Laptop,2014-06-20,"An unencrypted laptop computer and an external hard drive containing the electronic protected health information (ePHI) of 7,923 individuals were stolen from a staff member of the CE's business associate (BA).  The ePHI included names, ages, gender, social security numbers, medical services provided, diagnosis codes, and dates of service.  Upon discovery of the breach, the CE filed a police report to recover the stolen items.  The CE also provided breach notification to all affected individuals, HHS, and the media. As a result of OCR's investigation, the CE had its BA conduct a risk analysis, implement new security policies and procedures to ensure adequate safeguards to protect ePHI, and retrain its employees. The CE also had its BA change its security practices to include encryption on all laptops and restrict the use of portable media devices.  ",2012-01-11,2012
+363,364,Advanced Clinical Research Institute,Yio Chu Kang,875,1/26/2012,Theft,Paper,2014-01-23,,2012-01-26,2012
+364,365,Access Medical Group -IPA 344,Ang Mo Kio,7606,2012-11-01 00:00:00,Theft,"Laptop, Other Portable Electronic Device",2014-06-13,"An unencrypted laptop computer and external hard drive containing the electronic protected health information (ePHI) of 39,609 individuals were stolen from a staff member of the covered entity's (CE) business associate (BA).  The ePHI included names, ages, sex, social security numbers, medical services provided, diagnosis codes, and dates of service.  Upon discovery of the breach, the CE filed a police report and provided breach notification to HHS, the media and all affected individuals.  As a result of OCR's investigation, the CE had its BA conduct a risk analysis, implement new security policies and procedures to ensure adequate safeguards to protect ePHI, and retrain its employees.  In addition, the CE also had its BA change its security practices to include encryption on all laptops and restrict the use of portable media devices. OCR obtained assurance that the CE implemented the corrective action listed above and required one additional corrective action.  OCR identified the need for the CE to implement certain security policies, procedures and controls.",2012-01-11,2012
+365,366,Georgia Health Sciences University,Eunos,513,1/18/2012,Theft,Laptop,2014-01-23,,2012-01-18,2012
+366,367,"Baylor Heart and Vascular Center, LLP",Yishun,1972,1/26/2012,Theft,Other Portable Electronic Device,2014-01-23,,2012-01-26,2012
+367,368,Chicago Musculoskeletal Institute/Metro Orthopedics,Boon Lay,750,12/31/2011,Other,Network Server,2014-03-24,,2011-12-31,2011
+368,369,"Tufts Associated Health Maintenance Organization, Inc. and Tufts Insurance Company",Paya Lebar,3482,01/17/2012-02/02/2012,Other,Paper,2014-01-23,,2012-01-17,2012
+369,370,Duke University Health System,Bukit Panjang,1370,07/01/2008 - 11/30/2011,Unauthorized Access/Disclosure,Other,2014-04-23,,2008-07-01,2008
+370,371,St. Joseph's Medical Center,Yio Chu Kang,712,2012-02-02 00:00:00,Theft,Paper,2014-01-23,,2012-02-02,2012
+371,372,UnitedHealth Group health plan single affiliated covered entity,Chai Chee,3537,6/28/2011,Unauthorized Access/Disclosure,Other,2014-03-24,,2011-06-28,2011
+372,373,CenterLight Healthcare,Sengkang,642,1/27/2012,Unauthorized Access/Disclosure,E-mail,2014-01-23,,2012-01-27,2012
+373,374,Lake Granbury Medical Center,Yishun,502,2/13/2012,Theft,Paper,2014-01-23,,2012-02-13,2012
+374,375,County of Wayne Department of Personnel/Human Resources Benefits Administration Division,Newton,1229,3/16/2012,Unauthorized Access/Disclosure,E-mail,2014-06-10,,2012-03-16,2012
+375,376,St. Elizabeth's Medical Center,Paya Lebar,6831,2012-01-02 00:00:00,Loss,Paper,2014-01-23,,2012-02-01,2012
+376,377,The Neighborhood Christian Clinic,Toa Payoh,9565,2012-07-02 00:00:00,Loss,Other Portable Electronic Device,2014-01-23,,2012-02-07,2012
+377,378,"AccentCare Home Health of California, Inc. Medicare # 057564    CA state License # 080000226",Yio Chu Kang,1000,04/20/2012 - 04/21/2012,Unauthorized Access/Disclosure,E-mail,2014-01-23,,2012-04-20,2012
+378,379,Seton Health Plan,Yishun,555,2012-09-03 00:00:00,Unauthorized Access/Disclosure,Paper,2014-01-23,,2012-03-09,2012
+379,380,awklein a med corp,Yio Chu Kang,2000,2011-01-02 00:00:00,Theft,Other,2014-01-23,,2011-02-01,2011
+380,381,Utah Department of Health,Farrer Park,780000,03/10/2012-04/02/2012,Hacking/IT Incident,Network Server,2014-01-23,,2012-03-10,2012
+381,382,IU Medical Group,Novena,1000,2012-11-04 00:00:00,Improper Disposal,Paper,2014-01-23,,2012-04-11,2012
+382,383,Rhinebeck Health Center/Center for Progressive Medicine,Sengkang,6745,11/15/2011-12/14/2011,Theft,"Desktop Computer, Network Server",2014-06-03,"The CE's network server and two local computers were hacked and compromised by a computer virus which resulted in the disclosure of electronic protected health information (ePHI) of 6,745 individuals.  The ePHI included names, insurance numbers, diagnoses, medical histories, dates of birth, telephone numbers, and social security numbers.  Upon discovery of the breach, the CE shut down all computer and email systems to prevent unauthorized access to its network and core files.  In addition, the CE decommissioned the previously used server, deactivated the network router, disabled network access to ePHI, and discontinued the previously utilized backup.  As a result of OCR's investigation, the CE deployed a new real-time firewall and intrusion detection system and implemented new measures for software management.  In addition, the CE installed a new network server, deployed a new router with security subscription to actively monitor internal network traffic and external threat patterns, and implemented a centralized antivirus software system.",2011-11-15,2011
+383,384,Memorial Healthcare System,Sembawang,9497,08/01/2011 - 02/12/2012,Other,Other,2014-01-23,,2011-08-01,2011
+384,385,"Roy E. Gondo, M.D.",Punggol,2100,2/21/2012,Theft,"Desktop Computer, Electronic Medical Record",2014-01-23,,2012-02-21,2012
+385,386,"DRD Management, Inc. D/B/A DRD Knoxville Medical Clinic - Central",Yishun,1000,2/16/2012,Improper Disposal,Paper,2014-01-23,,2012-02-16,2012
+386,387,Emory Healthcare,Eunos,315000,02/07/2012 - 02/20/2012,"Unknown, Other",Other,2014-01-23,,2012-02-07,2012
+387,388,"Rex Smith, DPM -Rex Smith Podiatry ",Boon Keng,20915,2/19/2012,Theft,Desktop Computer,2014-01-23,,2012-02-19,2012
+388,389,Desert AIDS Project,Yio Chu Kang,4400,2012-12-04 00:00:00,Theft,Desktop Computer,2014-01-23,,2012-04-12,2012
+389,390,University of Arkansas for Medical Sciences,Bouna Vista,7121,2/15/2012,Unauthorized Access/Disclosure,Other,2014-01-23,,2012-02-15,2012
+390,391,"TLC DENTAL DANIA, LLC",Sembawang,750,4/23/2012,Theft,Paper,2014-02-20,,2012-04-23,2012
+391,392,South Carolina Department of Health and Human Services,Little India,228435,01/31/2012 - 04/02/2012,Unauthorized Access/Disclosure,E-mail,2014-01-23,,2012-01-31,2012
+392,393,Oregon Health Authority,Boon Keng,550,4/13/2012,Theft,Paper,2014-04-23,,2012-04-13,2012
+393,394,SHIELDS For Families ,Yio Chu Kang,961,2/27/2012,Theft,Network Server,2014-01-23,,2012-02-27,2012
+394,395,"Safe Ride Services, Inc",Toa Payoh,42000,8/31/2011,"Unauthorized Access/Disclosure, Hacking/IT Incident",Network Server,2014-01-23,,2011-08-31,2011
+395,396,IntraCare North Hospital,Yishun,750,03/15/2011 - 08/18/2011,Theft,Paper,2014-01-23,,2011-03-15,2011
+396,397,"Oakland Vision Services, PC",Newton,3000,2012-09-04 00:00:00,Hacking/IT Incident,Network Server,2014-03-24,,2012-04-09,2012
+397,398,"Stephen Haggard, DPM Podiatry ",Punggol,1597,2012-04-03 00:00:00,Theft,Network Server,2014-01-23,,2012-03-04,2012
+398,399,Baptist Health System,Clementi,1655,2012-08-03 00:00:00,Improper Disposal,Paper,2014-01-23,,2012-03-08,2012
+399,400,University of Houston for UH College of Optometry,Yishun,7000,02/22/2012-02/23/2012,"Unauthorized Access/Disclosure, Hacking/IT Incident",Network Server,2014-01-23,,2012-02-22,2012
+400,401,Rite Aid Store 1343,Kent Ridge,2905,3/26/2012,Theft,Paper,2014-03-24,,2012-03-26,2012
+401,402,Iowa Department of Human Services,Bukit Merah,3000,02/06/2012 - 03/14/2012,Improper Disposal,Paper,2014-01-23,,2012-02-06,2012
+402,403,Hogan Services Inc. Health Care Premium Plan,Queenstown,1134,3/30/2012,Unauthorized Access/Disclosure,E-mail,2014-01-23,,2012-03-30,2012
+403,404,"Family HealthServices Minnesota, P.A.",Chai Chee,4000,3/30/2012,Theft,Laptop,2014-06-10,,2012-03-30,2012
+404,405,St. Mary Medical Center,Yio Chu Kang,3900,2012-07-05 00:00:00,Loss,Other Portable Electronic Device,2014-01-23,,2012-05-07,2012
+405,406,Fairview Health Services,Chai Chee,623,7/25/2011,Theft,Laptop,2014-03-24,,2011-07-25,2011
+406,407,Our Lady of the Lake Regional Medical Center,Kovan,17000,3/16/2012,"Theft, Loss",Laptop,2014-01-23,,2012-03-16,2012
+407,408,UnitedHealth Group health plan single affiliated covered entity,Chai Chee,19100,06/28/2011 - 12/12/2011,Unauthorized Access/Disclosure,Other,2014-01-23,,2011-06-28,2011
+408,409,West Dermatology,Yio Chu Kang,1900,04/21/2012 - 04/22/2012,Theft,Other,2014-01-23,,2012-04-21,2012
+409,410,Duke University Health System,Bukit Panjang,591,04/21/2004-02/16/2012,Unauthorized Access/Disclosure,Other,2014-01-23,,2004-04-21,2004
+410,411,"Luz Colon, DPM  Podiatry ",Sembawang,1137,3/20/2012,"Theft, Loss",Laptop,2014-01-23,,2012-03-20,2012
+411,412,Ameritas Life Insurance Corp. ,Bukit Batok,3000,3/21/2012,Theft,Laptop,2014-01-23,,2012-03-21,2012
+412,413,Children's Hospital Boston,Paya Lebar,2159,3/25/2012,Theft,Laptop,2014-01-23,,2012-03-25,2012
+413,414,Upper Valley Medical Center,Jurong East,15000,10/01/2010-03/21/2012,Unauthorized Access/Disclosure,Other,2014-01-23,,2010-10-01,2010
+414,415,Physician's Automated Laboratory,Yio Chu Kang,745,03/23/2012 - 03/26/2012,Theft,Paper,2014-01-23,,2012-03-23,2012
+415,416,"Phoebe Putney Memorial Hospital, Inc. ",Eunos,12937,07/26/2010-03/29/2012,Theft,"Electronic Medical Record, Paper",2014-02-20,,2010-07-26,2010
+416,417,Independence Physical Therapy,Admiralty,925,2011-01-08 00:00:00,Theft,Desktop Computer,2014-01-23,,2011-08-01,2011
+417,418,Titus Regional Medical Center,Yishun,5700,3/27/2012,"Loss, Unknown",Laptop,2014-01-23,,2012-03-27,2012
+418,419,Titus Regional Medical Center,Yishun,500,3/29/2012,Theft,Other,2014-01-23,,2012-03-29,2012
+419,420,Lutheran Community Services Northwest,Punggol,756,03/29/2012-03/30/2012,Theft,"Desktop Computer, Other Portable Electronic Device",2014-01-23,,2012-03-29,2012
+420,421,"Volunteer State Health Plan, Inc. ",Bishan,1102,03/16/2012-04/20/2012,Loss,Paper,2014-01-23,,2012-03-16,2012
+421,422,Charlie Norwood VA Medical Center,Eunos,824,3/30/2012,Loss,Other Portable Electronic Device,2014-01-23,,2012-03-30,2012
+422,423,"Mid America Health, Inc.",Novena,1444,2012-06-04 00:00:00,Theft,Laptop,2014-01-23,,2012-04-06,2012
+423,424,"Metcare of Florida, Inc.",Sembawang,2557,05/01/2012 - 05/02/2012,Theft,Other Portable Electronic Device,2014-01-23,,2012-05-01,2012
+424,425,"Robert Witham, MD, FACP",Boon Keng,11136,4/16/2012,Theft,Desktop Computer,2014-01-23,,2012-04-16,2012
+425,426,Memorial Sloan-Kettering Cancer Center,Sengkang,568,08/13/2009-04/12/2012,Theft,"E-mail, Other",2014-06-03,"The covered entity's (CE) staff member disclosed an unencrypted Microsoft Excel graph to a non-covered entity physician who re-disclosed it to a medical education organization to be used  in a presentation.  In addition, the medical education organization posted the presentation slides on its website.  The graph contained the protected health information (PHI) of 569 individuals and included names, telephone numbers, social security numbers, ages, cities and states of residence, medical record numbers, and clinical information.  Upon discovery of the breach, the CE ensured that the information was removed from the website and deleted, sanctioned the workforce member responsible, and retrained its workforce on the use of a data loss prevention tool and the risks of embedded PHI.  As a result of OCR's investigation, the CE provided OCR with evidence of its technical safeguards and security awareness initiatives and provided assurance that it implemented the corrective action listed above.",2009-08-13,2009
+426,427,"Gessler Clinic, P.A.",Sembawang,1409,05/03/2012-05/04/2012,Theft,Paper,2014-01-23,,2012-05-03,2012
+427,428,University of Kentucky HealthCare,Kembangan,4490,2012-01-05 00:00:00,Theft,Laptop,2014-01-23,,2012-05-01,2012
+428,429,Wolf & Yun,Kembangan,824,4/24/2012,Theft,Laptop,2014-01-23,,2012-04-24,2012
+429,430,Karen Kietzman,Telok Blangah,708,4/22/2012,Theft,"Laptop, Other Portable Electronic Device",2014-03-21,,2012-04-22,2012
+430,431,"Bruce G. Peller, DMD, PA",Bukit Panjang,9953,4/22/2012,Unauthorized Access/Disclosure,Desktop Computer,2014-01-23,,2012-04-22,2012
+431,432,"Sharon L. Rogers, Ph.D., ABPP",Yishun,585,6/16/2012,Theft,Laptop,2014-01-23,,2012-06-16,2012
+432,433,Health Texas Provider Network - Cardiovascular Consultants of North Texas,Yishun,2462,03/16/2012 - 05/11/2012,Unauthorized Access/Disclosure,Electronic Medical Record,2014-01-23,,2012-03-16,2012
+433,434,SwedishAmerican Health System,Boon Lay,1500,5/31/2012,Theft,Paper,2014-03-24,,2012-05-31,2012
+434,435,River Arch Dental,Yio Chu Kang,2533,2012-12-05 00:00:00,"Loss, Unauthorized Access/Disclosure, Unknown",Other Portable Electronic Device,2014-01-23,,2012-05-12,2012
+435,436,Hamner Square Dental ,Yio Chu Kang,1112,2012-12-05 00:00:00,"Theft, Loss, Unauthorized Access/Disclosure, Unknown",Other Portable Electronic Device,2014-01-23,,2012-05-12,2012
+436,437,Visiting Nurse Services of Iowa,Bukit Merah,1298,5/27/2012,Theft,Paper,2014-01-23,,2012-05-27,2012
+437,438,Molalla Family Dental,Boon Keng,4354,5/17/2012,"Unauthorized Access/Disclosure, Hacking/IT Incident, Other",Network Server,2014-01-23,,2012-05-17,2012
+438,439,Pamlico Medical Equipment LLC,Bukit Panjang,2917,5/16/2012,Loss,Other Portable Electronic Device,2014-01-23,,2012-05-16,2012
+439,440,Beth Israel Deaconess Medical Center,Paya Lebar,3900,5/22/2012,Theft,Laptop,2014-01-23,,2012-05-22,2012
+440,441,NYU School of Medicine Faculty Group Practice,Sengkang,8488,5/22/2012,Theft,Desktop Computer,2014-01-23,,2012-05-22,2012
+441,442,"Adult & Child Center, Inc.",Novena,550,2012-10-05 00:00:00,Hacking/IT Incident,Other,2014-01-23,,2012-05-10,2012
+442,443,"The Surgeons of Lake County, LLC",Boon Lay,7067,06/22/2012-06/25/2012,Other,Network Server,2014-01-23,,2012-06-22,2012
+443,444,Kindred Healthcare Inc d/b/a Kindred Transitional Care and Rehabilitation-Sellersburg,Novena,1504,06/01/2012-06/04/2012,Theft,Other,2014-01-23,,2012-06-01,2012
+444,445,Jeffrey Paul Edelstein M.D.,Toa Payoh,4800,5/28/2012,Theft,Network Server,2014-01-23,,2012-05-28,2012
+445,446,Northwestern Memorial Hospital,Boon Lay,4211,2012-11-06 00:00:00,Theft,"Laptop, Other Portable Electronic Device",2014-01-23,,2012-06-11,2012
+446,447,Walgreen Co.,Boon Lay,1240,2012-05-07 00:00:00,Theft,Paper,2014-01-23,,2012-07-05,2012
+447,448,VNA HealthCare,Admiralty,7461,6/25/2012,Theft,Laptop,2014-02-19,,2012-06-25,2012
+448,449,Hartford Hospital,Admiralty,2097,6/25/2012,Theft,Laptop,2014-04-23,,2012-06-25,2012
+449,450,Diversified Support Services,Novena,505,2012-10-05 00:00:00,Hacking/IT Incident,Other,2014-01-23,,2012-05-10,2012
+450,451,Oregon Health & Science University,Boon Keng,702,2012-04-07 00:00:00,Theft,Other,2014-01-23,,2012-07-04,2012
+451,452,Stanford Hospital & Clinics and School of Medicine,Yio Chu Kang,2300,07/15/2012 - 07/16/2012,Theft,Desktop Computer,2014-01-23,,2012-07-15,2012
+452,453,Midtown Mental Health Center,Novena,890,2012-10-05 00:00:00,Hacking/IT Incident,Other,2014-01-23,,2012-05-10,2012
+453,454,Harris County Hospital District,Yishun,2875,04/14/2008 - 02/28/2011,Theft,"Electronic Medical Record, Paper",2014-04-23,,2008-04-14,2008
+454,455,Howard University Hospital,Tampines,66601,1/25/2012,Theft,Laptop,2014-01-23,,2012-01-25,2012
+455,456,TEMPLE COMMUNITY HOSPITAL,Yio Chu Kang,603,2012-03-07 00:00:00,Theft,Desktop Computer,2014-01-23,,2012-07-03,2012
+456,457,Memorial Healthcare System,Sembawang,105646,01/01/2011 - 07/05/2012,Theft,Electronic Medical Record,2014-01-23,,2011-01-01,2011
+457,458,Central States Southeast and Siouthwest Areas Health & Welfare Fund,Boon Lay,754,7/31/2012,"Unauthorized Access/Disclosure, Other",Paper,2014-01-23,,2012-07-31,2012
+458,459,LANA MEDICAL CARE,Sembawang,500,8/18/2012,Theft,Laptop,2014-01-23,,2012-08-18,2012
+459,460,"Cancer Care Group, P.C.",Novena,55000,7/19/2012,Theft,Other Portable Electronic Device,2014-03-24,,2012-07-19,2012
+460,461,Tricounty Behavioral Health Clinic,Eunos,4000,8/26/2012,Theft,Laptop,2014-01-23,,2012-08-26,2012
+461,462,Sierra Plastic Surgery,Hougang,800,08/19/2011-09/20/2011,"Unauthorized Access/Disclosure, Hacking/IT Incident",Network Server,2014-01-23,,2011-08-19,2011
+462,463,"Charlotte Clark-Neitzel, MD",Punggol,942,7/24/2012,Theft,Laptop,2014-01-23,,2012-07-24,2012
+463,464,University of Miami,Sembawang,64846,7/18/2012,"Unauthorized Access/Disclosure, Other",Paper,2014-01-23,,2012-07-18,2012
+464,465,University of New Mexico Health Sciences Center,Choa Chu Kang,2365,5/21/2012,Hacking/IT Incident,Network Server,2014-01-23,,2012-05-21,2012
+465,466,"Valley Plastic Surgery, P.C.",Marine Parade,4873,7/15/2012,Theft,Other Portable Electronic Device,2014-03-24,,2012-07-15,2012
+466,467,Colon & Digestive Health Specialists,Bouna Vista,5713,7/16/2012,Loss,Other Portable Electronic Device,2014-01-23,,2012-07-16,2012
+467,468,"BHcare, Inc",Admiralty,5827,7/19/2012,Theft,"Laptop, Other Portable Electronic Device",2014-02-19,,2012-07-19,2012
+468,469,The Feinstein Institute for Medical Research,Sengkang,13000,2012-02-09 00:00:00,Theft,Laptop,2014-01-23,,2012-09-02,2012
+469,470,"St. Therese Medical Group, Inc",Yio Chu Kang,3031,7/22/2012,Theft,Desktop Computer,2014-01-23,,2012-07-22,2012
+470,471,"Cabinet for Health and Family Services, Department for Community Based Services (Protection and Permanency)",Kembangan,2500,7/20/2012,Unauthorized Access/Disclosure,E-mail,2014-01-23,,2012-07-20,2012
+471,472,"Litton & Giddings Radiological Associates, P.C.",Queenstown,13074,07/31/2012 - 08/02/2012,Improper Disposal,Paper,2014-01-23,,2012-07-31,2012
+472,473,"Apria Healthcare, Inc.",Yio Chu Kang,65700,6/14/2012,Theft,Laptop,2014-01-23,,2012-06-14,2012
+473,474,"Alexander J. Tikhtman, M.D.",Kembangan,2376,8/15/2012,Loss,Other Portable Electronic Device,2014-01-23,,2012-08-15,2012
+474,475,Gulf Coast Health Care Services Inc,Sembawang,13000,8/17/2012,"Theft, Unauthorized Access/Disclosure, Hacking/IT Incident",Network Server,2014-01-23,,2012-08-17,2012
+475,476,"Blount Memorial Hospital, Inc",Bishan,27799,8/25/2012,Theft,Laptop,2014-01-23,,2012-08-25,2012
+476,477,"Alere Home Monitoring, Inc",Yio Chu Kang,116506,9/23/2012,Theft,Laptop,2014-01-23,,2012-09-23,2012
+477,478,"Coastal home Respiratory, LLP",Eunos,3440,2012-04-10 00:00:00,Theft,Other,2014-01-23,,2012-10-04,2012
+478,479," Philip P Corneliuson, DDS, INC.",Yio Chu Kang,980,9/15/2012,Theft,Desktop Computer,2014-01-23,,2012-09-15,2012
+479,480,"First Step Counseling, Inc.",Bedok,638,05/01/2011 - 08/05/2011,Theft,Paper,2014-06-03,"Two of the covered entity's (CE) employees photocopied documents containing 638 patients' protected health information (PHI) and disclosed the documents to their attorney.  The PHI included names, insurance numbers, diagnoses, dates of birth, telephone numbers, and social security numbers.  Upon discovery of the breach, the CE hired attorneys to seek immediate return of all photocopies that contained the PHI.  The CE provided breach notification to the affected individuals, HHS and the media.  As a result of OCR's investigation, the CE transferred to an electronic billing system that is password protected and secured patient files with a lock.  Further, the front desk has been positioned by a protective window and policies have been implemented to prevent patients from standing beside the reception desk.  The CE also reviewed and revised its consent forms and retrained all staff. ",2011-05-01,2011
+480,481,"Logan Community Resources, Inc.",Novena,2900,8/24/2012,Hacking/IT Incident,Network Server,2014-01-23,,2012-08-24,2012
+481,482,"David DiGiallorenzo, D.M.D.",Serangoon,2600,9/17/2012,"Unauthorized Access/Disclosure, Hacking/IT Incident","Network Server, Electronic Medical Record",2014-01-23,,2012-09-17,2012
+482,483,CVS Caremark,Pasir Ris,955,8/13/2012,Theft,Paper,2014-01-23,,2012-08-13,2012
+483,484,Memorial Hospital,Jurong East,500,8/29/2012,Improper Disposal,Paper,2014-03-24,,2012-08-29,2012
+484,485,Miami Beach Healthcare Group Ltd. dba Aventura Hospital and Medical Center,Sembawang,2560,01/01/2012 - 09/12/2012,Theft,Electronic Medical Record,2014-01-23,,2012-01-01,2012
+485,486,"WYATT DENTAL GROUP, LLC",Kovan,10271,11/04/2011 -04/15/2012,"Theft, Unauthorized Access/Disclosure",Electronic Medical Record,2014-01-23,,2011-11-04,2011
+486,487,Women & Infants Hospital of Rhode Island,Pasir Ris,14004,9/13/2012,Loss,Other,2014-01-23,,2012-09-13,2012
+487,488,Memorial Health System,Redhill,6262,2012-01-05 00:00:00,Loss,Paper,2014-01-23,,2012-05-01,2012
+488,489,CHRISTUS St. John Hospital,Yishun,5748,9/25/2012,Loss,Other Portable Electronic Device,2014-01-23,,2012-09-25,2012
+489,490,L.A. Care Health Plan,Yio Chu Kang,18000,09/17/2012-09/20/2012,Other,Other,2014-01-23,,2012-09-17,2012
+490,491,"Hawaii State Department of Health, Adult Mental Health Division",Geylang,674,9/25/2012,Hacking/IT Incident,Desktop Computer,2014-01-23,,2012-09-25,2012
+491,492,"Soundental Associates, PC",Admiralty,14511,9/24/2012,Theft,Other Portable Electronic Device,2014-02-19,,2012-09-24,2012
+492,493,"Original Medicine Acupuncture & Wellness, LLC",Choa Chu Kang,540,09/07/2012 - 09/09/2012,Theft,Laptop,2014-01-23,,2012-09-07,2012
+493,494,Brigham and Women's Hospital,Paya Lebar,615,10/16/2012,Theft,Desktop Computer,2014-01-23,,2012-10-16,2012
+494,495,"St. Francis Health Network, aka Franciscan Alliance ACO",Novena,2575,10/19/2012,Other,Other,2014-01-23,,2012-10-19,2012
+495,496,"James M. McGee, D.M.D., P.C.",Eunos,1306,09/19/2012 - 09/26/2012,Theft,Paper,2014-01-23,,2012-09-19,2012
+496,497,Robbins Eye Center PC,Admiralty,1749,2012-07-10 00:00:00,Theft,Desktop Computer,2014-01-23,,2012-10-07,2012
+497,498,"Advanced Data Processing, Inc.",Sembawang,10000,06/15/2012 -10/01/2012,Theft,Desktop Computer,2014-01-23,,2012-06-15,2012
+498,499,Cuyahoga County Board of Developmental Disabilities,Jurong East,613,2012-02-11 00:00:00,Theft,Laptop,2014-03-24,,2012-11-02,2012
+499,500,Okaloosa County Public Safety,Sembawang,715,06/15/2012 - 10/01/2012,Theft,Desktop Computer,2014-01-23,,2012-06-15,2012
+500,501,City of Covington Kentucky Fire Department ,Kembangan,1548,06/15/2012-10/01/2012,Theft,Desktop Computer,2014-01-23,,2012-06-15,2012
+501,502,Northern Trust,Boon Lay,500,9/13/2012,Unauthorized Access/Disclosure,Network Server,2014-03-24,,2012-09-13,2012
+502,503,Vidant Pungo Hospital,Bukit Panjang,1100,2012-04-10 00:00:00,Improper Disposal,Paper,2014-01-23,,2012-10-04,2012
+503,504,County of San Bernardino Department of Public Heatlh,Yio Chu Kang,1370,09/28/2012 - 09/30/2012,Unauthorized Access/Disclosure,Paper,2014-01-23,,2012-09-28,2012
+504,505,City of Overland Park Fire Department,Sembawang,911,06/15/2012 - 10/01/2012,Theft,Desktop Computer,2014-01-23,,2012-06-15,2012
+505,506,Sumner County Emergency Medical Services,Bishan,774,06/15/2012 - 10/01/2012,Theft,Desktop Computer,2014-01-23,,2012-06-15,2012
+506,507,City of El Centro Fire Department,Yio Chu Kang,1500,2012-01-10 00:00:00,"Theft, Unauthorized Access/Disclosure",Desktop Computer,2014-01-23,,2012-10-01,2012
+507,508,Landmark Medical Center,Pasir Ris,683,2012-01-10 00:00:00,Theft,Laptop,2014-01-23,,2012-10-01,2012
+508,509,City of Atlanta/ Atlanta Fire Rescue Department,Eunos,908,06/15/2012-10/01/2012,Theft,Desktop Computer,2014-01-23,,2012-06-15,2012
+509,510,University of Virginia Medical Center,Marine Parade,1846,2012-05-10 00:00:00,Loss,Other Portable Electronic Device,2014-02-14,,2012-10-05,2012
+510,511,Osceola County EMS ,Sembawang,949,06/15/2012-10/01/2012,Theft,Desktop Computer,2014-01-23,,2012-06-15,2012
+511,512,Carolinas Medical Center - Randolph,Bukit Panjang,5600,03/11/2012 - 10/08/2012,Hacking/IT Incident,E-mail,2014-01-23,,2012-03-11,2012
+512,513,"Coastal Behavioral Healthcare, Inc.",Sembawang,4907,2011-11-04 00:00:00,Theft,Paper,2014-01-23,,2011-04-11,2011
+513,514,"CCS Medical, Inc.",Yishun,6601,05/01/2012 - 09/21/2012,Unauthorized Access/Disclosure,"Network Server, Other",2014-01-23,,2012-05-01,2012
+514,515,"City of Gloucester, Fire Department",Paya Lebar,1286,06/15/2012-10/01/2012,Theft,Desktop Computer,2014-01-23,,2012-06-15,2012
+515,516,Columbia University Medical Center and NewYork-Presbyterian Hospital,Sengkang,4929,10/12/2012-10/15/2012,Theft,Desktop Computer,2014-01-23,,2012-10-12,2012
+516,517,Baptist Health System,Bouna Vista,811,10/13/2012-10/27/2012,Other,Paper,2014-01-23,,2012-10-13,2012
+517,518,"DFA, Employee Benefits Division",Bouna Vista,7039,10/13/2012 - 10/27/2012,Other,Paper,2014-01-23,,2012-10-13,2012
+518,519,Health Advantage,Bouna Vista,2863,10/13/2012 - 10/27/2012,Other,Paper,2014-01-23,,2012-10-13,2012
+519,520,University of Michigan Health System,Newton,3999,11/14/2012,Theft,Laptop,2014-01-23,,2012-11-14,2012
+520,521,Westerville Dental Center,Jurong East,850,2012-02-12 00:00:00,Theft,"Laptop, Network Server",2014-01-23,,2012-12-02,2012
+521,522,"OHP PHSP, Inc.",Sengkang,28187,08/31/2012 - 09/21/2012,Unauthorized Access/Disclosure,Other,2014-01-23,,2012-08-31,2012
+522,523,"Center for Orthopedic Research and Education, Inc.",Toa Payoh,35488,10/20/2012 - 10/21/2012,Theft,Paper,2014-04-23,,2012-10-20,2012
+523,524,Calif. Dept. of Health Care Services (DHCS),Yio Chu Kang,2643,12/10/2012 - 12/18/2012,Unauthorized Access/Disclosure,Other,2014-01-23,,2012-12-10,2012
+524,525,Richard Switzer MD PC,Newton,4100,11/29/2011,Other,Laptop,2014-03-24,,2011-11-29,2011
+525,526,Gibson General Hospital,Novena,28893,11/27/2012,Theft,Laptop,2014-03-24,,2012-11-27,2012
+526,527,"Sovereign Medical Group, LLC",Bedok,27800,2012-10-10 00:00:00,"Theft, Hacking/IT Incident",Network Server,2014-01-23,,2012-10-10,2012
+527,528,"Cabinet for Health & Family Services, Department of Medicaid Services",Kembangan,1090,11/15/2012,Hacking/IT Incident,Laptop,2014-01-23,,2012-11-15,2012
+528,529,"Harbor Medical Associates, P.C.",Paya Lebar,4343,10/18/2012 - 11/04/2012,Hacking/IT Incident,Network Server,2014-01-23,,2012-10-18,2012
+529,530,Sentara Healthcare,Marine Parade,56820,11/14/2012,Theft,Laptop,2014-02-14,,2012-11-14,2012
+530,531,St. Mark's Medical Center,Yishun,2988,5/21/2012,Hacking/IT Incident,Desktop Computer,2014-01-23,,2012-05-21,2012
+531,532,"Granite Medical Group, Inc.",Paya Lebar,4125,01/02/2010 - 11/15/2012,Hacking/IT Incident,Network Server,2014-02-19,,2010-01-02,2010
+532,533,University of Nevada School of Medicine,Hougang,1483,2012-11-10 00:00:00,Improper Disposal,Paper,2014-01-23,,2012-10-11,2012
+533,534,Dimensions Healthcare System,Tanglin,635,11/16/2012,Unauthorized Access/Disclosure,Paper,2014-03-25,,2012-11-16,2012
+534,535,SilverScript Insurance Company,Toa Payoh,852,10/31/2012,Unauthorized Access/Disclosure,Paper,2014-01-23,,2012-10-31,2012
+535,536,South Jersey Hospital Inc.,Bedok,8555,11/14/2012,Theft,Laptop,2014-01-23,,2012-11-14,2012
+536,537,"Child & Family Psychological Services, Inc.",Paya Lebar,7250,10/18/2012-10/29/2012,Hacking/IT Incident,Network Server,2014-01-23,,2012-10-18,2012
+537,538,Pousson Family Dentistry,Kovan,1400,2012-03-12 00:00:00,Theft,Laptop,2014-01-23,,2012-12-03,2012
+538,539,South Shore Medical Center,Paya Lebar,4100,01/01/2007-11/15/2012,Hacking/IT Incident,Network Server,2014-01-23,,2007-01-01,2007
+539,540,"Lee D. Pollan, DMD, PC",Sengkang,19178,11/06/2012-11/15/2012,Theft,Laptop,2014-05-28,"OCR opened an investigation of the covered entity (CE) after it reported an unencrypted laptop was stolen that contained the electronic protected health information (ePHI) of 19,178 individuals.  The ePHI included names, addresses, zip codes, dates of birth, social security numbers, claims information, and diagnosis codes.  Upon discovery of the breach, the CE filed a police report to recover the stolen items.  As a result of OCR's investigation, the CE encrypted the backup drive of the contents of the laptop computer.  The CE also trained all staff on the use of encryption to safeguard data on personal computers and mobile devices.",2012-11-06,2012
+540,541,Washington University School of Medicine,Queenstown,1105,11/28/2012,Theft,Laptop,2014-01-23,,2012-11-28,2012
+541,542,Riderwood Village,Tanglin,3230,11/18/2012,Theft,Laptop,2014-01-23,,2012-11-18,2012
+542,543,WAYNE MEMORIAL HOSPITAL,Serangoon,1184,2012-03-12 00:00:00,Loss,Other,2014-03-24,,2012-12-03,2012
+543,544,Baptist Health System,Yishun,678,8/14/2011,Unauthorized Access/Disclosure,Electronic Medical Record,2014-03-13,,2011-08-14,2011
+544,545,Baillie Lumber Co. Group Health Plan,Sengkang,725,11/27/2012,Theft,Paper,2014-06-20,"OCR opened an investigation of the covered entity (CE), Baillie Lumber Co. Group Health Plan, after it reported its business associate (BA), Blue Cross Blue Shield, mailed a monthly premium notice with invoices that contained the protected health information (PHI) of 725 individuals which was never received by the CE.  The PHI included names, member identification numbers, and social security numbers.  The CE provided breach notification to HHS and affected individuals.  Upon discovery of the breach, the BA contacted the U.S. Post Office to inquire about the package that contained the invoices that the CE never received.  As a result of OCR's investigation, the BA revised its invoice process and removed social security numbers and member identification numbers from its invoices.  The BA also improved safeguards by changing its mailing procedures to send invoices to the CE via secure email.  The breach involved a BA and occurred prior to the September 23, 2013, compliance date.  OCR verified that the CE had a proper BA agreement in place that restricted the BA's use and disclosure of PHI and required the BA to safeguard all PHI.",2012-11-27,2012
+545,546,The University of Texas MD Anderson Cancer Center,Yishun,29021,4/30/2012,Theft,Laptop,2014-01-23,,2012-04-30,2012
+546,547,"Western Wisconsin Medical Association, S.C. - River Falls Medical Clinics",Simei,2400,05/30/2012-08/31/2012,Theft,Paper,2014-03-24,,2012-05-30,2012
+547,548,Boy Scouts of America Employee Benefit Plan,Yishun,8911,09/15/2012-11/30/2012,Theft,Desktop Computer,2014-01-23,,2012-09-15,2012
+548,549,Kmart Corporation,Boon Lay,16988,2013-02-01 00:00:00,Improper Disposal,Paper,2014-02-12,,2013-01-02,2013
+549,550,Community Services NW,Clementi,2400,2012-06-12 00:00:00,Theft,Desktop Computer,2014-04-23,,2012-12-06,2012
+550,551,American HomePatient Inc. ,Bishan,1103,2012-11-10 00:00:00,Theft,Laptop,2014-01-23,,2012-10-11,2012
+551,552,Yadkinville Chiropractic DCPA,Bukit Panjang,1000,2013-01-02 00:00:00,Theft,Desktop Computer,2014-02-12,,2013-02-01,2013
+552,553,"Intervention Services, Inc.",Sembawang,1200,1/19/2013,Theft,Laptop,2014-01-23,,2013-01-19,2013
+553,554,West Georgia Ambulance,Eunos,500,12/13/2012,Loss,Laptop,2014-01-23,,2012-12-13,2012
+554,555,"Center for Pain Management, LLC",Tanglin,5822,1/22/2013,Theft,Laptop,2014-01-23,,2013-01-22,2013
+555,556,Multiple Health Plans,Yio Chu Kang,1368,2013-07-12 00:00:00,"Theft, Other",Paper,2014-01-23,,2013-12-07,2013
+556,557,Froedtert Health,Simei,43549,10/27/2012-12/13/2012,Unauthorized Access/Disclosure,Other,2014-03-24,,2012-10-27,2012
+557,558,Jackson Health System,Sembawang,566,05/26/2011 - 02/18/2012,Other,Paper,2014-01-23,,2011-05-26,2011
+558,559,Riderwood Village,Tanglin,5270,11/18/2012,Theft,Laptop,2014-01-23,,2012-11-18,2012
+559,560,"Kindred Healthcare, Inc. d/b/a Kindred Transitional Care and Rehabilitation - Marl",Paya Lebar,716,12/15/2012-12/17/2012,Theft,Other Portable Electronic Device,2014-01-23,,2012-12-15,2012
+560,561,"HomeCare of Mid-Missouri, Inc.",Queenstown,4027,12/14/2012,Theft,Laptop,2014-01-23,,2012-12-14,2012
+561,562,Heyman HospiceCare at Floyd,Eunos,1819,2013-04-01 00:00:00,Theft,Laptop,2014-01-23,,2013-01-04,2013
+562,563,Agency for Health Care Administration,Sembawang,1892,11/01/2012 - 12/20/2012,Unauthorized Access/Disclosure,Paper,2014-01-23,,2012-11-01,2012
+563,564,ABQ HealthPartners,Choa Chu Kang,778,12/20/2012,Theft,Laptop,2014-01-23,,2012-12-20,2012
+564,565,Terrell County Health Department,Eunos,18000,01/09/2012 -  04/17/2012,Unauthorized Access/Disclosure,Network Server,2014-01-23,,2012-01-09,2012
+565,566,Florida Healthy Kids Corporation,Sembawang,3667,11/01/2012-12/20/2012,Unauthorized Access/Disclosure,Paper,2014-01-23,,2012-11-01,2012
+566,567,Stronghold Counseling Services Inc,Pasir Laba,8500,12/24/2012,Theft,Desktop Computer,2014-01-23,,2012-12-24,2012
+567,568,Arizona Oncology,Toa Payoh,501,11/21/2012,Theft,Laptop,2014-01-23,,2012-11-21,2012
+568,569,Crescent Health Inc. - a Walgreens Company,Yio Chu Kang,109000,12/28/2012,Theft,Desktop Computer,2014-01-23,,2012-12-28,2012
+569,570,"County of San Bernardino, Department of Behavioral Health",Yio Chu Kang,686,2013-12-01 00:00:00,Theft,Paper,2014-01-23,,2013-01-12,2013
+570,571,"WOMENS HEALTH ENTERPRISE, INC.",Eunos,3000,2013-02-01 00:00:00,Theft,Laptop,2014-01-23,,2013-01-02,2013
+571,572,The Brookdale University Hospital and Medical Center,Sengkang,2261,2012-11-08 00:00:00,Theft,Paper,2014-06-20,"OCR opened an investigation of the covered entity (CE), The Brookdale University Hospital and Medical Center, after it reported its business associate (BA), Standard Register, inadvertently mailed statements to 2,261 individuals using another affiliated CE's envelopes.  The protected health information (PHI) included names, addresses and financial information.  OCR provided technical assistance to the CE regarding safeguarding PHI.",2012-08-11,2012
+572,573,The Brookdale University Hospital and Medical Center,Sengkang,28187,9/21/2012,Theft,Other Portable Electronic Device,2014-06-20,"The covered entity's (CE) business associate (BA), Health Plus Amerigroup, mailed an unencrypted compact disk that contained the electronic protected health information (ePHI) of 28,187 individuals to the CE, The Brookdale University Hospital and Medical Center.  OCR closed this breach report and consolidated into an existing breach report filed by OHP PHSP, Inc. regarding the same issues.",2012-09-21,2012
+573,574,"Ultra Stores, Inc.",Boon Lay,500,9/13/2012,Unauthorized Access/Disclosure,Other,2014-03-24,,2012-09-13,2012
+574,575,South Miami Hospital,Sembawang,834,2011-01-06 00:00:00,Unauthorized Access/Disclosure,Electronic Medical Record,2014-01-23,,2011-06-01,2011
+575,576,Lancaster General Medical Group,Serangoon,527,2013-05-02 00:00:00,Theft,Paper,2014-01-23,,2013-02-05,2013
+576,577,Maine Medical Center,Aljunied,1920,2/27/2013,Other,E-mail,2014-02-12,,2013-02-27,2013
+577,578,"State of California, Dept. of Developmental Services",Yio Chu Kang,18162,2012-10-11 00:00:00,Theft,Laptop,2014-01-23,,2012-11-10,2012
+578,579,Utah Department of Health ,Farrer Park,6332,01/10/2013-01/11/2013,Loss,Other Portable Electronic Device,2014-01-23,,2013-01-10,2013
+579,580,Sports Rehabilitation Consultants,Jurong East,1200,2013-01-02 00:00:00,Theft,Desktop Computer,2014-02-12,,2013-02-01,2013
+580,581,University of Connecticut Health Center,Admiralty,1382,06/07/2010 - 12/07/2012,Unauthorized Access/Disclosure,Network Server,2014-01-23,,2010-06-07,2010
+581,582,"United HomeCare Services, Inc.",Sembawang,12299,2013-08-01 00:00:00,Theft,Laptop,2014-01-23,,2013-01-08,2013
+582,583,United Home Care Services of Southwest Florida< LLC,Sembawang,1318,2013-08-01 00:00:00,Theft,Laptop,2014-01-23,,2013-01-08,2013
+583,584,"catoctin Dental/Richard B. Love, DDS, PA",Tanglin,6400,2013-03-01 00:00:00,Hacking/IT Incident,Network Server,2014-01-23,,2013-01-03,2013
+584,585,Empire Blue Cross Blue Shield,Novena,2608,11/01/2011-10/01/2012,"Theft, Unauthorized Access/Disclosure",Network Server,2014-01-23,,2011-11-01,2011
+585,586,Anthem Blue Cross Blue Shield (OH),Novena,1678,11/01/2011-10/01/2012,"Theft, Unauthorized Access/Disclosure",Network Server,2014-01-23,,2011-11-01,2011
+586,587,Anthem Blue Cross Blue Shield (IN),Novena,528,11/01/2011-10/01/2012,"Theft, Unauthorized Access/Disclosure",Network Server,2014-01-23,,2011-11-01,2011
+587,588,Mount Sinai Medical Center,Sembawang,628,10/01/2012 - 02/18/2013,Theft,"Desktop Computer, Paper",2014-01-23,,2012-10-01,2012
+588,589,"Thomas L. Davis, Jr. DDS",Boon Keng,3269,2013-12-02 00:00:00,Theft,"Desktop Computer, Electronic Medical Record",2014-01-23,,2013-02-12,2013
+589,590,"HealthCare for Women, Inc.",Paya Lebar,8727,01/18/2013-01/23/2013,Hacking/IT Incident,Network Server,2014-01-23,,2013-01-18,2013
+590,591,University of Mississippi Medical Center,Yishun,500,11/01/2012-01/19/2013,Loss,Laptop,2014-01-23,,2012-11-01,2012
+591,592,Granger Medical Clinic,Farrer Park,2600,1/17/2013,"Theft, Loss, Other",Paper,2014-02-12,,2013-01-17,2013
+592,593,Texas Tech Unversity Health Sciences Center,Yishun,697,2/18/2013,Unauthorized Access/Disclosure,Paper,2014-01-23,,2013-02-18,2013
+593,594,Rite Aid #10217,Pasir Ris,2082,2013-01-02 00:00:00,"Unknown, Other",Paper,2014-02-12,,2013-02-01,2013
+594,595,WA Department of Social and Health Services,Punggol,629,2013-04-02 00:00:00,Theft,Laptop,2014-01-23,,2013-02-04,2013
+595,596,Carpenters Health & Welfare Trust Fund for California,Yio Chu Kang,2400,03/11/2013-03/12/2013,Unauthorized Access/Disclosure,Paper,2014-01-23,,2013-03-11,2013
+596,597,"Shands Jacksonville Medical Center, Inc.",Sembawang,1025,05/02/2012-06/22/2012,"Theft, Unauthorized Access/Disclosure",Electronic Medical Record,2014-01-23,,2012-05-02,2012
+597,598,University of Florida,Sembawang,14519,03/01/2009 - 10/25/2012,"Theft, Unauthorized Access/Disclosure, Other",Network Server,2014-01-23,,2009-03-01,2009
+598,599,Kmart Corporation,Boon Lay,12542,3/17/2013,Theft,Electronic Medical Record,2014-02-12,,2013-03-17,2013
+599,600,GLENS FALLS HOSPITAL,Sengkang,2360,11/02/2012 - 03/14/2013,Theft,Network Server,2014-06-03,"The covered entity's (CE) business associate (BA) operated a server containing the electronic protected health information (ePHI) of 2,360 individuals that was vulnerable to access by unauthorized persons for over four months.  The ePHI included transcribed doctors' notes, which may have included medical diagnoses, clinical laboratory results, diagnostic imaging reports, emergency department records, and medication administration.  Upon discovery of the breach, the CE engaged a computer forensic expert to investigate the incident and terminated the BA agreement.  As a result of OCR's investigation, the CE ensured that its BA secured the server, verified that the server was no longer accessible from the Internet, and required the BA to return or destroy all of the CE's ePHI.",2012-11-02,2012
+600,601,Hospice and Palliative Care Center of Alamance Caswell,Bukit Panjang,5370,2/24/2013,"Theft, Unauthorized Access/Disclosure","Laptop, Paper",2014-01-23,,2013-02-24,2013
+601,602,"Texas Health Care, P.L.L.C.",Yishun,554,2013-10-03 00:00:00,Theft,Paper,2014-01-23,,2013-03-10,2013
+602,603,Network Health Insurance Corporation,Simei,3794,2/27/2012,Unauthorized Access/Disclosure,Paper,2014-03-24,,2012-02-27,2012
+603,604,Wm. Jennings Bryan Dorn VAMC,Little India,7405,2013-11-02 00:00:00,Loss,Laptop,2014-01-23,,2013-02-11,2013
+604,605,Schneck Medical Center,Novena,3131,3/14/2013,Unauthorized Access/Disclosure,Other,2014-02-12,,2013-03-14,2013
+605,606,The Guidance Center of Westchester,Sengkang,1416,2/21/2013,Theft,Desktop Computer,2014-01-23,,2013-02-21,2013
+606,607,Hope Hospice,Yishun,818,12/27/2012 - 02/22/2013,Other,E-mail,2014-01-23,,2012-12-27,2012
+607,608,"IHC Health Services, Inc. dba Intermountain Life Flight",Farrer Park,857,3/28/2013,Unauthorized Access/Disclosure,Other,2014-02-12,,2013-03-28,2013
+608,609,Valley Mental Health,Farrer Park,700,2/27/2013,Theft,Desktop Computer,2014-01-23,,2013-02-27,2013
+609,610,Delta Dental of Pennsylvania,Serangoon,14829,3/20/2013,Loss,Paper,2014-01-23,,2013-03-20,2013
+610,611,Raleigh Orthopaedic Clinic,Bukit Panjang,17300,1/15/2013,"Theft, Improper Disposal, Unauthorized Access/Disclosure",Paper,2014-01-23,,2013-01-15,2013
+611,612,Laboratory Corporation of America,Bukit Panjang,1580,3/15/2013,Theft,Desktop Computer,2014-02-12,,2013-03-15,2013
+612,613,"Arizona Counseling & Treatment Services, LLC",Toa Payoh,3800,03/18/2013-03/25/2013,Theft,Other Portable Electronic Device,2014-01-23,,2013-03-18,2013
+613,614,Wood County Hospital,Jurong East,2500,3/19/2013,Theft,Other,2014-01-23,,2013-03-19,2013
+614,615,University of Rochester Medical Center & Affiliates,Sengkang,537,2/15/2013,Loss,Other Portable Electronic Device,2014-01-23,,2013-02-15,2013
+615,616,Orthopedics & Adult Reconstructive Surgery,Yishun,22000,03/01/2013 - 03/13/2013,Loss,Other Portable Electronic Device,2014-01-23,,2013-03-01,2013
+616,617,El Centro Regional Medical Center,Yio Chu Kang,189489,2012-07-11 00:00:00,Improper Disposal,Paper,2014-01-23,,2012-11-07,2012
+617,618,Seattle - King County Department of Public Health,Punggol,750,2013-07-03 00:00:00,Improper Disposal,Paper,2014-01-23,,2013-03-07,2013
+618,619,Regional Medical Center,Bishan,1180,2013-04-02 00:00:00,Unauthorized Access/Disclosure,E-mail,2014-01-23,,2013-02-04,2013
+619,620,Presbyterian Anesthesia Associates PA,Bukit Panjang,9988,2013-01-04 00:00:00,Hacking/IT Incident,Network Server,2014-01-23,,2013-04-01,2013
+620,621,"Integrity Oncology, an office of Baptist Medical Group",Bishan,539,2013-05-03 00:00:00,Other,Desktop Computer,2014-01-23,,2013-03-05,2013
+621,622,"Piedmont HealthCare, P.A.",Bukit Panjang,1924,3/28/2013,Hacking/IT Incident,Network Server,2014-01-23,,2013-03-28,2013
+622,623,Indiana University Health Arnett,Novena,10350,2013-09-04 00:00:00,Theft,Laptop,2014-01-23,,2013-04-09,2013
+623,624,"Dent Neurologic Group, LLP",Sengkang,10000,5/13/2013,Other,E-mail,2014-01-23,,2013-05-13,2013
+624,625,City of Norwood,Jurong East,9577,04/14/2013 - 04/19/2013,Loss,Laptop,2014-01-23,,2013-04-14,2013
+625,626,Lutheran Social Services of South Central Pennsylvania,Serangoon,7803,06/01/2012 - 03/07/2013,Hacking/IT Incident,Network Server,2014-01-23,,2012-06-01,2012
+626,627,Comfort Dental Marion and Kokomo,Novena,5388,03/14/2013-03/18/2013,Improper Disposal,Other,2014-01-23,,2013-03-14,2013
+627,628,Erskine Family Dentistry,Novena,2723,3/19/2013,Hacking/IT Incident,Desktop Computer,2014-02-12,,2013-03-19,2013
+628,629,Health Resources of Arkansas,Bouna Vista,1900,4/14/2013,"Theft, Unauthorized Access/Disclosure",Other,2014-01-23,,2013-04-14,2013
+629,630,Various Health Plans,Clementi,3164,04/14/2013-04/15/2013,Theft,Laptop,2014-01-23,,2013-04-14,2013
+630,631,Independence Care System,Sengkang,2434,2013-07-05 00:00:00,Theft,Laptop,2014-01-23,,2013-05-07,2013
+631,632,Sonoma Valley Hospital,Yio Chu Kang,1386,2/14/2013,Other,Other,2014-01-23,,2013-02-14,2013
+632,633,University of Florida,Sembawang,5875,02/01/2012- 04/11/2013,"Theft, Unauthorized Access/Disclosure",Electronic Medical Record,2014-01-23,,2012-02-01,2012
+633,634,"Community Support Services, Inc.",Jurong East,1167,03/20/2013-03/26/2013,Theft,E-mail,2014-02-12,,2013-03-20,2013
+634,635,UMASSAmherst,Paya Lebar,1670,10/22/2012,Hacking/IT Incident,Desktop Computer,2014-01-23,,2012-10-22,2012
+635,636,Palm Beach County Health Department,Sembawang,877,2013-07-01 00:00:00,Unauthorized Access/Disclosure,Desktop Computer,2014-01-23,,2013-01-07,2013
+636,637,Lucile Packard Children's Hospital,Yio Chu Kang,12900,2013-08-05 00:00:00,Theft,Laptop,2014-01-23,,2013-05-08,2013
+637,638,Fayetteville VAMC,Bukit Panjang,1093,4/17/2013,Improper Disposal,Paper,2014-01-23,,2013-04-17,2013
+638,639,Lincoln County Health and Human Services/Lincoln Community Health Center,Boon Keng,959,4/17/2013,Unauthorized Access/Disclosure,Paper,2014-01-23,,2013-04-17,2013
+639,640,Union Security Insurance Company,Queenstown,1127,5/17/2013,Improper Disposal,E-mail,2014-01-23,,2013-05-17,2013
+640,641,"Gulf Breeze Family Eyecare, Inc",Sembawang,9626,03/08/2013-05/09/2013,"Theft, Unauthorized Access/Disclosure","Desktop Computer, Network Server, E-mail, Electronic Medical Record, Paper",2014-01-23,,2013-03-08,2013
+641,642,Jacksonville Spine Center,Sembawang,5200,4/25/2013,Unauthorized Access/Disclosure,Paper,2014-01-23,,2013-04-25,2013
+642,643,Iowa Department of Human Services,Bukit Merah,7335,4/30/2013,"Loss, Unknown",Other,2014-01-23,,2013-04-30,2013
+643,644,James A. Fosnaugh,Bukit Batok,2125,05/01/2013 - 05/03/2013,Loss,Other Portable Electronic Device,2014-01-23,,2013-05-01,2013
+644,645,Lone Star Circle of Care,Yishun,1955,05/01/2013-05/02/2013,Theft,Laptop,2014-01-23,,2013-05-01,2013
+645,646,Aflac,Eunos,679,2013-09-05 00:00:00,Theft,Laptop,2014-01-23,,2013-05-09,2013
+646,647,Indiana Family & Social Services Administration,Novena,187533,04/06/2013-05/21/2013,Other,Paper,2014-01-23,,2013-04-06,2013
+647,648,Northrop Grumman Retiree Health Plan,Marine Parade,4305,5/20/2013,Theft,Paper,2014-06-24,"Business associate (BA) employees erroneously sent 4,305 health plan members' protected health information (PHI) to other plan members.  The PHI involved in the breach included names and prescribed medication(s).  The covered entity, Northrop Grumman Retiree Health Plan, provided breach notification to HHS, and the BA, CVS Caremark, provided breach notification to affected individuals and the media.  Following the breach, the BA revised its quality control policies for targeted mailings and retrained employees involved in the breach to prevent similar incidents in the future.  OCR obtained assurances that the BA implemented the breach notification and policy revisions listed above.",2013-05-20,2013
+648,649,"Health Net, Inc.",Yio Chu Kang,8331,04/01/2013 - 05/31/2013,Other,Paper,2014-01-23,,2013-04-01,2013
+649,650,"South Florida Neurology Associates, P.A.",Sembawang,900,05/25/2013-05/30/2013,Theft,Laptop,2014-01-23,,2013-05-25,2013
+650,651,Samaritan Regional Health System,Jurong East,2203,5/29/2013,Other,Paper,2014-01-23,,2013-05-29,2013
+651,652,MED-EL Coproration,Bukit Panjang,609,6/25/2013,Other,E-mail,2014-01-23,,2013-06-25,2013
+652,653,Illinois Department of Healthcare and Familiy Services,Boon Lay,3133,2013-08-05 00:00:00,Other,Paper,2014-01-23,,2013-05-08,2013
+653,654,Delta Dental of Pennsylvania,Serangoon,4718,5/13/2013,Loss,Paper,2014-01-23,,2013-05-13,2013
+654,655,"Medtronic, Inc.",Chai Chee,2764,03/28/2013-03/29/2013,Loss,Paper,2014-01-23,,2013-03-28,2013
+655,656,Texas Health Harris Methodist Hospital Fort Worth,Yishun,277014,2013-11-05 00:00:00,Improper Disposal,Other,2014-01-23,,2013-05-11,2013
+656,657,Long Beach Memorial Medical Center,Yio Chu Kang,2864,09/01/2012-07/01/2013,Unauthorized Access/Disclosure,Electronic Medical Record,2014-01-23,,2012-09-01,2012
+657,658,Hansen & Associates,Teban Gardens,2700,05/21/2013-05/29/2013,Theft,Desktop Computer,2014-06-10,,2013-05-21,2013
+658,659,Sheet Metal Local 36 Welfare Fund,Queenstown,4560,08/01/2012-07/08/2013,Unauthorized Access/Disclosure,Other,2014-01-23,,2012-08-01,2012
+659,660,Harris County,Yishun,21000,08/15/2005 - 06/14/2007,Unauthorized Access/Disclosure,Desktop Computer,2014-01-23,,2005-08-15,2005
+660,661,"San Jose Medical Supply Co., Inc.",Yio Chu Kang,800,10/01/2011-11/31/2011,"Theft, Unauthorized Access/Disclosure, Hacking/IT Incident","Desktop Computer, Network Server",2014-01-23,,2011-10-01,2011
+661,662,"GEO Care, LLC",Sembawang,710,4/16/2013,Unauthorized Access/Disclosure,Desktop Computer,2014-01-23,,2013-04-16,2013
+662,663,The Brookdale Hospital and Medical Center,Sengkang,2700,5/24/2013,Loss,Other Portable Electronic Device,2014-01-23,,2013-05-24,2013
+663,664,Louisiana State University Health Care Services Division,Kovan,6994,2011-01-12 00:00:00,Unauthorized Access/Disclosure,Desktop Computer,2014-01-23,,2011-12-01,2011
+664,665,Oregon Health & Science University,Boon Keng,1361,01/01/2011-07/03/2013,Unauthorized Access/Disclosure,Other,2014-01-31,,2011-01-01,2011
+665,666,"Rocky Mountain Spine Clinic, P.C.",Redhill,532,2013-11-06 00:00:00,"Theft, Unauthorized Access/Disclosure",Network Server,2014-01-23,,2013-06-11,2013
+666,667,"Vitreo-Retinal Medical Group, Inc. ",Yio Chu Kang,1837,2013-05-06 00:00:00,Theft,Laptop,2014-01-23,,2013-06-05,2013
+667,668,Arkansas Department of Human Services,Bouna Vista,1911,4/14/2013,Theft,Laptop,2014-02-12,,2013-04-14,2013
+668,669,Baylor All Saints Medical Center at Fort Worth,Yishun,940,05/07/2013-06/06/2013,Unauthorized Access/Disclosure,Other Portable Electronic Device,2014-02-12,,2013-05-07,2013
+669,670,"Cogent Healthcare, Inc.",Bishan,32151,05/05/2013-06/24/2013,Unauthorized Access/Disclosure,Network Server,2014-01-23,,2013-05-05,2013
+670,671,Young Family Medicine Inc.,Jurong East,2045,2013-12-06 00:00:00,Theft,Laptop,2014-01-23,,2013-06-12,2013
+671,672,Hancock OB/GYN,Novena,1396,11/09/2011 - 06/17/2013,Unauthorized Access/Disclosure,Electronic Medical Record,2014-01-23,,2011-11-09,2011
+672,673,Colfax,Novena,5497,2013-11-04 00:00:00,Other,Other,2014-02-12,,2013-04-11,2013
+673,674,Missouri Department of Social Services,Queenstown,1357,10/16/2011 - 06/07/2013,Unauthorized Access/Disclosure,Paper,2014-01-23,,2011-10-16,2011
+674,675,Foundations Recovery Network,Bishan,5690,6/15/2013,Theft,Laptop,2014-01-23,,2013-06-15,2013
+675,676,California Correctional Health Care Services,Yio Chu Kang,1033,6/19/2013,Other,Paper,2014-01-23,,2013-06-19,2013
+676,677,North Texas Comprehensive Spine & Pain Center,Yishun,3200,6/16/2013,"Theft, Loss",Other Portable Electronic Device,2014-02-12,,2013-06-16,2013
+677,678,Minne-Tohe Health Center/Elbowoods Memorial Health Center,Potong Pasir,10000,2011-01-10 00:00:00,"Improper Disposal, Unauthorized Access/Disclosure","Desktop Computer, Other",2014-01-23,,2011-10-01,2011
+678,679,Jackson Health System,Sembawang,1471,01/08/2013 - 01/10/2013,Other,Paper,2014-01-23,,2013-01-08,2013
+679,680,"Advocate Health and Hospitals Corporation, d/b/a Advocate Medical Group",Boon Lay,4029530,7/15/2013,Theft,Desktop Computer,2014-01-23,,2013-07-15,2013
+680,681,"Summit Community Care Clinic, Inc.",Redhill,921,7/22/2013,Hacking/IT Incident,Desktop Computer,2014-01-23,,2013-07-22,2013
+681,682,UT Physicians,Yishun,596,07/22/2013-08/02/2013,"Theft, Loss",Laptop,2014-01-23,,2013-07-22,2013
+682,683,Parkview Community Hospital Medical Center,Yio Chu Kang,32000,05/05/2013 - 06/24/2013,Other,Network Server,2014-01-23,,2013-05-05,2013
+683,684,Atlanta Center for Reproductive Medicine,Eunos,654,2013-12-07 00:00:00,Other,E-mail,2014-01-23,,2013-07-12,2013
+684,685,St. Anthony's Physician Organization,Queenstown,2600,7/29/2013,Theft,"Laptop, Other Portable Electronic Device",2014-01-23,,2013-07-29,2013
+685,686,Janna Benkelman LPC LLC,Redhill,1500,2013-01-08 00:00:00,Theft,Laptop,2014-01-23,,2013-08-01,2013
+686,687,Olson & White Orthodontics,Queenstown,10000,7/22/2013,Theft,"Desktop Computer, Network Server",2014-01-23,,2013-07-22,2013
+687,688,Kaiser Foundation Health Plan of the Northwest,Boon Keng,647,3/15/2013,Unauthorized Access/Disclosure,Electronic Medical Record,2014-01-23,,2013-03-15,2013
+688,689,"Hankyu Chung, M.D.",Yio Chu Kang,2182,6/17/2013,Theft,Laptop,2014-01-23,,2013-06-17,2013
+689,690,"ICS Collection Service, Inc. on behalf of University of Chicago Physicians Group",Boon Lay,1290,2013-09-07 00:00:00,Hacking/IT Incident,Other,2014-01-23,,2013-07-09,2013
+690,691,ACO of Puerto Rico,Ang Mo Kio,5000,03/05/2013 - 07/16/2013,Theft,Network Server,2014-06-20,"Upon request, a subcontractor (PHM Software Solutions) of the covered entity's (CE) business associate (BA), PHM Healthcare Solutions, modified a software application the CE was utilizing  which led to the disclosure of electronic protected health information (ePHI) of 5,000 individuals on the Internet.  The ePHI included names, gender, member identification numbers, dates of birth, and consent forms.  The CE provided breach notification to HHS, the media, and affected individuals and posted substitute notice on its website.  Upon discovery of the breach, the BA removed the software application and placed it offline.  As a result of OCR's investigation, the CE had its BA to conduct a risk analysis and create a risk management plan to address any vulnerabilities identified in the risk analysis.  The breach incident involved a BA and occurred prior to the September 23, 2013, compliance date.  OCR provided technical assistance to assist the CE understand its obligations under the Privacy and Security Rules regarding BA agreements.  ",2013-03-05,2013
+691,692,"NHC HealthCare, Oak Ridge",Bishan,4268,2013-10-05 00:00:00,Loss,Other,2014-03-13,,2013-05-10,2013
+692,693,"NHC HealthCare, Mauldin",Little India,4204,5/15/2013,Improper Disposal,Other,2014-03-13,,2013-05-15,2013
+693,694,Advocate Health and Hospitals Corporation d/b/a Advocate Medical Group ,Boon Lay,2029,06/30/2013 - 08/15/2013,Hacking/IT Incident,Network Server,2014-02-12,,2013-06-30,2013
+694,695,Dreyer Medical Clinic,Boon Lay,998,06/30/2013 - 08/15/2013,Hacking/IT Incident,Network Server,2014-01-23,,2013-06-30,2013
+695,696,"South Shore Physicians, PC",Sengkang,8000,01/01/2006 - 01/12/2012,Theft,Network Server,2014-01-23,,2006-01-01,2006
+696,697,Dermatology Associates of Tallahassee,Sembawang,916,2013-04-09 00:00:00,Unknown,Other,2014-01-23,,2013-09-04,2013
+697,698,Sierra View District Hospital,Yio Chu Kang,1009,07/01/2013 - 08/02/2013,Unauthorized Access/Disclosure,Electronic Medical Record,2014-01-23,,2013-07-01,2013
+698,699,Missouri Department of Social Services,Queenstown,25461,12/21/2009 - 06/07/2013,Unauthorized Access/Disclosure,Paper,2014-02-12,,2009-12-21,2009
+699,700,"Holy Cross Hospital, Inc.",Sembawang,9900,8/14/2013,"Theft, Unauthorized Access/Disclosure","Desktop Computer, Network Server",2014-01-23,,2013-08-14,2013
+700,701,Region Ten Community Services Board,Marine Parade,10228,7/29/2013,Hacking/IT Incident,E-mail,2014-01-23,,2013-07-29,2013
+701,702,Comprehensive Podiatry LLC,Jurong East,1360,2013-03-08 00:00:00,Theft,Laptop,2014-01-23,,2013-08-03,2013
+702,703,Santa Clara Valley Medical Center,Yio Chu Kang,579,09/14/2013 - 09/15/2013,Theft,Laptop,2014-01-23,,2013-09-14,2013
+703,704,"Sarah Benjamin, DPM - Littleton Podiatry ",Redhill,3512,8/27/2013,Theft,Laptop,2014-01-23,,2013-08-27,2013
+704,705,"Carol L. Patrick, Ph.D.",Jurong East,517,08/08/2013-08/09/2013,Theft,Network Server,2014-01-23,,2013-08-08,2013
+705,706,HOPE Family Health,Bishan,6932,2013-04-08 00:00:00,Theft,Laptop,2014-01-23,,2013-08-04,2013
+706,707,TSYS Employee Health Plan,Eunos,5232,2013-05-09 00:00:00,Theft,E-mail,2014-01-23,,2013-09-05,2013
+707,708,"University of California, San Francisco",Yio Chu Kang,3553,2013-09-09 00:00:00,Theft,"Laptop, Paper",2014-01-23,,2013-09-09,2013
+708,709,"Reconstructive Orthopaedic Associates II, P.C. d/b/a Rothman Institute",Serangoon,2350,03/18/2013-05/13/2013,"Theft, Unauthorized Access/Disclosure",Paper,2014-01-23,,2013-03-18,2013
+709,710,Group Health Cooperative,Punggol,1015,9/16/2013,Other,Paper,2014-01-23,,2013-09-16,2013
+710,711,Schuylkill Health System,Serangoon,2810,2013-07-08 00:00:00,Theft,Laptop,2014-01-23,,2013-08-07,2013
+711,712,CaroMont Medical Group,Bukit Panjang,1310,2013-05-08 00:00:00,Other,E-mail,2014-01-23,,2013-08-05,2013
+712,713,Mount SInai Medical Center,Sengkang,1586,2013-06-08 00:00:00,Improper Disposal,Paper,2014-01-23,,2013-08-06,2013
+713,714,Memorial Hospital of Lafayette County,Simei,4330,2013-03-08 00:00:00,Unauthorized Access/Disclosure,Paper,2014-01-23,,2013-08-03,2013
+714,715,Saint Louis University,Queenstown,3100,7/25/2013,Unauthorized Access/Disclosure,E-mail,2014-01-23,,2013-07-25,2013
+715,716,MUSC Physicians & MUHA,Little India,7120,6/30/2013,Hacking/IT Incident,Network Server,2014-02-12,,2013-06-30,2013
+716,717,Ferris State University - MI College of Optometry,Newton,3947,2011-01-12 00:00:00,Hacking/IT Incident,Network Server,2014-01-23,,2011-12-01,2011
+717,718,"Access Counseling, LLC",Novena,566,8/23/2013,Theft,Laptop,2014-01-23,,2013-08-23,2013
+718,719,Rose Medical Center,Redhill,606,06/28/2013 - 07/16/2013,Improper Disposal,Paper,2014-01-23,,2013-06-28,2013
+719,720,BriovaRx,Boon Lay,1067,07/03/2013 - 07/11/2013,Unauthorized Access/Disclosure,E-mail,2014-01-23,,2013-07-03,2013
+720,721,"North Country Hospital and Health Center, Inc",Queenstown,550,9/18/2013,Theft,Laptop,2014-01-23,,2013-09-18,2013
+721,722,"Hope Community Resources, Inc.",Woodlands,1556,8/19/2013,Unauthorized Access/Disclosure,E-mail,2014-01-23,,2013-08-19,2013
+722,723,Broward Health Medical Center,Sembawang,960,10/01/2012 - 12/31/2012,Unauthorized Access/Disclosure,Desktop Computer,2014-01-23,,2012-10-01,2012
+723,724,Sentara Healthcare,Marine Parade,3645,10/01/2012 - 07/11/2013,Theft,"Electronic Medical Record, Paper",2014-01-23,,2012-10-01,2012
+724,725,Mount Sinai Medical Center,Sengkang,610,2013-01-08 00:00:00,Loss,Other Portable Electronic Device,2014-02-12,,2013-08-01,2013
+725,726,Texas Health Presbyterian Dallas Hospital,Yishun,949,8/22/2013,Theft,Desktop Computer,2014-02-12,,2013-08-22,2013
+726,727,Seton Healthcare Family,Yishun,5500,2013-04-10 00:00:00,Theft,Laptop,2014-01-23,,2013-10-04,2013
+727,728,BRONX-LEBANON HOSPITAL CENTER,Sengkang,10930,9/23/2009,Unauthorized Access/Disclosure,Network Server,2014-01-23,,2009-09-23,2009
+728,729,"Martin Luther King Jr. Health Center, Inc.",Sengkang,37000,9/23/2009,Unauthorized Access/Disclosure,Network Server,2014-01-23,,2009-09-23,2009
+729,730,SSM St. Mary's Health Center,Queenstown,1300,7/25/2013,Unauthorized Access/Disclosure,E-mail,2014-01-23,,2013-07-25,2013
+730,731,Good Samaritan Hospital,Yio Chu Kang,3833,2013-08-07 00:00:00,Theft,Laptop,2014-01-23,,2013-07-08,2013
+731,732,SSM Health Care of Wisconsin DBA: St. Mary's Janesville Hospital,Simei,631,8/27/2013,Theft,Laptop,2014-01-23,,2013-08-27,2013
+732,733,AHMC Healthcare Inc. and affiliated Hospitals,Yio Chu Kang,729000,2013-12-10 00:00:00,Theft,Laptop,2014-01-23,,2013-10-12,2013
+733,734,"Greater Dallas Orthopaedics, PLLC",Yishun,5840,8/30/2013,Theft,Desktop Computer,2014-01-23,,2013-08-30,2013
+734,735,"Spirit Home Health Care, Corp",Sembawang,603,9/19/2013,Improper Disposal,Paper,2014-01-23,,2013-09-19,2013
+735,736,Rotech Healthcare Inc.,Sembawang,10680,11/26/2010 - 10/01/2013,Unauthorized Access/Disclosure,Laptop,2014-02-18,,2010-11-26,2010
+736,737,"Reimbursement Technologies, Inc.",Serangoon,2300,05/01/2013 - 07/26/2013,Unauthorized Access/Disclosure,Network Server,2014-01-23,,2013-05-01,2013
+737,738,Comprehensive Psychological Services LLC,Little India,3500,10/28/2013,Theft,Laptop,2014-01-23,,2013-10-28,2013
+738,739,"Superior HealthPlan, Inc.",Yishun,6284,2013-04-10 00:00:00,Other,Paper,2014-01-23,,2013-10-04,2013
+739,740,Genesis Rehabilitation Services,Serangoon,1167,8/30/2013,Loss,Other Portable Electronic Device,2014-01-23,,2013-08-30,2013
+740,741,"Colorado Health & Wellness, Inc.",Redhill,651,2013-04-09 00:00:00,"Theft, Unauthorized Access/Disclosure",Electronic Medical Record,2014-01-23,,2013-09-04,2013
+741,742,Barnabas Health Medical Group,Bedok,1100,9/24/2013,Theft,Laptop,2014-01-23,,2013-09-24,2013
+742,743,"DaVita, a division of DaVita HealthCare Partners Inc",Redhill,11500,2013-06-09 00:00:00,"Theft, Other",Laptop,2014-01-23,,2013-09-06,2013
+743,744,Blue Cross and Blue Shield of North Carolina,Bukit Panjang,687,10/14/2013,Unauthorized Access/Disclosure,Paper,2014-01-23,,2013-10-14,2013
+744,745,North Carolina Department of Health and Human Services - Division of State Operated Health Care Facilities  ,Bukit Panjang,1315,8/13/2013,Unauthorized Access/Disclosure,Other,2014-01-23,,2013-08-13,2013
+745,746,Puerto Rico Health Insurance Administration (PRHIA),Ang Mo Kio,13336,9/20/2013,Unauthorized Access/Disclosure,Paper,2014-01-23,,2013-09-20,2013
+746,747,Triple-S Salud ,Ang Mo Kio,70189,9/20/2013,Unauthorized Access/Disclosure,Paper,2014-01-23,,2013-09-20,2013
+747,748,Associated Urologists of North Carolina,Bukit Panjang,7300,09/17/2012 - 09/17/2013,Other,Other,2014-01-23,,2012-09-17,2012
+748,749,Kemmet Dental Design ,Potong Pasir,2000,2013-10-11 00:00:00,"Theft, Other",Paper,2014-01-23,,2013-11-10,2013
+749,750,Hospice of the Chesapeake,Tanglin,7606,2013-09-08 00:00:00,Unauthorized Access/Disclosure,E-mail,2014-01-23,,2013-08-09,2013
+750,751,"Scottsdale Dermatology, LTD",Toa Payoh,1456,01/01/2013 -10/04/2013,Theft,Other,2014-01-23,,2013-01-01,2013
+751,752,Memorial Sloan-Kettering Cancer Center,Sengkang,2279,2013-01-08 00:00:00,Loss,Other Portable Electronic Device,2014-02-18,,2013-08-01,2013
+752,753,Gerdau Ameristeel Health and Welfare Plan,Sembawang,3804,9/27/2013,Theft,Laptop,2014-02-18,,2013-09-27,2013
+753,754,Gerdau Macsteel Health and Welfare Plan,Newton,4837,9/27/2013,Theft,Laptop,2014-02-18,,2013-09-27,2013
+754,755,UHS-Pruitt Corporation,Eunos,1300,9/26/2013,Theft,Laptop,2014-01-23,,2013-09-26,2013
+755,756,"United Dynacare, LLC dba Dynacare Laboratories",Simei,9328,10/22/2013,Theft,Other Portable Electronic Device,2014-01-23,,2013-10-22,2013
+756,757,Redwood Memorial Hospital,Yio Chu Kang,1039,2013-06-11 00:00:00,Loss,Other Portable Electronic Device,2014-01-23,,2013-11-06,2013
+757,758,Kaiser Foundation Hospital- Orange County,Yio Chu Kang,49000,9/25/2013,Loss,Other Portable Electronic Device,2014-01-23,,2013-09-25,2013
+758,759,Jones Chiropractic and Maximum Health,Novena,1500,10/13/2013,Theft,Desktop Computer,2014-01-23,,2013-10-13,2013
+759,760,Ronald Schubert MD PLLC,Punggol,950,11/22/2013,Theft,Laptop,2014-01-23,,2013-11-22,2013
+760,761,UPMC,Serangoon,1279,11/05/2012 - 11/06/2013,Unauthorized Access/Disclosure,Electronic Medical Record,2014-02-18,,2012-11-05,2012
+761,762,UW Medicine,Punggol,76183,2013-02-10 00:00:00,Hacking/IT Incident,Desktop Computer,2014-02-18,,2013-10-02,2013
+762,763,City of Chicago,Boon Lay,2080,06/18/2013 - 10/07/2013,Unauthorized Access/Disclosure,Network Server,2014-01-23,,2013-06-18,2013
+763,764,CIty of Joliet,Boon Lay,1573,2013-08-10 00:00:00,Unauthorized Access/Disclosure,E-mail,2014-01-23,,2013-10-08,2013
+764,765,SIU HealthCare,Boon Lay,1891,09/13/2013 - 10/15/2013,"Theft, Loss",Laptop,2014-01-23,,2013-09-13,2013
+765,766,The Good Samaritan Health Center,Eunos,5000,2013-06-11 00:00:00,Other,Desktop Computer,2014-01-23,,2013-11-06,2013
+766,767,UniHealth Source,Eunos,4500,2013-08-10 00:00:00,Theft,Laptop,2014-01-23,,2013-10-08,2013
+767,768,Walgreen Co.,Boon Lay,17350,09/18/2013 - 10/04/2013,Other,Paper,2014-01-23,,2013-09-18,2013
+768,769,Methodist Dallas Medical Center,Yishun,44000,09/01/2005 - 08/01/2013,Unauthorized Access/Disclosure,Other,2014-01-23,,2005-09-01,2005
+769,770,Florida Digestive Health Specialists,Sembawang,4400,03/06/2013 -09/09/2013,Unauthorized Access/Disclosure,Desktop Computer,2014-01-23,,2013-03-06,2013
+770,771,"Northside Hospital, Inc.",Eunos,4879,2013-10-10 00:00:00,Loss,Laptop,2014-01-23,,2013-10-10,2013
+771,772,"Health Help, Inc.",Kembangan,535,10/15/2013,Theft,Other Portable Electronic Device,2014-01-23,,2013-10-15,2013
+772,773,L.A. Gay & Lesbian Center,Yio Chu Kang,59000,09/17/2013 - 11/08/2013,Hacking/IT Incident,Network Server,2014-01-23,,2013-09-17,2013
+773,774,Mosaic,Bukit Batok,3857,2013-11-10 00:00:00,Other,E-mail,2014-01-23,,2013-10-11,2013
+774,775,New Jersey Department of Human Services,Bedok,9642,10/18/2013,Loss,Other Portable Electronic Device,2014-01-23,,2013-10-18,2013
+775,776,"Fairfax County, Virginia",Marine Parade,1499,09/09/2013 - 10/03/2013,Unauthorized Access/Disclosure,Network Server,2014-01-23,,2013-09-09,2013
+776,777,Wyoming Department of Health,Teban Gardens,11935,10/16/2013,Unauthorized Access/Disclosure,Network Server,2014-01-23,,2013-10-16,2013
+777,778,Shiloh Medical Clinic,Telok Blangah,1900,2013-08-11 00:00:00,Unauthorized Access/Disclosure,"Desktop Computer, E-mail",2014-01-23,,2013-11-08,2013
+778,779,South Carolina Health Insurance Pool,Little India,3432,10/16/2013,Theft,Laptop,2014-01-23,,2013-10-16,2013
+779,780,Tennova Cardiology,Bishan,2777,10/21/2013,Theft,Laptop,2014-01-23,,2013-10-21,2013
+780,781,Delta Dental of Pennsylvania,Serangoon,1674,10/16/2013,Loss,Paper,2014-03-13,,2013-10-16,2013
+781,782,"Molina Healthcare of Texas, Inc.",Yishun,2826,2013-01-10 00:00:00,Other,Paper,2014-01-23,,2013-10-01,2013
+782,783,"Rob Meaglia, DDS",Yio Chu Kang,1400,12/16/2013,Theft,Desktop Computer,2014-01-23,,2013-12-16,2013
+783,784,Jeff Spiegel,Paya Lebar,832,11/25/2013,Unauthorized Access/Disclosure,E-mail,2014-03-13,,2013-11-25,2013
+784,785,Tranquility Counseling Services,Bukit Panjang,1683,2013-01-11 00:00:00,Other,Paper,2014-01-23,,2013-11-01,2013
+785,786,Florida Department of Health,Sembawang,2354,10/30/2013,Unauthorized Access/Disclosure,Desktop Computer,2014-03-05,,2013-10-30,2013
+786,787,"New Mexico Oncology Hematology Consultants, LTD",Choa Chu Kang,12354,11/13/2013,Theft,Laptop,2014-01-23,,2013-11-13,2013
+787,788,Department of Health Care Policy & Financing,Redhill,1918,11/21/2013,Unauthorized Access/Disclosure,E-mail,2014-02-21,,2013-11-21,2013
+788,789,"Horizon Healthcare Services, Inc., doing business as Horizon Blue Cross Blue Shield of New Jersey, and its affiliates",Bedok,839711,2013-01-11 00:00:00,Theft,Laptop,2014-02-21,,2013-11-01,2013
+789,790,Phoebe Putney Memorial Hospital,Eunos,6989,2013-05-11 00:00:00,Loss,Desktop Computer,2014-02-11,,2013-11-05,2013
+790,791,Coulee Medical Center,Punggol,2500,01/01/2010-11/30/2013,Unauthorized Access/Disclosure,"Laptop, Network Server, E-mail",2014-02-11,,2010-01-01,2010
+791,792,University of Pennsylvania Health System,Serangoon,3000,11/26/2013,Other,Paper,2014-02-11,,2013-11-26,2013
+792,793,North Carolina Department of Health and Human Services ,Bukit Panjang,48752,12/30/2013,Unauthorized Access/Disclosure,Other,2014-02-11,,2013-12-30,2013
+793,794,101 FAMILY MEDICAL GROUP,Yio Chu Kang,2500,11/23/2013,Theft,Laptop,2014-02-11,,2013-11-23,2013
+794,795,Tri Lakes Medical Center,Yishun,1489,9/20/2013,Hacking/IT Incident,Network Server,2014-02-11,,2013-09-20,2013
+795,796,VA Dept. of Medical Assistance Services,Marine Parade,25513,11/15/2013,"Unauthorized Access/Disclosure, Other",Paper,2014-02-11,,2013-11-15,2013
+796,797,Cook County Health & Hospitals System,Boon Lay,22511,2013-12-11 00:00:00,Other,E-mail,2014-02-11,,2013-11-12,2013
+797,798,Southwest General Health Center,Jurong East,953,04/13/2013 - 10/31/2013,Unknown,Other,2014-05-30,,2013-04-13,2013
+798,799,"Robert B. Neves, M.D., Inc",Yio Chu Kang,611,2011-08-05 00:00:00,Theft,Laptop,2014-01-24,,2011-05-08,2011
+799,800,"Triple-S Salud, Inc.",Ang Mo Kio,398000,2010-09-09 00:00:00,Theft,Network Server,2014-02-18,,2010-09-09,2010
+800,801,"Triple-S Salud, Inc.",Ang Mo Kio,8000,2008-03-10 00:00:00,"Theft, Unauthorized Access/Disclosure",Network Server,2014-01-24,,2008-10-03,2008
+801,802,Urology Centers of Alabama PC and Urology Health Foundation,Clementi,1085,8/22/2013,Other,Other,2014-06-03,,2013-08-22,2013
+802,803,Medical Mutual of Ohio,Jurong East,1420,10/16/2013,Unauthorized Access/Disclosure,Paper,2014-06-13,,2013-10-16,2013
+803,804,Unity Health Plans Insurance Corporation,Simei,41437,2013-12-12 00:00:00,Loss,Other Portable Electronic Device,2014-02-21,,2013-12-12,2013
+804,805,The University of Texas MD Anderson Cancer Center,Yishun,3598,2013-02-12 00:00:00,Loss,Other Portable Electronic Device,2014-02-11,,2013-12-02,2013
+805,806,Beebe Medical Center,Marsiling,1883,2013-02-09 00:00:00,Other,Laptop,2014-02-21,,2013-09-02,2013
+806,807,St. Joseph Health System ,Yishun,405000,12/16/2013,Hacking/IT Incident,Network Server,2014-02-11,,2013-12-16,2013
+807,808,"Min Yi, M.D.",Yio Chu Kang,4676,5/28/2013,Theft,Other Portable Electronic Device,2014-02-21,,2013-05-28,2013
+808,809,Easter Seal Society of Superior California,Yio Chu Kang,3026,2013-10-12 00:00:00,Theft,Laptop,2014-02-21,,2013-12-10,2013
+809,810,PruittHealth Pharmacy Services,Eunos,841,2013-06-12 00:00:00,Theft,Laptop,2014-02-25,,2013-12-06,2013
+810,811,"RGH Enterprises, Inc.",Jurong East,4230,03/09/2013-03/11/2013,Theft,Network Server,2014-06-24,"Computer hackers installed malware that intercepted the electronic protected health information (ePHI) of approximately 4,230 individuals using the covered entity's (CE's) website.  The ePHI included names, dates of birth, phone numbers, shipping and billing addresses, email addresses, credit card issuers, expiration dates, the last 4 digits of credit card numbers, account numbers, primary physicians, diagnoses, order histories, and health insurers.  Following the breach, the CE removed the malware from the affected computer servers, migrated the website to non-compromised ",2013-03-09,2013
+811,812,Network Pharmacy Knoxville,Bishan,9602,11/18/2013,Theft,Laptop,2014-02-11,,2013-11-18,2013
+812,813,Saint Francis Hospital and Medical Center,Admiralty,858,12/27/2013,Theft,Paper,2014-03-24,,2013-12-27,2013
+813,814,Health Dimensions,Newton,5370,2013-02-11 00:00:00,Theft,Network Server,2014-02-11,,2013-11-02,2013
+814,815,COMPLETE MEDICAL HOMECARE,Alexandra,1700,2013-12-12 00:00:00,Unauthorized Access/Disclosure,Other Portable Electronic Device,2014-02-11,,2013-12-12,2013
+815,816,Hospital for Special Surgery,Sengkang,937,3/19/2013,Theft,"Desktop Computer, Paper",2014-02-26,,2013-03-19,2013
+816,817,The Brooklyn Hospital Center,Sengkang,2172,2013-02-12 00:00:00,Loss,Other Portable Electronic Device,2014-02-24,,2013-12-02,2013
+817,818,Kmart Corporation,Boon Lay,16446,2014-04-01 00:00:00,Theft,"Other, Electronic Medical Record",2014-03-24,,2014-01-04,2014
+818,819,WA State Department of Social & Health Services,Punggol,3104,8/19/2013,"Unauthorized Access/Disclosure, Other",Paper,2014-04-21,,2013-08-19,2013
+819,820,"Lewis J. Sims, DPM, PC dba Sims and Associates Podiatry ",Sengkang,6475,2014-10-01 00:00:00,"Theft, Other",Laptop,2014-04-21,,2014-01-10,2014
+820,821,University of Miami,Sembawang,13074,6/27/2013,Loss,Paper,2014-04-21,,2013-06-27,2013
+821,822,"Supportive Concepts for Families, Inc.",Serangoon,593,2013-06-02 00:00:00,Unauthorized Access/Disclosure,Network Server,2014-02-24,,2013-02-06,2013
+822,823,Health Care Solutions at Home Inc.,Jurong East,1139,12/17/2013,Other,Other,2014-03-12,,2013-12-17,2013
+823,824,University of California Davis Medical Center,Yio Chu Kang,2269,12/13/2013,Hacking/IT Incident,E-mail,2014-04-21,,2013-12-13,2013
+824,825,"St. Vincent Hospital and Healthcare, Inc",Novena,1142,12/23/2013,Theft,Laptop,2014-03-12,,2013-12-23,2013
+825,826,Missouri Consolidated Health Care Plan,Queenstown,10024,3/23/2012,Unauthorized Access/Disclosure,Network Server,2014-03-12,,2012-03-23,2012
+826,827,The Clorox Company Group Insurance Plan,Yio Chu Kang,520,4/16/2012,Unauthorized Access/Disclosure,Network Server,2014-03-12,,2012-04-16,2012
+827,828,Regents of the University of Minnesota,Chai Chee,4786,3/29/2012,Unauthorized Access/Disclosure,Network Server,2014-03-24,,2012-03-29,2012
+828,829,Inspira Health Network Inc.,Bedok,1411,12/23/2013,Theft,Desktop Computer,2014-03-12,,2013-12-23,2013
+829,830,"Nissan North America, Inc.",Bishan,1511,2012-08-05 00:00:00,Unauthorized Access/Disclosure,Network Server,2014-03-12,,2012-05-08,2012
+830,831,"Care Advantage, Inc.",Marine Parade,3458,2013-01-01 00:00:00,Theft,Laptop,2014-03-24,,2013-01-01,2013
+831,832,HealthSource of Ohio Inc.,Jurong East,8845,11/18/2013,"Unauthorized Access/Disclosure, Other",Other,2014-03-12,,2013-11-18,2013
+832,833,"The Kroger Co., for itself and its affiliates and subsidiaries",Jurong East,504,10/30/2013,Other,Electronic Medical Record,2014-04-21,,2013-10-30,2013
+833,834,"Cornerstone Health Care, PA",Bukit Panjang,548,12/31/2013,"Theft, Loss",Laptop,2014-03-12,,2013-12-31,2013
+834,835,Joseph Michael Benson M.D,Yishun,7500,2014-05-01 00:00:00,Theft,Desktop Computer,2014-03-24,,2014-01-05,2014
+835,836,All for Kids Pediatric Clinic,Bouna Vista,600,12/27/2013,Other,Other,2014-03-24,,2013-12-27,2013
+836,837,Eureka Internal Medicine,Yio Chu Kang,3534,9/25/2013,Improper Disposal,Paper,2014-03-24,,2013-09-25,2013
+837,838,Brazos Valley Pathology,Yishun,3300,12/16/2013,Hacking/IT Incident,Network Server,2014-06-24,,2013-12-16,2013
+838,839,Banner Health,Toa Payoh,55207,2/21/2014,Other,Other,2014-03-24,,2014-02-21,2014
+839,840,Monarch Women's Health,Clementi,1145,8/22/2013,Hacking/IT Incident,Network Server,2014-06-02,,2013-08-22,2013
+840,841,"Punuru J.M. Reddy, MD, Inc.",Clementi,1179,8/22/2013,Hacking/IT Incident,Network Server,2014-03-25,,2013-08-22,2013
+841,842,Iowa Dept. of Human Services,Bukit Merah,2042,2008-01-12 00:00:00,Other,"Laptop, E-mail, Other Portable Electronic Device",2014-04-21,,2008-12-01,2008
+842,843,City of Hope,Yio Chu Kang,5400,2014-05-02 00:00:00,Theft,"Desktop Computer, E-mail",2014-03-25,,2014-02-05,2014
+843,844,Mission City Community Network,Yio Chu Kang,7800,5/31/2013,Theft,E-mail,2014-04-21,,2013-05-31,2013
+844,845,"Partners In Nephrology & Endocrinology, P.C.",Serangoon,5000,11/13/2013,Other,Other,2014-03-24,,2013-11-13,2013
+845,846,"University of California, San Francisco",Yio Chu Kang,9861,2014-11-01 00:00:00,Theft,Desktop Computer,2014-03-31,,2014-01-11,2014
+846,847,Detroit Medical Center - Harper University Hospital,Newton,1087,2012-07-09 00:00:00,"Theft, Unauthorized Access/Disclosure",Paper,2014-05-06,,2012-09-07,2012
+847,848,"Todd M. Burton, M.D.",Yishun,5000,1/13/2014,Theft,Other,2014-03-24,,2014-01-13,2014
+848,849,Valley View Hospital Association,Redhill,5415,2013-11-09 00:00:00,Other,"Laptop, Desktop Computer",2014-04-21,,2013-09-11,2013
+849,850,Hospitalists of Arizona,Toa Payoh,1706,12/31/2013,Theft,Laptop,2014-03-24,,2013-12-31,2013
+850,851,"McBroom Clinic, PA",Yishun,2260,2014-09-01 00:00:00,"Loss, Improper Disposal",Other Portable Electronic Device,2014-04-21,,2014-01-09,2014
+851,852,"QBE Holdings, Inc.",Sengkang,1746,2012-09-05 00:00:00,Unauthorized Access/Disclosure,Network Server,2014-04-21,,2012-05-09,2012
+852,853,Berea College,Kembangan,1000,1/24/2012,Other,Electronic Medical Record,2014-04-21,,2012-01-24,2012
+853,854,"HealthPartners, Inc.",Chai Chee,27839,2008-07-01 00:00:00,"Loss, Unauthorized Access/Disclosure","Laptop, Desktop Computer, Other Portable Electronic Device",2014-06-20,,2008-01-07,2008
+854,855,"Group Health Plan, Inc. Medical Benefit Plan",Chai Chee,796,2008-07-01 00:00:00,"Loss, Unauthorized Access/Disclosure","Laptop, Desktop Computer, Other Portable Electronic Device",2014-04-21,,2008-01-07,2008
+855,856,State Employee Group Insurance Plan,Chai Chee,1699,2008-07-01 00:00:00,"Loss, Unauthorized Access/Disclosure","Laptop, Desktop Computer, Other Portable Electronic Device",2014-04-21,,2008-01-07,2008
+856,857,University of Minnesota Employee Benefits,Chai Chee,715,2008-07-01 00:00:00,"Loss, Unauthorized Access/Disclosure","Laptop, Desktop Computer, Other Portable Electronic Device",2014-04-21,,2008-01-07,2008
+857,858,San Francisco General Hospital & Trauma Center,Yio Chu Kang,55900,2014-05-02 00:00:00,Theft,Desktop Computer,2014-05-30,,2014-02-05,2014
+858,859,University of Kentucky UK HealthCare,Kembangan,1079,2014-04-02 00:00:00,Theft,Laptop,2014-04-21,,2014-02-04,2014
+859,860,Yellowstone Boys and Girls Ranch,Telok Blangah,543,2013-11-07 00:00:00,Theft,Paper,2014-06-24,,2013-07-11,2013
+860,861,"Orlando Health, Inc.",Sembawang,586,1/28/2014,Loss,Other Portable Electronic Device,2014-04-21,,2014-01-28,2014
+861,862,NOVA Chiropractic & Rehab Center,Marine Parade,5534,1/30/2014,"Loss, Other",Other Portable Electronic Device,2014-04-21,,2014-01-30,2014
+862,863,Susquehanna Health,Serangoon,657,2013-05-12 00:00:00,Unauthorized Access/Disclosure,E-mail,2014-04-21,,2013-12-05,2013
+863,864,Jewish Hospital,Kembangan,2992,1/15/2014,Other,E-mail,2014-04-21,,2014-01-15,2014
+864,865,Franciscan Medical Group,Punggol,8300,1/15/2014,Other,E-mail,2014-04-21,,2014-01-15,2014
+865,866,Palomar Health,Yio Chu Kang,5499,2/21/2014,Theft,Other Portable Electronic Device,2014-04-21,,2014-02-21,2014
+866,867,"Myriad Genetic Laboratories, Inc.",Farrer Park,643,2013-06-03 00:00:00,Unauthorized Access/Disclosure,E-mail,2014-06-03,,2013-03-06,2013
+867,868,Medical Center of Plano,Yishun,1000,2013-10-12 00:00:00,Unauthorized Access/Disclosure,Other,2014-06-03,,2013-12-10,2013
+868,869,Florida Healthy Kids Corporation,Sembawang,580,11/13/2013,Unauthorized Access/Disclosure,Paper,2014-04-21,,2013-11-13,2013
+869,870,"Midwest Orthopaedics at Rush, LLC",Boon Lay,1256,2014-10-02 00:00:00,Hacking/IT Incident,E-mail,2014-04-21,,2014-02-10,2014
+870,871,Texas Health and Human Services Commission,Yishun,2934,2014-02-02 00:00:00,Theft,"Laptop, Desktop Computer, Other Portable Electronic Device",2014-04-21,,2014-02-02,2014
+871,872,Kaiser Permanente Northern CA Department of Research,Yio Chu Kang,5178,10/18/2011,Hacking/IT Incident,Network Server,2014-06-02,,2011-10-18,2011
+872,873,Triple-S Salud ,Ang Mo Kio,5795,2013-01-01 00:00:00,Theft,Other,2014-06-24,,2013-01-01,2013
+873,874,American Health Inc. ,Ang Mo Kio,17776,2013-01-01 00:00:00,Theft,Other,2014-06-27,,2013-01-01,2013
+874,875,"State Long Term Care Ombudsman's Office, Michigan Department of Community Health",Newton,2595,1/30/2014,Theft,Other Portable Electronic Device,2014-04-21,,2014-01-30,2014
+875,876,County of Los Angeles,Yio Chu Kang,338700,2014-05-02 00:00:00,Theft,"Desktop Computer, E-mail",2014-04-21,,2014-02-05,2014
+876,877,Presence St. Joseph's Medical Center,Boon Lay,836,10/22/2013,Other,Paper,2014-06-03,,2013-10-22,2013
+877,878,"Clinical Reference Laboratory, Inc.",Alexandra,979,2014-06-02 00:00:00,Loss,Paper,2014-04-21,,2014-02-06,2014
+878,879,Various Health Plans,Admiralty,527,2014-05-03 00:00:00,Loss,Paper,2014-06-27,,2014-03-05,2014
+879,880,"Amerigroup Texas, Inc. ",Marine Parade,75026,2012-01-04 00:00:00,Theft,Paper,2014-05-13,,2012-04-01,2012
+880,881,BLUE CROSS AND BLUE SHIELD OF KANSAS CITY,Queenstown,2546,8/16/2013,Unauthorized Access/Disclosure,Other,2014-04-21,,2013-08-16,2013
+881,882,"University Urology, P.C.",Bishan,1144,2013-07-03 00:00:00,Unauthorized Access/Disclosure,Paper,2014-05-13,,2013-03-07,2013
+882,883,"Healthy Connections, Inc",Yio Chu Kang,793,3/25/2014,Loss,Other Portable Electronic Device,2014-06-03,,2014-03-25,2014
+883,884,Administracion de Seguros de Salud,Ang Mo Kio,46473,2013-08-05 00:00:00,Theft,Other Portable Electronic Device,2014-06-03,,2013-05-08,2013
+884,885,Greenwood Leflore Hospital,Yishun,3750,2/23/2014,Theft,Other,2014-05-09,,2014-02-23,2014
+885,886,Maryland Developmental Disabilities Administration,Tanglin,10766,11/27/2013,"Unauthorized Access/Disclosure, Hacking/IT Incident",Network Server,2014-06-11,,2013-11-27,2013
+886,887,Los Robles Hospital and Medical Center,Yio Chu Kang,2523,2/14/2014,"Theft, Unauthorized Access/Disclosure",Paper,2014-05-09,,2014-02-14,2014
+887,888,Shaker Clinic,Jurong East,617,2/18/2014,Loss,Paper,2014-05-27,,2014-02-18,2014
+888,889,VGM Homelink,Bukit Merah,1400,2/28/2014,Other,Other,2014-05-27,,2014-02-28,2014
+889,890,Larsen Dental Care LLC,Woodlands,6900,2014-04-03 00:00:00,Theft,Other Portable Electronic Device,2014-05-27,,2014-03-04,2014
+890,891,The Union Labor Life Insurance Company,Tanglin,46771,2/17/2014,Theft,Laptop,2014-05-27,,2014-02-17,2014
+891,892,Coordinated Health,Serangoon,733,2/21/2014,Theft,Laptop,2014-05-29,,2014-02-21,2014
+892,893,CENTURA HEALTH,Redhill,12286,2014-11-02 00:00:00,Hacking/IT Incident,E-mail,2014-05-29,,2014-02-11,2014
+893,894,"Ladies First Choice, Inc.",Sembawang,2365,2013-01-01 00:00:00,"Theft, Unauthorized Access/Disclosure",Laptop,2014-05-29,,2013-01-01,2013
+894,895,"Tufts Associated Health Maintenance Organization, Inc. and Tufts Insurance Company ",Paya Lebar,8830,2014-10-04 00:00:00,Theft,Other,2014-05-09,,2014-04-10,2014
+895,896,Developmental Disabilities Administration,Tanglin,2200,2014-03-03 00:00:00,Unauthorized Access/Disclosure,Paper,2014-05-29,,2014-03-03,2014
+896,897,Willis North America Inc. Medical Expense Benefit Plan,Sengkang,4830,3/19/2014,Unauthorized Access/Disclosure,E-mail,2014-05-29,,2014-03-19,2014
+897,898,Sorenson Communications/CaptionCall Group Health Plan,Farrer Park,9800,2/20/2014,Hacking/IT Incident,Network Server,2014-05-27,,2014-02-20,2014
+898,899,Baylor Medical Center at McKinney,Yishun,1253,1/23/2014,Hacking/IT Incident,E-mail,2014-05-09,,2014-01-23,2014
+899,900,Baylor Medical Center at Irving,Yishun,2308,1/23/2014,Hacking/IT Incident,E-mail,2014-05-09,,2014-01-23,2014
+900,901,Baylor Regional Medical Center at Plano,Yishun,1981,1/23/2014,Hacking/IT Incident,E-mail,2014-05-07,,2014-01-23,2014
+901,902,HealthTexas Provider Network,Yishun,2742,1/23/2014,Hacking/IT Incident,E-mail,2014-05-07,,2014-01-23,2014
+902,903,DeKalb Health,Novena,1361,2014-09-02 00:00:00,Hacking/IT Incident,Network Server,2014-05-27,,2014-02-09,2014
+903,904,Iowa Medicaid Enterprise,Bukit Merah,862,2/26/2014,Unauthorized Access/Disclosure,Paper,2014-05-29,,2014-02-26,2014
+904,905,Flowers Hospital,Clementi,629,2013-03-06 00:00:00,Theft,Paper,2014-06-20,,2013-06-03,2013
+905,906,Reading Health System,Serangoon,1845,2012-02-03 00:00:00,Loss,Paper,2014-05-27,,2012-03-02,2012
+906,907,City of Cincinnati,Jurong East,5696,2014-04-04 00:00:00,Other,Paper,2014-05-07,,2014-04-04,2014
+907,908,UMass Memorial Medical Center,Paya Lebar,2387,2002-06-05 00:00:00,Unauthorized Access/Disclosure,"Electronic Medical Record, Paper",2014-05-27,,2002-05-06,2002
+908,909,The City of Henderson,Kembangan,1008,6/27/2012,Other,E-mail,2014-05-27,,2012-06-27,2012
+909,910,Options Counseling Center,Bedok,2828,2011-01-05 00:00:00,"Theft, Unauthorized Access/Disclosure",Paper,2014-06-18,,2011-05-01,2011
+910,911,"Molina Healthcare of California Partner Plan, Inc.",Yio Chu Kang,4744,3/18/2014,Other,Paper,2014-05-27,,2014-03-18,2014
+911,912,Howard L. Weinstein D.P.M.,Yishun,1000,3/13/2014,Theft,Laptop,2014-05-27,,2014-03-13,2014
+912,913,"Bio-Reference Laboratories, Inc.",Bedok,1749,2014-02-02 00:00:00,Other,Network Server,2014-06-18,,2014-02-02,2014
+913,914,American Health Inc. ,Ang Mo Kio,11531,9/20/2013,Unauthorized Access/Disclosure,Paper,2014-06-18,,2013-09-20,2013
+914,915,Central City Concern,Boon Keng,17914,3/23/2010,Unauthorized Access/Disclosure,Other,2014-06-18,,2010-03-23,2010
+915,916,Blue Cross Blue Shield of Michigan/Blue Care Network,Newton,502,2/15/2014,"Unauthorized Access/Disclosure, Hacking/IT Incident",E-mail,2014-06-18,,2014-02-15,2014
+916,917,Elliot Health System,Macpherson,1208,3/26/2014,Theft,Desktop Computer,2014-06-18,,2014-03-26,2014
+917,918,Humana Inc [case #15381],Kembangan,2962,2014-02-04 00:00:00,Theft,Other Portable Electronic Device,2014-06-18,,2014-04-02,2014
+918,919,Jamaica Hospital Medical Center,Sengkang,26162,2011-01-08 00:00:00,Unauthorized Access/Disclosure,Desktop Computer,2014-06-18,,2011-08-01,2011
+919,920,Bay Park Hospital,Jurong East,594,2013-01-04 00:00:00,Unauthorized Access/Disclosure,"Network Server, Electronic Medical Record",2014-06-18,,2013-04-01,2013
+920,921,Triple-S Salud ,Ang Mo Kio,56853,9/20/2013,Unauthorized Access/Disclosure,Paper,2014-06-18,,2013-09-20,2013
+921,922,Aetna Life Insurance Company,Admiralty,3814,2014-02-04 00:00:00,Theft,Laptop,2014-06-18,,2014-04-02,2014
+922,923,Salina Health Education Foundation dba Salina Family Healthcare Center,Alexandra,9640,2014-08-04 00:00:00,Unauthorized Access/Disclosure,E-mail,2014-06-20,,2014-04-08,2014
+923,924,Highmark Inc.,Serangoon,2589,4/19/2014,"Loss, Unauthorized Access/Disclosure",Paper,2014-06-27,,2014-04-19,2014
+924,925,Mark A. Gillispie,Yio Chu Kang,5845,11/20/2013,Theft,Desktop Computer,2014-06-27,,2013-11-20,2013
+925,926,Penn State Milton S Hershey Medical Center,Serangoon,1801,9/13/2013,Other,"E-mail, Other Portable Electronic Device",2014-06-27,,2013-09-13,2013
+926,927,Walgreen Co.,Boon Lay,540,2014-03-03 00:00:00,Theft,"Desktop Computer, Paper",2014-06-20,,2014-03-03,2014
+927,928,St. Francis Hospital,Eunos,1175,5/30/2014,Other,E-mail,2014-06-18,,2014-05-30,2014
+928,929,Puerto Rico Health Insurance ,Ang Mo Kio,28413,9/20/2013,Theft,Other,2014-06-27,,2013-09-20,2013
+929,930,"Hospitalists of Brandon, LLC",Sembawang,1831,2014-11-02 00:00:00,Hacking/IT Incident,Other,2014-06-27,,2014-02-11,2014
+930,931,Santa Rosa Memorial Hospital ,Yio Chu Kang,33702,2014-02-06 00:00:00,"Theft, Loss",Other Portable Electronic Device,2014-06-27,,2014-06-02,2014
+931,932,Group Health Plan of Hurley Medical Center,Newton,2289,5/13/2014,Unauthorized Access/Disclosure,E-mail,2014-06-27,,2014-05-13,2014
+932,933,"Abrham Tekola, M.D.,INC",Yio Chu Kang,5471,5/27/2014,Theft,Desktop Computer,2014-06-27,,2014-05-27,2014
